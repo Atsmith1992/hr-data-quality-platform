@@ -1,0 +1,641 @@
+submission_id,partner,submission_type,submitted_date,status,rejection_comment,specialist
+SS80000,Partner C,New Hire,2026-08-12,Complete,,SPEC04
+SS80001,Partner D,Termination,2026-09-11,Complete,,SPEC03
+SS80002,Partner D,Temp Extension,2026-07-21,Complete,,SPEC02
+SS80003,Partner G,New Hire,2026-09-18,In Progress,,SPEC04
+SS80004,Partner C,Temp Extension,2026-10-09,In Progress,,SPEC02
+SS80005,Partner B,CW Request,2026-09-28,Complete,,SPEC03
+SS80006,Partner D,Termination,2026-10-06,Complete,,SPEC03
+SS80007,Partner F,Transfer,2026-09-10,Rejected,Missing salary information,SPEC04
+SS80008,Partner B,CW Request,2026-09-09,Complete,,SPEC02
+SS80009,Partner B,Temp Extension,2026-09-02,Rejected,Missing salary information,SPEC02
+SS80010,Partner C,Temp Extension,2026-07-11,Complete,,SPEC04
+SS80011,Partner G,Temp Extension,2026-07-26,Complete,,SPEC02
+SS80012,Partner C,Termination,2026-08-22,Complete,,SPEC04
+SS80013,Partner B,New Hire,2026-08-22,Complete,,SPEC04
+SS80014,Partner F,Termination,2026-09-11,Complete,,SPEC02
+SS80015,Partner E,CW Request,2026-10-09,Complete,,SPEC04
+SS80016,Partner A,Transfer,2026-09-25,In Progress,,SPEC01
+SS80017,Partner A,CW Request,2026-09-22,Complete,,SPEC04
+SS80018,Partner A,New Hire,2026-09-02,Rejected,Blocked position,SPEC04
+SS80019,Partner B,Temp Extension,2026-09-27,Complete,,SPEC01
+SS80020,Partner A,CW Request,2026-08-24,Complete,,SPEC01
+SS80021,Partner E,Temp Extension,2026-10-02,Complete,,SPEC02
+SS80022,Partner A,New Hire,2026-08-06,Complete,,SPEC02
+SS80023,Partner E,Temp Extension,2026-08-20,Complete,,SPEC03
+SS80024,Partner G,CW Request,2026-09-20,Complete,,SPEC03
+SS80025,Partner C,Transfer,2026-10-13,Complete,,SPEC01
+SS80026,Partner D,CW Request,2026-10-12,Rejected,Missing salary information,SPEC03
+SS80027,Partner A,CW Request,2026-08-03,Complete,,SPEC01
+SS80028,Partner F,Temp Extension,2026-09-28,Rejected,Effective date in the past,SPEC03
+SS80029,Partner E,CW Request,2026-08-22,Complete,,SPEC01
+SS80030,Partner D,CW Request,2026-07-29,Complete,,SPEC02
+SS80031,Partner E,New Hire,2026-08-19,Complete,,SPEC03
+SS80032,Partner G,New Hire,2026-07-15,Complete,,SPEC02
+SS80033,Partner E,CW Request,2026-07-05,Complete,,SPEC01
+SS80034,Partner B,Termination,2026-08-04,Rejected,Blocked position,SPEC04
+SS80035,Partner F,Temp Extension,2026-09-23,Complete,,SPEC03
+SS80036,Partner E,Termination,2026-07-06,Complete,,SPEC03
+SS80037,Partner A,New Hire,2026-08-25,Complete,,SPEC02
+SS80038,Partner A,Termination,2026-09-08,Rejected,Missing position number,SPEC01
+SS80039,Partner D,Termination,2026-09-13,Rejected,Duplicate submission,SPEC01
+SS80040,Partner G,Termination,2026-09-22,Rejected,Blocked position,SPEC01
+SS80041,Partner B,Temp Extension,2026-08-23,In Progress,,SPEC04
+SS80042,Partner E,New Hire,2026-09-18,Complete,,SPEC02
+SS80043,Partner C,Transfer,2026-08-03,Complete,,SPEC03
+SS80044,Partner C,Transfer,2026-07-08,Complete,,SPEC02
+SS80045,Partner A,Temp Extension,2026-09-11,In Progress,,SPEC01
+SS80046,Partner D,CW Request,2026-07-13,Complete,,SPEC04
+SS80047,Partner A,Temp Extension,2026-07-13,Rejected,Duplicate submission,SPEC01
+SS80048,Partner G,Transfer,2026-07-18,Complete,,SPEC01
+SS80049,Partner E,New Hire,2026-07-18,Complete,,SPEC04
+SS80050,Partner F,Transfer,2026-09-05,Complete,,SPEC01
+SS80051,Partner C,Transfer,2026-09-07,Rejected,Effective date in the past,SPEC03
+SS80052,Partner C,Temp Extension,2026-09-28,Complete,,SPEC02
+SS80053,Partner D,CW Request,2026-08-17,Complete,,SPEC03
+SS80054,Partner G,CW Request,2026-07-10,Complete,,SPEC01
+SS80055,Partner A,Temp Extension,2026-08-08,Complete,,SPEC01
+SS80056,Partner F,New Hire,2026-10-09,Complete,,SPEC03
+SS80057,Partner B,Transfer,2026-07-16,Rejected,Incorrect position,SPEC03
+SS80058,Partner A,Transfer,2026-07-11,Rejected,Incorrect position,SPEC02
+SS80059,Partner C,CW Request,2026-09-23,Rejected,Effective date in the past,SPEC02
+SS80060,Partner D,CW Request,2026-08-02,Rejected,Incorrect position,SPEC03
+SS80061,Partner B,Transfer,2026-10-05,Complete,,SPEC03
+SS80062,Partner A,Termination,2026-08-06,Rejected,Effective date in the past,SPEC01
+SS80063,Partner F,CW Request,2026-09-15,Complete,,SPEC03
+SS80064,Partner E,Termination,2026-08-24,Complete,,SPEC03
+SS80065,Partner E,CW Request,2026-07-29,In Progress,,SPEC01
+SS80066,Partner C,Termination,2026-08-25,Complete,,SPEC04
+SS80067,Partner B,CW Request,2026-08-07,Complete,,SPEC02
+SS80068,Partner D,New Hire,2026-08-28,Complete,,SPEC04
+SS80069,Partner B,Termination,2026-08-21,Complete,,SPEC03
+SS80070,Partner D,Temp Extension,2026-07-03,Complete,,SPEC01
+SS80071,Partner C,Termination,2026-07-15,Complete,,SPEC01
+SS80072,Partner G,Temp Extension,2026-07-24,Complete,,SPEC04
+SS80073,Partner G,New Hire,2026-07-01,In Progress,,SPEC04
+SS80074,Partner D,New Hire,2026-09-25,Complete,,SPEC01
+SS80075,Partner D,Transfer,2026-07-01,Rejected,Effective date in the past,SPEC04
+SS80076,Partner B,New Hire,2026-07-16,Rejected,Incorrect position,SPEC02
+SS80077,Partner B,CW Request,2026-07-19,Rejected,Blocked position,SPEC02
+SS80078,Partner E,New Hire,2026-09-07,Complete,,SPEC03
+SS80079,Partner G,Transfer,2026-08-15,In Progress,,SPEC03
+SS80080,Partner A,New Hire,2026-07-05,Rejected,Duplicate submission,SPEC03
+SS80081,Partner D,New Hire,2026-07-30,Complete,,SPEC01
+SS80082,Partner F,Transfer,2026-08-14,Rejected,Duplicate submission,SPEC01
+SS80083,Partner G,Termination,2026-07-25,Complete,,SPEC04
+SS80084,Partner B,CW Request,2026-09-14,Rejected,Blocked position,SPEC01
+SS80085,Partner G,Termination,2026-07-16,Complete,,SPEC03
+SS80086,Partner D,New Hire,2026-09-15,Complete,,SPEC02
+SS80087,Partner A,CW Request,2026-07-03,Complete,,SPEC01
+SS80088,Partner C,Termination,2026-09-30,In Progress,,SPEC02
+SS80089,Partner C,Termination,2026-10-06,Rejected,Blocked position,SPEC01
+SS80090,Partner F,Temp Extension,2026-09-10,Rejected,Effective date in the past,SPEC04
+SS80091,Partner C,Transfer,2026-09-09,Complete,,SPEC01
+SS80092,Partner F,CW Request,2026-09-17,Complete,,SPEC04
+SS80093,Partner B,Temp Extension,2026-09-10,Complete,,SPEC01
+SS80094,Partner F,Temp Extension,2026-09-10,Complete,,SPEC01
+SS80095,Partner F,Transfer,2026-10-14,Rejected,Duplicate submission,SPEC04
+SS80096,Partner C,Transfer,2026-10-14,Complete,,SPEC01
+SS80097,Partner C,CW Request,2026-08-11,In Progress,,SPEC04
+SS80098,Partner G,CW Request,2026-08-09,Complete,,SPEC01
+SS80099,Partner E,Transfer,2026-09-12,Complete,,SPEC01
+SS80100,Partner G,Temp Extension,2026-09-11,Complete,,SPEC03
+SS80101,Partner C,CW Request,2026-09-16,Complete,,SPEC04
+SS80102,Partner A,New Hire,2026-08-19,Complete,,SPEC04
+SS80103,Partner B,Termination,2026-08-17,Rejected,Effective date in the past,SPEC01
+SS80104,Partner A,Transfer,2026-08-26,Complete,,SPEC02
+SS80105,Partner D,New Hire,2026-08-08,Complete,,SPEC01
+SS80106,Partner B,New Hire,2026-09-04,Complete,,SPEC04
+SS80107,Partner F,CW Request,2026-07-21,Complete,,SPEC04
+SS80108,Partner C,Temp Extension,2026-10-08,Complete,,SPEC02
+SS80109,Partner C,New Hire,2026-09-07,Complete,,SPEC02
+SS80110,Partner B,Termination,2026-07-23,Complete,,SPEC01
+SS80111,Partner G,New Hire,2026-08-28,Rejected,Duplicate submission,SPEC02
+SS80112,Partner C,Termination,2026-08-13,Complete,,SPEC04
+SS80113,Partner E,CW Request,2026-08-13,Complete,,SPEC03
+SS80114,Partner G,New Hire,2026-08-19,Complete,,SPEC04
+SS80115,Partner E,New Hire,2026-07-21,Complete,,SPEC03
+SS80116,Partner D,Transfer,2026-07-29,Rejected,Duplicate submission,SPEC02
+SS80117,Partner E,CW Request,2026-08-07,Complete,,SPEC02
+SS80118,Partner G,CW Request,2026-10-12,Rejected,Blocked position,SPEC04
+SS80119,Partner B,New Hire,2026-07-18,Rejected,Missing salary information,SPEC04
+SS80120,Partner D,CW Request,2026-09-15,Rejected,Missing position number,SPEC04
+SS80121,Partner B,Termination,2026-07-21,Rejected,Missing salary information,SPEC02
+SS80122,Partner G,Termination,2026-07-12,Complete,,SPEC02
+SS80123,Partner A,Transfer,2026-09-14,Complete,,SPEC04
+SS80124,Partner D,Temp Extension,2026-07-01,Complete,,SPEC02
+SS80125,Partner G,New Hire,2026-07-28,Complete,,SPEC02
+SS80126,Partner E,New Hire,2026-08-08,Complete,,SPEC03
+SS80127,Partner A,New Hire,2026-08-23,Complete,,SPEC01
+SS80128,Partner A,Transfer,2026-07-28,Complete,,SPEC02
+SS80129,Partner D,New Hire,2026-09-16,Complete,,SPEC01
+SS80130,Partner F,CW Request,2026-09-21,Rejected,Incorrect position,SPEC04
+SS80131,Partner A,Transfer,2026-08-13,Complete,,SPEC03
+SS80132,Partner F,CW Request,2026-10-03,Complete,,SPEC03
+SS80133,Partner A,CW Request,2026-09-18,Complete,,SPEC02
+SS80134,Partner B,Termination,2026-10-02,Rejected,Blocked position,SPEC02
+SS80135,Partner F,Temp Extension,2026-09-22,Rejected,Duplicate submission,SPEC04
+SS80136,Partner D,CW Request,2026-10-07,Complete,,SPEC03
+SS80137,Partner D,Termination,2026-08-01,Complete,,SPEC01
+SS80138,Partner E,Termination,2026-07-26,Complete,,SPEC01
+SS80139,Partner A,Temp Extension,2026-08-24,In Progress,,SPEC04
+SS80140,Partner C,Transfer,2026-09-23,Rejected,Effective date in the past,SPEC04
+SS80141,Partner A,CW Request,2026-07-21,Complete,,SPEC03
+SS80142,Partner D,Temp Extension,2026-09-23,Complete,,SPEC01
+SS80143,Partner B,New Hire,2026-09-25,Rejected,Missing position number,SPEC04
+SS80144,Partner D,Temp Extension,2026-07-04,Complete,,SPEC04
+SS80145,Partner F,Termination,2026-08-01,Complete,,SPEC02
+SS80146,Partner F,CW Request,2026-08-15,Complete,,SPEC01
+SS80147,Partner G,CW Request,2026-10-01,Complete,,SPEC03
+SS80148,Partner D,Temp Extension,2026-07-11,Rejected,Missing position number,SPEC03
+SS80149,Partner G,Termination,2026-07-25,Complete,,SPEC01
+SS80150,Partner F,Termination,2026-10-07,Rejected,Blocked position,SPEC02
+SS80151,Partner G,New Hire,2026-07-27,Complete,,SPEC04
+SS80152,Partner C,CW Request,2026-08-18,Complete,,SPEC02
+SS80153,Partner B,CW Request,2026-09-30,Complete,,SPEC04
+SS80154,Partner F,Temp Extension,2026-08-22,Complete,,SPEC01
+SS80155,Partner C,CW Request,2026-07-18,Complete,,SPEC01
+SS80156,Partner G,New Hire,2026-10-13,Complete,,SPEC03
+SS80157,Partner B,Temp Extension,2026-08-07,Complete,,SPEC04
+SS80158,Partner G,Transfer,2026-08-17,Complete,,SPEC02
+SS80159,Partner D,Termination,2026-08-10,Rejected,Incorrect position,SPEC02
+SS80160,Partner G,Temp Extension,2026-08-16,Complete,,SPEC03
+SS80161,Partner G,Temp Extension,2026-08-22,Complete,,SPEC04
+SS80162,Partner E,Temp Extension,2026-07-21,Complete,,SPEC03
+SS80163,Partner F,New Hire,2026-07-03,Complete,,SPEC02
+SS80164,Partner C,Temp Extension,2026-09-13,Rejected,Blocked position,SPEC04
+SS80165,Partner C,Termination,2026-07-15,Complete,,SPEC01
+SS80166,Partner G,Transfer,2026-10-05,Complete,,SPEC04
+SS80167,Partner F,CW Request,2026-07-30,Complete,,SPEC01
+SS80168,Partner E,Transfer,2026-08-02,Complete,,SPEC03
+SS80169,Partner G,Transfer,2026-09-12,Complete,,SPEC04
+SS80170,Partner G,Termination,2026-07-01,Complete,,SPEC02
+SS80171,Partner C,Temp Extension,2026-09-09,In Progress,,SPEC01
+SS80172,Partner C,Temp Extension,2026-10-01,Complete,,SPEC02
+SS80173,Partner C,CW Request,2026-08-07,Complete,,SPEC01
+SS80174,Partner D,Transfer,2026-09-22,Rejected,Missing salary information,SPEC02
+SS80175,Partner A,CW Request,2026-09-26,Complete,,SPEC02
+SS80176,Partner G,Temp Extension,2026-09-21,Complete,,SPEC02
+SS80177,Partner F,CW Request,2026-09-28,Rejected,Duplicate submission,SPEC03
+SS80178,Partner C,Temp Extension,2026-09-01,Rejected,Effective date in the past,SPEC04
+SS80179,Partner A,Temp Extension,2026-09-19,Complete,,SPEC02
+SS80180,Partner G,CW Request,2026-08-24,Complete,,SPEC01
+SS80181,Partner A,Transfer,2026-07-04,Complete,,SPEC01
+SS80182,Partner F,Termination,2026-09-03,In Progress,,SPEC02
+SS80183,Partner D,CW Request,2026-07-27,Complete,,SPEC02
+SS80184,Partner D,CW Request,2026-08-18,Complete,,SPEC02
+SS80185,Partner F,Temp Extension,2026-09-02,Complete,,SPEC01
+SS80186,Partner F,New Hire,2026-08-12,Rejected,Duplicate submission,SPEC03
+SS80187,Partner E,Temp Extension,2026-09-15,Complete,,SPEC03
+SS80188,Partner D,New Hire,2026-07-15,Complete,,SPEC02
+SS80189,Partner C,New Hire,2026-09-11,In Progress,,SPEC03
+SS80190,Partner A,New Hire,2026-07-10,Complete,,SPEC03
+SS80191,Partner C,Temp Extension,2026-08-14,Complete,,SPEC01
+SS80192,Partner E,Transfer,2026-09-06,Complete,,SPEC01
+SS80193,Partner C,New Hire,2026-07-08,Complete,,SPEC03
+SS80194,Partner B,Temp Extension,2026-08-19,Rejected,Missing salary information,SPEC03
+SS80195,Partner A,Termination,2026-07-25,Complete,,SPEC01
+SS80196,Partner C,Transfer,2026-08-31,Complete,,SPEC03
+SS80197,Partner C,Transfer,2026-07-06,Complete,,SPEC01
+SS80198,Partner A,CW Request,2026-08-10,Complete,,SPEC04
+SS80199,Partner A,Temp Extension,2026-09-09,Complete,,SPEC01
+SS80200,Partner E,Temp Extension,2026-10-10,Rejected,Duplicate submission,SPEC01
+SS80201,Partner D,CW Request,2026-09-27,Complete,,SPEC02
+SS80202,Partner D,Temp Extension,2026-07-12,Complete,,SPEC04
+SS80203,Partner D,CW Request,2026-08-24,Complete,,SPEC04
+SS80204,Partner G,Temp Extension,2026-08-15,Complete,,SPEC02
+SS80205,Partner F,Temp Extension,2026-07-09,Rejected,Effective date in the past,SPEC01
+SS80206,Partner F,New Hire,2026-08-12,Rejected,Missing salary information,SPEC02
+SS80207,Partner C,Termination,2026-09-21,Complete,,SPEC03
+SS80208,Partner D,Transfer,2026-09-08,Complete,,SPEC03
+SS80209,Partner B,CW Request,2026-09-22,Complete,,SPEC02
+SS80210,Partner C,Temp Extension,2026-09-23,Complete,,SPEC04
+SS80211,Partner G,Termination,2026-09-10,Complete,,SPEC03
+SS80212,Partner E,Temp Extension,2026-08-24,Complete,,SPEC02
+SS80213,Partner A,Transfer,2026-07-01,Complete,,SPEC03
+SS80214,Partner B,Temp Extension,2026-07-23,Rejected,Effective date in the past,SPEC04
+SS80215,Partner D,Transfer,2026-08-02,Complete,,SPEC03
+SS80216,Partner G,New Hire,2026-07-22,Complete,,SPEC03
+SS80217,Partner C,Transfer,2026-07-01,Complete,,SPEC04
+SS80218,Partner G,New Hire,2026-09-07,In Progress,,SPEC04
+SS80219,Partner B,New Hire,2026-09-20,Complete,,SPEC02
+SS80220,Partner E,Transfer,2026-08-31,Complete,,SPEC04
+SS80221,Partner D,New Hire,2026-07-16,Complete,,SPEC03
+SS80222,Partner B,Temp Extension,2026-09-22,Complete,,SPEC04
+SS80223,Partner B,CW Request,2026-07-08,Rejected,Missing position number,SPEC04
+SS80224,Partner A,New Hire,2026-10-14,Complete,,SPEC03
+SS80225,Partner B,Termination,2026-09-01,Rejected,Blocked position,SPEC01
+SS80226,Partner C,Temp Extension,2026-10-14,Complete,,SPEC04
+SS80227,Partner D,CW Request,2026-10-09,Rejected,Duplicate submission,SPEC04
+SS80228,Partner A,CW Request,2026-09-19,Complete,,SPEC04
+SS80229,Partner C,Temp Extension,2026-08-14,Complete,,SPEC04
+SS80230,Partner G,Termination,2026-07-06,Complete,,SPEC04
+SS80231,Partner E,Transfer,2026-08-06,Complete,,SPEC01
+SS80232,Partner A,Termination,2026-07-20,Complete,,SPEC03
+SS80233,Partner B,Temp Extension,2026-09-26,Complete,,SPEC02
+SS80234,Partner G,Transfer,2026-09-27,Complete,,SPEC01
+SS80235,Partner E,Termination,2026-08-01,Rejected,Missing salary information,SPEC01
+SS80236,Partner D,Termination,2026-08-31,Rejected,Duplicate submission,SPEC02
+SS80237,Partner D,New Hire,2026-08-12,Rejected,Effective date in the past,SPEC01
+SS80238,Partner A,Termination,2026-07-05,Complete,,SPEC01
+SS80239,Partner A,Transfer,2026-08-23,Rejected,Missing position number,SPEC01
+SS80240,Partner E,Temp Extension,2026-08-14,Rejected,Missing salary information,SPEC02
+SS80241,Partner F,Temp Extension,2026-08-13,Rejected,Missing salary information,SPEC04
+SS80242,Partner G,Transfer,2026-07-29,Complete,,SPEC02
+SS80243,Partner C,New Hire,2026-09-15,Complete,,SPEC03
+SS80244,Partner E,CW Request,2026-07-12,Complete,,SPEC04
+SS80245,Partner B,CW Request,2026-08-22,In Progress,,SPEC04
+SS80246,Partner G,Transfer,2026-10-12,Complete,,SPEC02
+SS80247,Partner A,Temp Extension,2026-09-27,Complete,,SPEC04
+SS80248,Partner D,CW Request,2026-07-19,Complete,,SPEC03
+SS80249,Partner C,CW Request,2026-07-22,In Progress,,SPEC04
+SS80250,Partner F,New Hire,2026-07-06,Rejected,Missing position number,SPEC02
+SS80251,Partner A,New Hire,2026-07-12,Complete,,SPEC04
+SS80252,Partner G,New Hire,2026-09-14,Rejected,Missing position number,SPEC03
+SS80253,Partner C,Transfer,2026-09-02,Complete,,SPEC04
+SS80254,Partner F,New Hire,2026-09-21,Rejected,Duplicate submission,SPEC02
+SS80255,Partner B,Temp Extension,2026-09-22,In Progress,,SPEC04
+SS80256,Partner E,Transfer,2026-10-12,Complete,,SPEC01
+SS80257,Partner A,CW Request,2026-07-07,Complete,,SPEC02
+SS80258,Partner A,CW Request,2026-07-15,Complete,,SPEC03
+SS80259,Partner G,New Hire,2026-07-23,Complete,,SPEC02
+SS80260,Partner C,Termination,2026-07-09,Complete,,SPEC02
+SS80261,Partner E,CW Request,2026-10-03,Complete,,SPEC03
+SS80262,Partner F,Temp Extension,2026-08-23,Rejected,Effective date in the past,SPEC01
+SS80263,Partner B,Temp Extension,2026-07-22,Complete,,SPEC01
+SS80264,Partner E,New Hire,2026-07-18,In Progress,,SPEC04
+SS80265,Partner E,CW Request,2026-08-08,Rejected,Effective date in the past,SPEC03
+SS80266,Partner G,New Hire,2026-08-14,In Progress,,SPEC02
+SS80267,Partner A,New Hire,2026-07-05,In Progress,,SPEC02
+SS80268,Partner F,Transfer,2026-07-02,Complete,,SPEC04
+SS80269,Partner D,CW Request,2026-08-27,Complete,,SPEC03
+SS80270,Partner B,CW Request,2026-07-16,Rejected,Duplicate submission,SPEC03
+SS80271,Partner B,CW Request,2026-07-30,Complete,,SPEC04
+SS80272,Partner F,New Hire,2026-10-05,Complete,,SPEC04
+SS80273,Partner G,Temp Extension,2026-09-27,Complete,,SPEC04
+SS80274,Partner D,Transfer,2026-09-23,Complete,,SPEC02
+SS80275,Partner D,Temp Extension,2026-09-08,Complete,,SPEC03
+SS80276,Partner A,Temp Extension,2026-10-08,Rejected,Duplicate submission,SPEC02
+SS80277,Partner D,Transfer,2026-09-14,Complete,,SPEC04
+SS80278,Partner D,CW Request,2026-09-27,Complete,,SPEC02
+SS80279,Partner D,New Hire,2026-08-20,In Progress,,SPEC03
+SS80280,Partner B,CW Request,2026-09-25,Rejected,Duplicate submission,SPEC01
+SS80281,Partner D,CW Request,2026-07-31,Complete,,SPEC01
+SS80282,Partner B,CW Request,2026-08-31,Complete,,SPEC02
+SS80283,Partner D,CW Request,2026-09-02,Complete,,SPEC01
+SS80284,Partner E,CW Request,2026-08-17,In Progress,,SPEC01
+SS80285,Partner C,New Hire,2026-09-29,Rejected,Incorrect position,SPEC01
+SS80286,Partner G,Temp Extension,2026-08-12,Complete,,SPEC02
+SS80287,Partner E,Transfer,2026-09-14,Rejected,Incorrect position,SPEC04
+SS80288,Partner C,CW Request,2026-09-07,Complete,,SPEC01
+SS80289,Partner G,CW Request,2026-08-24,Complete,,SPEC03
+SS80290,Partner G,CW Request,2026-07-24,Rejected,Incorrect position,SPEC03
+SS80291,Partner E,Transfer,2026-09-05,In Progress,,SPEC04
+SS80292,Partner C,New Hire,2026-09-19,Complete,,SPEC01
+SS80293,Partner G,Transfer,2026-07-03,Complete,,SPEC02
+SS80294,Partner C,New Hire,2026-09-21,Complete,,SPEC01
+SS80295,Partner D,CW Request,2026-10-05,In Progress,,SPEC04
+SS80296,Partner F,Termination,2026-07-20,In Progress,,SPEC02
+SS80297,Partner B,Temp Extension,2026-09-16,Complete,,SPEC01
+SS80298,Partner F,Temp Extension,2026-07-22,Complete,,SPEC01
+SS80299,Partner G,Transfer,2026-07-03,In Progress,,SPEC03
+SS80300,Partner G,Temp Extension,2026-09-22,Complete,,SPEC02
+SS80301,Partner C,CW Request,2026-08-27,Complete,,SPEC04
+SS80302,Partner G,Termination,2026-07-04,Complete,,SPEC03
+SS80303,Partner D,New Hire,2026-10-12,Complete,,SPEC03
+SS80304,Partner C,CW Request,2026-08-17,In Progress,,SPEC04
+SS80305,Partner C,Temp Extension,2026-09-08,Rejected,Effective date in the past,SPEC02
+SS80306,Partner C,Termination,2026-08-17,Complete,,SPEC03
+SS80307,Partner F,Temp Extension,2026-09-22,Rejected,Effective date in the past,SPEC04
+SS80308,Partner C,CW Request,2026-07-26,Complete,,SPEC03
+SS80309,Partner E,Termination,2026-09-10,Complete,,SPEC02
+SS80310,Partner F,Termination,2026-09-22,Complete,,SPEC04
+SS80311,Partner F,Temp Extension,2026-09-02,Rejected,Blocked position,SPEC04
+SS80312,Partner D,CW Request,2026-08-10,Complete,,SPEC01
+SS80313,Partner G,Temp Extension,2026-08-30,Complete,,SPEC04
+SS80314,Partner A,CW Request,2026-08-07,Complete,,SPEC04
+SS80315,Partner G,CW Request,2026-07-28,Complete,,SPEC03
+SS80316,Partner C,Temp Extension,2026-09-15,Complete,,SPEC01
+SS80317,Partner C,Termination,2026-08-10,Rejected,Missing position number,SPEC03
+SS80318,Partner F,Transfer,2026-09-07,Rejected,Incorrect position,SPEC04
+SS80319,Partner D,New Hire,2026-07-07,Rejected,Effective date in the past,SPEC02
+SS80320,Partner C,CW Request,2026-10-06,Complete,,SPEC01
+SS80321,Partner F,Transfer,2026-10-03,Complete,,SPEC02
+SS80322,Partner G,Termination,2026-08-04,Complete,,SPEC03
+SS80323,Partner F,New Hire,2026-07-31,Complete,,SPEC01
+SS80324,Partner A,Termination,2026-09-10,In Progress,,SPEC01
+SS80325,Partner C,Transfer,2026-09-27,Rejected,Duplicate submission,SPEC01
+SS80326,Partner C,New Hire,2026-09-23,Complete,,SPEC01
+SS80327,Partner C,Transfer,2026-07-09,Complete,,SPEC04
+SS80328,Partner E,Transfer,2026-10-14,Complete,,SPEC04
+SS80329,Partner E,Termination,2026-07-25,Complete,,SPEC01
+SS80330,Partner A,Termination,2026-09-12,Complete,,SPEC02
+SS80331,Partner D,Temp Extension,2026-10-13,Complete,,SPEC04
+SS80332,Partner G,Transfer,2026-10-12,Complete,,SPEC01
+SS80333,Partner F,Termination,2026-09-02,Rejected,Blocked position,SPEC02
+SS80334,Partner E,Termination,2026-08-14,Complete,,SPEC01
+SS80335,Partner C,Temp Extension,2026-07-06,Complete,,SPEC01
+SS80336,Partner E,New Hire,2026-07-11,Complete,,SPEC03
+SS80337,Partner C,Termination,2026-10-05,Complete,,SPEC04
+SS80338,Partner F,Temp Extension,2026-07-18,Rejected,Effective date in the past,SPEC02
+SS80339,Partner E,Temp Extension,2026-08-28,Complete,,SPEC04
+SS80340,Partner C,Transfer,2026-07-12,Complete,,SPEC04
+SS80341,Partner C,Transfer,2026-10-06,Complete,,SPEC01
+SS80342,Partner B,New Hire,2026-09-04,Complete,,SPEC01
+SS80343,Partner E,Temp Extension,2026-08-20,Complete,,SPEC01
+SS80344,Partner D,New Hire,2026-09-16,Complete,,SPEC02
+SS80345,Partner A,Transfer,2026-09-18,Complete,,SPEC01
+SS80346,Partner D,New Hire,2026-08-09,Complete,,SPEC03
+SS80347,Partner F,CW Request,2026-09-08,Complete,,SPEC02
+SS80348,Partner F,Temp Extension,2026-08-26,Complete,,SPEC01
+SS80349,Partner B,Transfer,2026-08-05,Complete,,SPEC01
+SS80350,Partner C,New Hire,2026-09-23,Complete,,SPEC02
+SS80351,Partner A,CW Request,2026-10-13,Complete,,SPEC03
+SS80352,Partner C,Transfer,2026-09-09,Rejected,Blocked position,SPEC02
+SS80353,Partner A,Transfer,2026-08-30,Complete,,SPEC03
+SS80354,Partner D,Transfer,2026-09-16,Complete,,SPEC01
+SS80355,Partner F,CW Request,2026-07-04,Complete,,SPEC03
+SS80356,Partner B,CW Request,2026-09-29,Complete,,SPEC03
+SS80357,Partner B,CW Request,2026-08-17,Complete,,SPEC01
+SS80358,Partner A,Transfer,2026-09-24,In Progress,,SPEC04
+SS80359,Partner D,New Hire,2026-08-11,Rejected,Missing position number,SPEC04
+SS80360,Partner B,New Hire,2026-09-25,In Progress,,SPEC02
+SS80361,Partner D,Termination,2026-10-12,Complete,,SPEC04
+SS80362,Partner B,CW Request,2026-07-15,Complete,,SPEC02
+SS80363,Partner F,New Hire,2026-10-02,Complete,,SPEC02
+SS80364,Partner G,Transfer,2026-07-13,Complete,,SPEC02
+SS80365,Partner D,New Hire,2026-10-09,Complete,,SPEC02
+SS80366,Partner F,Temp Extension,2026-07-15,Complete,,SPEC03
+SS80367,Partner B,Temp Extension,2026-09-01,Complete,,SPEC03
+SS80368,Partner C,CW Request,2026-10-02,Complete,,SPEC02
+SS80369,Partner A,Termination,2026-07-07,Complete,,SPEC02
+SS80370,Partner A,Temp Extension,2026-10-04,Complete,,SPEC02
+SS80371,Partner E,CW Request,2026-07-05,Complete,,SPEC03
+SS80372,Partner F,New Hire,2026-07-22,Complete,,SPEC04
+SS80373,Partner D,New Hire,2026-07-31,Complete,,SPEC01
+SS80374,Partner C,Transfer,2026-08-04,Rejected,Effective date in the past,SPEC04
+SS80375,Partner F,New Hire,2026-09-07,Complete,,SPEC02
+SS80376,Partner B,CW Request,2026-09-03,Complete,,SPEC01
+SS80377,Partner B,Transfer,2026-08-27,Complete,,SPEC01
+SS80378,Partner G,New Hire,2026-08-01,Complete,,SPEC04
+SS80379,Partner A,Termination,2026-07-21,Complete,,SPEC01
+SS80380,Partner B,CW Request,2026-07-22,Complete,,SPEC02
+SS80381,Partner B,CW Request,2026-10-03,Rejected,Blocked position,SPEC01
+SS80382,Partner G,CW Request,2026-07-16,Complete,,SPEC04
+SS80383,Partner B,New Hire,2026-07-31,Complete,,SPEC01
+SS80384,Partner F,Temp Extension,2026-08-01,Complete,,SPEC01
+SS80385,Partner D,CW Request,2026-09-29,Complete,,SPEC04
+SS80386,Partner D,New Hire,2026-07-06,Complete,,SPEC02
+SS80387,Partner A,New Hire,2026-10-08,Complete,,SPEC04
+SS80388,Partner A,Temp Extension,2026-07-31,Complete,,SPEC03
+SS80389,Partner G,CW Request,2026-09-16,Complete,,SPEC02
+SS80390,Partner B,CW Request,2026-08-17,Complete,,SPEC01
+SS80391,Partner G,New Hire,2026-09-18,Complete,,SPEC03
+SS80392,Partner C,Termination,2026-08-23,Complete,,SPEC02
+SS80393,Partner E,Termination,2026-08-19,Complete,,SPEC02
+SS80394,Partner D,New Hire,2026-07-31,Complete,,SPEC01
+SS80395,Partner F,CW Request,2026-09-03,Complete,,SPEC02
+SS80396,Partner G,CW Request,2026-08-15,Complete,,SPEC02
+SS80397,Partner F,Temp Extension,2026-10-08,Complete,,SPEC02
+SS80398,Partner A,Temp Extension,2026-07-27,Complete,,SPEC02
+SS80399,Partner E,CW Request,2026-08-31,Complete,,SPEC01
+SS80400,Partner B,Transfer,2026-09-26,Complete,,SPEC03
+SS80401,Partner F,New Hire,2026-08-08,Complete,,SPEC04
+SS80402,Partner D,Temp Extension,2026-07-27,Rejected,Duplicate submission,SPEC02
+SS80403,Partner A,New Hire,2026-07-10,Complete,,SPEC04
+SS80404,Partner G,Termination,2026-07-23,Rejected,Duplicate submission,SPEC01
+SS80405,Partner C,CW Request,2026-07-30,Complete,,SPEC04
+SS80406,Partner E,Transfer,2026-08-23,Complete,,SPEC01
+SS80407,Partner G,Termination,2026-08-18,Complete,,SPEC04
+SS80408,Partner E,Temp Extension,2026-07-03,Complete,,SPEC02
+SS80409,Partner A,CW Request,2026-07-29,Rejected,Effective date in the past,SPEC02
+SS80410,Partner D,New Hire,2026-10-06,Complete,,SPEC02
+SS80411,Partner F,CW Request,2026-07-15,Complete,,SPEC02
+SS80412,Partner D,Temp Extension,2026-08-12,Complete,,SPEC03
+SS80413,Partner A,Termination,2026-07-07,Rejected,Effective date in the past,SPEC02
+SS80414,Partner E,CW Request,2026-08-27,Rejected,Blocked position,SPEC02
+SS80415,Partner E,Temp Extension,2026-07-16,Complete,,SPEC01
+SS80416,Partner A,Temp Extension,2026-09-28,Complete,,SPEC04
+SS80417,Partner F,Temp Extension,2026-08-12,Rejected,Duplicate submission,SPEC04
+SS80418,Partner E,CW Request,2026-09-22,Complete,,SPEC04
+SS80419,Partner C,Temp Extension,2026-09-18,Complete,,SPEC03
+SS80420,Partner B,Transfer,2026-07-14,Complete,,SPEC01
+SS80421,Partner C,Temp Extension,2026-10-10,Complete,,SPEC04
+SS80422,Partner C,New Hire,2026-09-09,Complete,,SPEC01
+SS80423,Partner A,Temp Extension,2026-07-28,Complete,,SPEC03
+SS80424,Partner D,New Hire,2026-08-22,Complete,,SPEC01
+SS80425,Partner B,Termination,2026-08-15,Complete,,SPEC02
+SS80426,Partner F,Temp Extension,2026-07-14,Complete,,SPEC03
+SS80427,Partner E,Temp Extension,2026-09-10,Complete,,SPEC01
+SS80428,Partner E,Transfer,2026-09-06,Complete,,SPEC01
+SS80429,Partner D,Transfer,2026-09-28,Complete,,SPEC02
+SS80430,Partner F,Temp Extension,2026-07-10,Complete,,SPEC04
+SS80431,Partner C,Transfer,2026-07-15,Complete,,SPEC02
+SS80432,Partner D,Transfer,2026-07-10,Complete,,SPEC03
+SS80433,Partner C,New Hire,2026-08-09,Complete,,SPEC01
+SS80434,Partner B,Transfer,2026-09-15,Complete,,SPEC03
+SS80435,Partner C,Termination,2026-09-03,Complete,,SPEC04
+SS80436,Partner G,CW Request,2026-09-14,Complete,,SPEC01
+SS80437,Partner B,Termination,2026-10-02,Complete,,SPEC02
+SS80438,Partner B,Termination,2026-07-14,Complete,,SPEC03
+SS80439,Partner A,Transfer,2026-08-11,Complete,,SPEC01
+SS80440,Partner F,Termination,2026-09-02,Complete,,SPEC02
+SS80441,Partner A,Transfer,2026-09-29,Complete,,SPEC01
+SS80442,Partner A,Temp Extension,2026-07-30,Complete,,SPEC03
+SS80443,Partner C,Transfer,2026-10-01,Complete,,SPEC03
+SS80444,Partner C,Termination,2026-08-19,Complete,,SPEC01
+SS80445,Partner E,Temp Extension,2026-09-15,Complete,,SPEC03
+SS80446,Partner G,New Hire,2026-09-22,Complete,,SPEC03
+SS80447,Partner C,CW Request,2026-09-07,Complete,,SPEC03
+SS80448,Partner F,CW Request,2026-09-16,Rejected,Blocked position,SPEC01
+SS80449,Partner D,Transfer,2026-08-12,Complete,,SPEC01
+SS80450,Partner D,New Hire,2026-07-09,Complete,,SPEC02
+SS80451,Partner E,Temp Extension,2026-08-27,Complete,,SPEC02
+SS80452,Partner A,Transfer,2026-09-29,Complete,,SPEC01
+SS80453,Partner F,Termination,2026-07-17,Complete,,SPEC02
+SS80454,Partner F,Termination,2026-07-13,Complete,,SPEC02
+SS80455,Partner G,Temp Extension,2026-09-25,In Progress,,SPEC02
+SS80456,Partner F,Termination,2026-08-09,Rejected,Missing position number,SPEC01
+SS80457,Partner E,Termination,2026-08-07,Rejected,Incorrect position,SPEC02
+SS80458,Partner C,CW Request,2026-08-04,Complete,,SPEC01
+SS80459,Partner B,Transfer,2026-10-12,Complete,,SPEC03
+SS80460,Partner A,Termination,2026-08-26,Complete,,SPEC01
+SS80461,Partner A,CW Request,2026-08-24,Complete,,SPEC03
+SS80462,Partner D,New Hire,2026-09-17,Complete,,SPEC03
+SS80463,Partner A,Termination,2026-07-25,Complete,,SPEC01
+SS80464,Partner B,Termination,2026-08-09,Complete,,SPEC02
+SS80465,Partner C,New Hire,2026-09-26,Complete,,SPEC01
+SS80466,Partner E,Transfer,2026-08-19,Complete,,SPEC01
+SS80467,Partner A,Termination,2026-08-19,Complete,,SPEC03
+SS80468,Partner B,CW Request,2026-07-23,Complete,,SPEC02
+SS80469,Partner B,Temp Extension,2026-08-25,Complete,,SPEC04
+SS80470,Partner E,Transfer,2026-09-11,Complete,,SPEC02
+SS80471,Partner E,CW Request,2026-08-02,Complete,,SPEC01
+SS80472,Partner F,Transfer,2026-09-16,Complete,,SPEC02
+SS80473,Partner G,Transfer,2026-08-05,Complete,,SPEC02
+SS80474,Partner C,Temp Extension,2026-09-25,Rejected,Blocked position,SPEC02
+SS80475,Partner C,Transfer,2026-10-12,Complete,,SPEC02
+SS80476,Partner B,Temp Extension,2026-08-17,Rejected,Missing position number,SPEC04
+SS80477,Partner D,Termination,2026-10-02,Complete,,SPEC04
+SS80478,Partner G,Termination,2026-07-23,Complete,,SPEC02
+SS80479,Partner D,Transfer,2026-09-09,Complete,,SPEC01
+SS80480,Partner D,Termination,2026-10-14,Complete,,SPEC03
+SS80481,Partner B,CW Request,2026-09-20,In Progress,,SPEC03
+SS80482,Partner E,Temp Extension,2026-09-19,Complete,,SPEC02
+SS80483,Partner E,CW Request,2026-08-24,Complete,,SPEC02
+SS80484,Partner C,Temp Extension,2026-08-21,Complete,,SPEC03
+SS80485,Partner D,CW Request,2026-09-05,Rejected,Blocked position,SPEC01
+SS80486,Partner A,CW Request,2026-08-13,Complete,,SPEC04
+SS80487,Partner B,Termination,2026-10-03,Complete,,SPEC04
+SS80488,Partner F,Temp Extension,2026-08-25,Complete,,SPEC03
+SS80489,Partner D,New Hire,2026-08-28,Rejected,Duplicate submission,SPEC01
+SS80490,Partner G,Temp Extension,2026-09-13,Complete,,SPEC03
+SS80491,Partner E,New Hire,2026-07-11,Complete,,SPEC02
+SS80492,Partner G,Temp Extension,2026-07-14,Complete,,SPEC04
+SS80493,Partner G,Temp Extension,2026-10-02,Complete,,SPEC03
+SS80494,Partner A,CW Request,2026-08-24,In Progress,,SPEC01
+SS80495,Partner D,Termination,2026-08-03,Complete,,SPEC02
+SS80496,Partner B,Transfer,2026-08-17,Rejected,Missing salary information,SPEC04
+SS80497,Partner E,New Hire,2026-08-05,Complete,,SPEC01
+SS80498,Partner F,Temp Extension,2026-08-22,Complete,,SPEC02
+SS80499,Partner D,New Hire,2026-07-18,Complete,,SPEC03
+SS80500,Partner B,Temp Extension,2026-07-10,Complete,,SPEC02
+SS80501,Partner C,New Hire,2026-08-08,In Progress,,SPEC02
+SS80502,Partner C,Transfer,2026-09-07,Rejected,Incorrect position,SPEC04
+SS80503,Partner D,Temp Extension,2026-08-08,Complete,,SPEC01
+SS80504,Partner F,Transfer,2026-09-05,Complete,,SPEC02
+SS80505,Partner G,CW Request,2026-07-07,Complete,,SPEC02
+SS80506,Partner C,Transfer,2026-07-03,Complete,,SPEC01
+SS80507,Partner A,Transfer,2026-08-26,Complete,,SPEC04
+SS80508,Partner E,CW Request,2026-09-22,Complete,,SPEC03
+SS80509,Partner F,Termination,2026-07-19,In Progress,,SPEC04
+SS80510,Partner D,Temp Extension,2026-10-06,Complete,,SPEC02
+SS80511,Partner D,Transfer,2026-07-07,In Progress,,SPEC04
+SS80512,Partner B,Termination,2026-07-28,Rejected,Duplicate submission,SPEC03
+SS80513,Partner D,CW Request,2026-08-18,Complete,,SPEC02
+SS80514,Partner B,New Hire,2026-09-25,Rejected,Blocked position,SPEC02
+SS80515,Partner B,Temp Extension,2026-07-12,Complete,,SPEC01
+SS80516,Partner D,New Hire,2026-08-27,Complete,,SPEC03
+SS80517,Partner D,Temp Extension,2026-07-23,Complete,,SPEC02
+SS80518,Partner D,Temp Extension,2026-08-26,Rejected,Missing salary information,SPEC03
+SS80519,Partner F,CW Request,2026-09-09,Rejected,Missing salary information,SPEC04
+SS80520,Partner G,Temp Extension,2026-10-07,Complete,,SPEC03
+SS80521,Partner F,Transfer,2026-08-06,Rejected,Missing salary information,SPEC03
+SS80522,Partner B,Transfer,2026-08-27,Complete,,SPEC03
+SS80523,Partner G,Transfer,2026-08-30,Complete,,SPEC04
+SS80524,Partner E,New Hire,2026-08-03,Complete,,SPEC01
+SS80525,Partner G,Temp Extension,2026-08-15,Complete,,SPEC04
+SS80526,Partner C,New Hire,2026-07-10,Complete,,SPEC04
+SS80527,Partner G,Transfer,2026-07-08,Complete,,SPEC01
+SS80528,Partner G,New Hire,2026-09-12,Rejected,Incorrect position,SPEC01
+SS80529,Partner G,Temp Extension,2026-08-15,Complete,,SPEC02
+SS80530,Partner B,Termination,2026-08-13,Complete,,SPEC03
+SS80531,Partner F,Termination,2026-08-01,Complete,,SPEC02
+SS80532,Partner B,Transfer,2026-08-22,Complete,,SPEC01
+SS80533,Partner F,New Hire,2026-07-05,Complete,,SPEC01
+SS80534,Partner G,New Hire,2026-07-09,Complete,,SPEC02
+SS80535,Partner G,Termination,2026-10-14,Complete,,SPEC01
+SS80536,Partner E,CW Request,2026-09-03,Complete,,SPEC04
+SS80537,Partner G,New Hire,2026-07-12,Complete,,SPEC03
+SS80538,Partner E,Temp Extension,2026-10-09,In Progress,,SPEC04
+SS80539,Partner D,Termination,2026-08-30,Rejected,Effective date in the past,SPEC04
+SS80540,Partner A,Temp Extension,2026-09-04,Complete,,SPEC01
+SS80541,Partner C,CW Request,2026-08-22,Complete,,SPEC04
+SS80542,Partner E,CW Request,2026-07-03,Complete,,SPEC02
+SS80543,Partner C,CW Request,2026-09-14,Complete,,SPEC01
+SS80544,Partner C,Transfer,2026-09-27,Complete,,SPEC02
+SS80545,Partner E,Temp Extension,2026-08-24,In Progress,,SPEC01
+SS80546,Partner C,Temp Extension,2026-09-26,Complete,,SPEC04
+SS80547,Partner B,New Hire,2026-08-02,Complete,,SPEC01
+SS80548,Partner B,CW Request,2026-08-19,Complete,,SPEC03
+SS80549,Partner D,Transfer,2026-07-28,Complete,,SPEC01
+SS80550,Partner C,CW Request,2026-08-13,Complete,,SPEC04
+SS80551,Partner C,Transfer,2026-07-01,Complete,,SPEC03
+SS80552,Partner C,Transfer,2026-10-01,Complete,,SPEC04
+SS80553,Partner F,Termination,2026-07-11,Rejected,Missing salary information,SPEC04
+SS80554,Partner D,Temp Extension,2026-08-31,Complete,,SPEC02
+SS80555,Partner A,Termination,2026-07-10,Complete,,SPEC02
+SS80556,Partner A,CW Request,2026-08-17,Complete,,SPEC04
+SS80557,Partner G,New Hire,2026-08-14,Complete,,SPEC03
+SS80558,Partner F,New Hire,2026-09-01,Rejected,Missing salary information,SPEC03
+SS80559,Partner C,CW Request,2026-07-08,Complete,,SPEC03
+SS80560,Partner F,New Hire,2026-07-22,In Progress,,SPEC04
+SS80561,Partner C,CW Request,2026-07-15,Complete,,SPEC03
+SS80562,Partner G,Transfer,2026-09-07,Complete,,SPEC01
+SS80563,Partner E,CW Request,2026-10-06,In Progress,,SPEC01
+SS80564,Partner E,New Hire,2026-10-02,Complete,,SPEC02
+SS80565,Partner E,Termination,2026-08-19,Rejected,Blocked position,SPEC03
+SS80566,Partner B,Transfer,2026-08-09,In Progress,,SPEC01
+SS80567,Partner F,Termination,2026-09-12,Complete,,SPEC02
+SS80568,Partner G,CW Request,2026-10-03,In Progress,,SPEC02
+SS80569,Partner A,Transfer,2026-08-30,In Progress,,SPEC03
+SS80570,Partner A,Termination,2026-10-01,Complete,,SPEC02
+SS80571,Partner B,Termination,2026-08-16,Rejected,Blocked position,SPEC01
+SS80572,Partner A,New Hire,2026-07-25,Complete,,SPEC03
+SS80573,Partner C,Temp Extension,2026-09-07,Rejected,Missing position number,SPEC01
+SS80574,Partner A,Temp Extension,2026-08-16,Complete,,SPEC03
+SS80575,Partner F,Termination,2026-08-28,Complete,,SPEC04
+SS80576,Partner B,Termination,2026-08-11,In Progress,,SPEC03
+SS80577,Partner A,Transfer,2026-09-15,Complete,,SPEC02
+SS80578,Partner D,CW Request,2026-08-04,Complete,,SPEC01
+SS80579,Partner D,New Hire,2026-09-18,In Progress,,SPEC01
+SS80580,Partner A,New Hire,2026-09-27,Complete,,SPEC04
+SS80581,Partner F,New Hire,2026-07-08,Complete,,SPEC02
+SS80582,Partner B,Transfer,2026-10-11,Complete,,SPEC04
+SS80583,Partner E,CW Request,2026-07-17,Complete,,SPEC01
+SS80584,Partner F,Termination,2026-09-20,Complete,,SPEC04
+SS80585,Partner G,Temp Extension,2026-07-19,Complete,,SPEC02
+SS80586,Partner F,CW Request,2026-10-11,Rejected,Duplicate submission,SPEC01
+SS80587,Partner F,Termination,2026-09-11,Rejected,Blocked position,SPEC02
+SS80588,Partner F,Termination,2026-09-02,Complete,,SPEC02
+SS80589,Partner E,New Hire,2026-09-29,Complete,,SPEC02
+SS80590,Partner A,Temp Extension,2026-08-04,Rejected,Missing salary information,SPEC03
+SS80591,Partner E,Transfer,2026-08-02,Complete,,SPEC04
+SS80592,Partner A,Termination,2026-07-12,Complete,,SPEC02
+SS80593,Partner F,Termination,2026-09-25,In Progress,,SPEC01
+SS80594,Partner F,CW Request,2026-08-21,Complete,,SPEC04
+SS80595,Partner A,New Hire,2026-07-23,Complete,,SPEC02
+SS80596,Partner C,Termination,2026-08-08,Rejected,Effective date in the past,SPEC03
+SS80597,Partner D,Temp Extension,2026-09-27,In Progress,,SPEC03
+SS80598,Partner A,New Hire,2026-08-02,Complete,,SPEC03
+SS80599,Partner D,Termination,2026-07-27,Complete,,SPEC04
+SS80600,Partner C,Termination,2026-08-25,Complete,,SPEC02
+SS80601,Partner E,CW Request,2026-09-04,In Progress,,SPEC04
+SS80602,Partner F,Termination,2026-08-24,Complete,,SPEC02
+SS80603,Partner A,New Hire,2026-08-23,Complete,,SPEC02
+SS80604,Partner G,New Hire,2026-07-13,Complete,,SPEC02
+SS80605,Partner E,Termination,2026-08-31,Complete,,SPEC03
+SS80606,Partner F,New Hire,2026-10-05,Complete,,SPEC01
+SS80607,Partner B,Transfer,2026-08-12,Complete,,SPEC03
+SS80608,Partner G,CW Request,2026-10-11,In Progress,,SPEC03
+SS80609,Partner F,Transfer,2026-09-30,Rejected,Missing salary information,SPEC03
+SS80610,Partner C,New Hire,2026-08-03,Rejected,Effective date in the past,SPEC01
+SS80611,Partner C,Temp Extension,2026-07-17,Complete,,SPEC03
+SS80612,Partner A,Temp Extension,2026-08-30,Complete,,SPEC01
+SS80613,Partner G,Transfer,2026-07-17,Complete,,SPEC04
+SS80614,Partner D,CW Request,2026-08-02,Rejected,Missing salary information,SPEC04
+SS80615,Partner G,Temp Extension,2026-10-11,Complete,,SPEC02
+SS80616,Partner E,Termination,2026-10-08,Complete,,SPEC02
+SS80617,Partner G,CW Request,2026-07-22,Complete,,SPEC01
+SS80618,Partner G,CW Request,2026-07-28,Complete,,SPEC03
+SS80619,Partner B,CW Request,2026-09-04,Rejected,Incorrect position,SPEC04
+SS80620,Partner E,Temp Extension,2026-09-01,In Progress,,SPEC04
+SS80621,Partner E,Temp Extension,2026-08-05,Rejected,Incorrect position,SPEC02
+SS80622,Partner D,Termination,2026-09-12,Complete,,SPEC04
+SS80623,Partner C,Transfer,2026-08-15,Complete,,SPEC01
+SS80624,Partner D,Termination,2026-09-26,Complete,,SPEC03
+SS80625,Partner E,CW Request,2026-09-28,Complete,,SPEC03
+SS80626,Partner E,Termination,2026-07-12,In Progress,,SPEC01
+SS80627,Partner F,CW Request,2026-08-19,Complete,,SPEC02
+SS80628,Partner D,New Hire,2026-10-04,Complete,,SPEC04
+SS80629,Partner D,Transfer,2026-08-04,Rejected,Missing salary information,SPEC04
+SS80630,Partner C,New Hire,2026-10-07,Complete,,SPEC04
+SS80631,Partner C,CW Request,2026-08-21,Complete,,SPEC04
+SS80632,Partner B,New Hire,2026-10-12,Complete,,SPEC02
+SS80633,Partner C,Transfer,2026-07-08,Complete,,SPEC04
+SS80634,Partner G,New Hire,2026-07-11,Complete,,SPEC03
+SS80635,Partner E,Transfer,2026-07-23,In Progress,,SPEC02
+SS80636,Partner B,CW Request,2026-10-10,Complete,,SPEC03
+SS80637,Partner G,Transfer,2026-08-31,Complete,,SPEC01
+SS80638,Partner E,Termination,2026-08-25,Complete,,SPEC01
+SS80639,Partner A,CW Request,2026-07-05,Complete,,SPEC02

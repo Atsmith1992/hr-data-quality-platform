@@ -1,0 +1,10 @@
+check,errors_planted
+C01 Active assignment with no salary record,12
+C02 False flip: teacher on 12 Month Payroll,9
+C03 Still active after termination date,14
+H04 Temp end date differs from PSTAR approval,8
+H05 Future-dated assignment start,11
+H06 Supervisor is an ex-employee,56
+M07 Name formatting error,17
+M08 Substitute with wrong pension code,6
+M15 Terminated user still holds ATS admin access,9

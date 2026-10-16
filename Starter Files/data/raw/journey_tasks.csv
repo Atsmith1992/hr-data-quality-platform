@@ -1,0 +1,1163 @@
+journey_id,pending_worker_id,task_name,owner_team,assigned_date,status,completed_date,reopened_flag,missing_data_flag
+JP70000,P70000,Personal Information,New Hire,2026-07-07,Assigned,,N,Y
+JP70003,P70003,Personal Information,New Hire,2026-08-26,Completed,2026-08-26,N,N
+JP70003,P70003,Background Check,Pre-Employment,2026-08-29,Completed,2026-08-29,Y,N
+JP70003,P70003,Position Assignment,HC Partner,2026-09-01,Completed,2026-09-02,N,N
+JP70003,P70003,Salary Verification,Compensation,2026-09-04,Completed,2026-09-04,Y,N
+JP70003,P70003,System Access,IT,2026-09-07,Completed,2026-09-10,N,N
+JP70003,P70003,Final Approval,HCIS,2026-09-10,Completed,2026-09-13,N,N
+JP70004,P70004,Personal Information,New Hire,2026-06-17,Completed,2026-06-20,N,N
+JP70004,P70004,Background Check,Pre-Employment,2026-06-20,Completed,2026-06-20,Y,N
+JP70004,P70004,Position Assignment,HC Partner,2026-06-23,Completed,2026-06-23,N,N
+JP70004,P70004,Salary Verification,Compensation,2026-06-26,Completed,2026-06-27,N,N
+JP70004,P70004,System Access,IT,2026-06-29,Assigned,,N,Y
+JP70005,P70005,Personal Information,New Hire,2026-10-06,Completed,2026-10-06,N,N
+JP70005,P70005,Background Check,Pre-Employment,2026-10-09,Completed,2026-10-09,N,N
+JP70005,P70005,Position Assignment,HC Partner,2026-10-12,Assigned,,N,N
+JP70007,P70007,Personal Information,New Hire,2026-07-13,Completed,2026-07-13,N,N
+JP70007,P70007,Background Check,Pre-Employment,2026-07-16,Completed,2026-07-16,N,N
+JP70007,P70007,Position Assignment,HC Partner,2026-07-19,Completed,2026-07-22,N,N
+JP70007,P70007,Salary Verification,Compensation,2026-07-22,Completed,2026-07-22,N,N
+JP70007,P70007,System Access,IT,2026-07-25,Completed,2026-07-27,N,N
+JP70007,P70007,Final Approval,HCIS,2026-07-28,Completed,2026-07-31,N,N
+JP70008,P70008,Personal Information,New Hire,2026-07-08,Completed,2026-07-11,N,N
+JP70008,P70008,Background Check,Pre-Employment,2026-07-11,Completed,2026-07-11,Y,N
+JP70008,P70008,Position Assignment,HC Partner,2026-07-14,Assigned,,N,N
+JP70010,P70010,Personal Information,New Hire,2026-08-13,Completed,2026-08-15,N,N
+JP70010,P70010,Background Check,Pre-Employment,2026-08-16,Completed,2026-08-19,N,N
+JP70010,P70010,Position Assignment,HC Partner,2026-08-19,Completed,2026-08-19,N,N
+JP70010,P70010,Salary Verification,Compensation,2026-08-22,Completed,2026-08-23,N,N
+JP70010,P70010,System Access,IT,2026-08-25,Assigned,,N,Y
+JP70011,P70011,Personal Information,New Hire,2026-07-05,Assigned,,N,Y
+JP70012,P70012,Personal Information,New Hire,2026-07-22,Completed,2026-07-25,N,N
+JP70012,P70012,Background Check,Pre-Employment,2026-07-25,Assigned,,N,N
+JP70013,P70013,Personal Information,New Hire,2026-10-11,Assigned,,N,N
+JP70014,P70014,Personal Information,New Hire,2026-08-23,Completed,2026-08-23,N,N
+JP70014,P70014,Background Check,Pre-Employment,2026-08-26,Completed,2026-08-28,N,N
+JP70014,P70014,Position Assignment,HC Partner,2026-08-29,Completed,2026-08-30,N,N
+JP70014,P70014,Salary Verification,Compensation,2026-09-01,Completed,2026-09-03,N,N
+JP70014,P70014,System Access,IT,2026-09-04,Completed,2026-09-04,N,N
+JP70014,P70014,Final Approval,HCIS,2026-09-07,Completed,2026-09-09,N,N
+JP70015,P70015,Personal Information,New Hire,2026-07-03,Completed,2026-07-06,N,N
+JP70015,P70015,Background Check,Pre-Employment,2026-07-06,Completed,2026-07-08,N,N
+JP70015,P70015,Position Assignment,HC Partner,2026-07-09,Completed,2026-07-10,N,N
+JP70015,P70015,Salary Verification,Compensation,2026-07-12,Completed,2026-07-15,N,N
+JP70015,P70015,System Access,IT,2026-07-15,Completed,2026-07-15,N,N
+JP70015,P70015,Final Approval,HCIS,2026-07-18,Assigned,,N,N
+JP70016,P70016,Personal Information,New Hire,2026-08-20,Completed,2026-08-23,N,N
+JP70016,P70016,Background Check,Pre-Employment,2026-08-23,Completed,2026-08-24,N,N
+JP70016,P70016,Position Assignment,HC Partner,2026-08-26,Completed,2026-08-29,N,N
+JP70016,P70016,Salary Verification,Compensation,2026-08-29,Completed,2026-08-29,N,N
+JP70016,P70016,System Access,IT,2026-09-01,Completed,2026-09-03,N,N
+JP70016,P70016,Final Approval,HCIS,2026-09-04,Assigned,,N,N
+JP70017,P70017,Personal Information,New Hire,2026-07-16,Completed,2026-07-18,N,N
+JP70017,P70017,Background Check,Pre-Employment,2026-07-19,Completed,2026-07-20,Y,N
+JP70017,P70017,Position Assignment,HC Partner,2026-07-22,Completed,2026-07-23,N,N
+JP70017,P70017,Salary Verification,Compensation,2026-07-25,Completed,2026-07-27,N,N
+JP70017,P70017,System Access,IT,2026-07-28,Assigned,,Y,N
+JP70018,P70018,Personal Information,New Hire,2026-10-13,Completed,2026-10-16,N,N
+JP70019,P70019,Personal Information,New Hire,2026-07-15,Completed,2026-07-16,N,N
+JP70019,P70019,Background Check,Pre-Employment,2026-07-18,Assigned,,N,N
+JP70021,P70021,Personal Information,New Hire,2026-07-26,Completed,2026-07-29,N,N
+JP70021,P70021,Background Check,Pre-Employment,2026-07-29,Completed,2026-07-30,N,N
+JP70021,P70021,Position Assignment,HC Partner,2026-08-01,Completed,2026-08-01,N,N
+JP70021,P70021,Salary Verification,Compensation,2026-08-04,Completed,2026-08-06,Y,N
+JP70021,P70021,System Access,IT,2026-08-07,Completed,2026-08-07,N,N
+JP70021,P70021,Final Approval,HCIS,2026-08-10,Completed,2026-08-12,N,N
+JP70022,P70022,Personal Information,New Hire,2026-10-09,Completed,2026-10-10,N,N
+JP70022,P70022,Background Check,Pre-Employment,2026-10-12,Completed,2026-10-12,N,N
+JP70022,P70022,Position Assignment,HC Partner,2026-10-15,Completed,2026-10-15,N,N
+JP70023,P70023,Personal Information,New Hire,2026-09-04,Completed,2026-09-07,N,N
+JP70023,P70023,Background Check,Pre-Employment,2026-09-07,Completed,2026-09-08,N,N
+JP70023,P70023,Position Assignment,HC Partner,2026-09-10,Completed,2026-09-10,N,N
+JP70023,P70023,Salary Verification,Compensation,2026-09-13,Completed,2026-09-16,N,N
+JP70023,P70023,System Access,IT,2026-09-16,Assigned,,N,Y
+JP70024,P70024,Personal Information,New Hire,2026-08-24,Completed,2026-08-26,N,N
+JP70024,P70024,Background Check,Pre-Employment,2026-08-27,Completed,2026-08-28,N,N
+JP70024,P70024,Position Assignment,HC Partner,2026-08-30,Completed,2026-08-31,N,N
+JP70024,P70024,Salary Verification,Compensation,2026-09-02,Completed,2026-09-05,N,N
+JP70024,P70024,System Access,IT,2026-09-05,Completed,2026-09-06,N,N
+JP70024,P70024,Final Approval,HCIS,2026-09-08,Completed,2026-09-11,N,N
+JP70025,P70025,Personal Information,New Hire,2026-09-14,Completed,2026-09-15,N,N
+JP70025,P70025,Background Check,Pre-Employment,2026-09-17,Completed,2026-09-18,N,N
+JP70025,P70025,Position Assignment,HC Partner,2026-09-20,Completed,2026-09-20,N,N
+JP70025,P70025,Salary Verification,Compensation,2026-09-23,Completed,2026-09-23,Y,N
+JP70025,P70025,System Access,IT,2026-09-26,Completed,2026-09-28,N,N
+JP70025,P70025,Final Approval,HCIS,2026-09-29,Completed,2026-10-01,N,N
+JP70026,P70026,Personal Information,New Hire,2026-10-14,Completed,2026-10-16,N,N
+JP70027,P70027,Personal Information,New Hire,2026-08-07,Assigned,,N,N
+JP70028,P70028,Personal Information,New Hire,2026-09-21,Completed,2026-09-23,N,N
+JP70028,P70028,Background Check,Pre-Employment,2026-09-24,Completed,2026-09-25,N,N
+JP70028,P70028,Position Assignment,HC Partner,2026-09-27,Completed,2026-09-28,N,N
+JP70028,P70028,Salary Verification,Compensation,2026-09-30,Completed,2026-10-01,N,N
+JP70028,P70028,System Access,IT,2026-10-03,Completed,2026-10-05,N,N
+JP70028,P70028,Final Approval,HCIS,2026-10-06,Completed,2026-10-07,N,N
+JP70029,P70029,Personal Information,New Hire,2026-08-20,Assigned,,N,Y
+JP70030,P70030,Personal Information,New Hire,2026-06-30,Completed,2026-06-30,N,N
+JP70030,P70030,Background Check,Pre-Employment,2026-07-03,Completed,2026-07-05,N,N
+JP70030,P70030,Position Assignment,HC Partner,2026-07-06,Completed,2026-07-08,N,N
+JP70030,P70030,Salary Verification,Compensation,2026-07-09,Assigned,,N,N
+JP70031,P70031,Personal Information,New Hire,2026-10-13,Completed,2026-10-13,N,N
+JP70032,P70032,Personal Information,New Hire,2026-09-19,Completed,2026-09-22,N,N
+JP70032,P70032,Background Check,Pre-Employment,2026-09-22,Completed,2026-09-22,N,N
+JP70032,P70032,Position Assignment,HC Partner,2026-09-25,Completed,2026-09-26,N,N
+JP70032,P70032,Salary Verification,Compensation,2026-09-28,Completed,2026-09-28,N,N
+JP70032,P70032,System Access,IT,2026-10-01,Completed,2026-10-03,N,N
+JP70032,P70032,Final Approval,HCIS,2026-10-04,Completed,2026-10-06,N,N
+JP70033,P70033,Personal Information,New Hire,2026-08-29,Completed,2026-08-30,N,N
+JP70033,P70033,Background Check,Pre-Employment,2026-09-01,Completed,2026-09-03,N,N
+JP70033,P70033,Position Assignment,HC Partner,2026-09-04,Assigned,,N,N
+JP70034,P70034,Personal Information,New Hire,2026-07-28,Completed,2026-07-29,N,N
+JP70034,P70034,Background Check,Pre-Employment,2026-07-31,Completed,2026-08-02,N,N
+JP70034,P70034,Position Assignment,HC Partner,2026-08-03,Completed,2026-08-05,N,N
+JP70034,P70034,Salary Verification,Compensation,2026-08-06,Completed,2026-08-08,Y,N
+JP70034,P70034,System Access,IT,2026-08-09,Completed,2026-08-11,N,N
+JP70034,P70034,Final Approval,HCIS,2026-08-12,Completed,2026-08-15,N,N
+JP70035,P70035,Personal Information,New Hire,2026-08-13,Completed,2026-08-15,N,N
+JP70035,P70035,Background Check,Pre-Employment,2026-08-16,Completed,2026-08-17,N,N
+JP70035,P70035,Position Assignment,HC Partner,2026-08-19,Completed,2026-08-19,N,N
+JP70035,P70035,Salary Verification,Compensation,2026-08-22,Completed,2026-08-25,N,N
+JP70035,P70035,System Access,IT,2026-08-25,Completed,2026-08-26,N,N
+JP70035,P70035,Final Approval,HCIS,2026-08-28,Assigned,,N,Y
+JP70036,P70036,Personal Information,New Hire,2026-10-05,Completed,2026-10-06,N,N
+JP70036,P70036,Background Check,Pre-Employment,2026-10-08,Completed,2026-10-10,N,N
+JP70036,P70036,Position Assignment,HC Partner,2026-10-11,Completed,2026-10-13,N,N
+JP70036,P70036,Salary Verification,Compensation,2026-10-14,Completed,2026-10-14,N,N
+JP70037,P70037,Personal Information,New Hire,2026-10-06,Assigned,,N,Y
+JP70038,P70038,Personal Information,New Hire,2026-09-09,Completed,2026-09-09,N,N
+JP70038,P70038,Background Check,Pre-Employment,2026-09-12,Completed,2026-09-15,N,N
+JP70038,P70038,Position Assignment,HC Partner,2026-09-15,Completed,2026-09-15,N,N
+JP70038,P70038,Salary Verification,Compensation,2026-09-18,Completed,2026-09-21,N,N
+JP70038,P70038,System Access,IT,2026-09-21,Completed,2026-09-21,N,N
+JP70038,P70038,Final Approval,HCIS,2026-09-24,Completed,2026-09-27,N,N
+JP70039,P70039,Personal Information,New Hire,2026-08-24,Completed,2026-08-25,N,N
+JP70039,P70039,Background Check,Pre-Employment,2026-08-27,Completed,2026-08-29,N,N
+JP70039,P70039,Position Assignment,HC Partner,2026-08-30,Assigned,,N,N
+JP70040,P70040,Personal Information,New Hire,2026-07-25,Completed,2026-07-26,N,N
+JP70040,P70040,Background Check,Pre-Employment,2026-07-28,Completed,2026-07-28,N,N
+JP70040,P70040,Position Assignment,HC Partner,2026-07-31,Completed,2026-08-02,N,N
+JP70040,P70040,Salary Verification,Compensation,2026-08-03,Completed,2026-08-03,N,N
+JP70040,P70040,System Access,IT,2026-08-06,Assigned,,N,Y
+JP70041,P70041,Personal Information,New Hire,2026-08-05,Completed,2026-08-05,N,N
+JP70041,P70041,Background Check,Pre-Employment,2026-08-08,Completed,2026-08-09,N,N
+JP70041,P70041,Position Assignment,HC Partner,2026-08-11,Completed,2026-08-12,N,N
+JP70041,P70041,Salary Verification,Compensation,2026-08-14,Completed,2026-08-14,N,N
+JP70041,P70041,System Access,IT,2026-08-17,Completed,2026-08-17,N,N
+JP70041,P70041,Final Approval,HCIS,2026-08-20,Completed,2026-08-23,N,N
+JP70042,P70042,Personal Information,New Hire,2026-06-26,Completed,2026-06-27,Y,N
+JP70042,P70042,Background Check,Pre-Employment,2026-06-29,Assigned,,N,Y
+JP70043,P70043,Personal Information,New Hire,2026-08-05,Completed,2026-08-07,N,N
+JP70043,P70043,Background Check,Pre-Employment,2026-08-08,Completed,2026-08-11,N,N
+JP70043,P70043,Position Assignment,HC Partner,2026-08-11,Completed,2026-08-14,N,N
+JP70043,P70043,Salary Verification,Compensation,2026-08-14,Completed,2026-08-15,N,N
+JP70043,P70043,System Access,IT,2026-08-17,Completed,2026-08-20,N,N
+JP70043,P70043,Final Approval,HCIS,2026-08-20,Completed,2026-08-23,N,N
+JP70045,P70045,Personal Information,New Hire,2026-09-19,Completed,2026-09-22,N,N
+JP70045,P70045,Background Check,Pre-Employment,2026-09-22,Completed,2026-09-23,Y,N
+JP70045,P70045,Position Assignment,HC Partner,2026-09-25,Completed,2026-09-28,N,N
+JP70045,P70045,Salary Verification,Compensation,2026-09-28,Completed,2026-09-30,N,N
+JP70045,P70045,System Access,IT,2026-10-01,Completed,2026-10-02,N,N
+JP70045,P70045,Final Approval,HCIS,2026-10-04,Completed,2026-10-04,N,N
+JP70046,P70046,Personal Information,New Hire,2026-08-04,Completed,2026-08-04,N,N
+JP70046,P70046,Background Check,Pre-Employment,2026-08-07,Completed,2026-08-10,N,N
+JP70046,P70046,Position Assignment,HC Partner,2026-08-10,Completed,2026-08-12,N,N
+JP70046,P70046,Salary Verification,Compensation,2026-08-13,Completed,2026-08-16,N,N
+JP70046,P70046,System Access,IT,2026-08-16,Completed,2026-08-16,N,N
+JP70046,P70046,Final Approval,HCIS,2026-08-19,Completed,2026-08-20,N,N
+JP70047,P70047,Personal Information,New Hire,2026-08-17,Assigned,,N,Y
+JP70049,P70049,Personal Information,New Hire,2026-09-24,Completed,2026-09-25,N,N
+JP70049,P70049,Background Check,Pre-Employment,2026-09-27,Completed,2026-09-30,N,N
+JP70049,P70049,Position Assignment,HC Partner,2026-09-30,Completed,2026-10-01,N,N
+JP70049,P70049,Salary Verification,Compensation,2026-10-03,Assigned,,N,N
+JP70052,P70052,Personal Information,New Hire,2026-07-14,Completed,2026-07-15,N,N
+JP70052,P70052,Background Check,Pre-Employment,2026-07-17,Completed,2026-07-18,N,N
+JP70052,P70052,Position Assignment,HC Partner,2026-07-20,Completed,2026-07-20,N,N
+JP70052,P70052,Salary Verification,Compensation,2026-07-23,Completed,2026-07-26,N,N
+JP70052,P70052,System Access,IT,2026-07-26,Completed,2026-07-27,N,N
+JP70052,P70052,Final Approval,HCIS,2026-07-29,Assigned,,N,N
+JP70053,P70053,Personal Information,New Hire,2026-09-23,Completed,2026-09-23,N,N
+JP70053,P70053,Background Check,Pre-Employment,2026-09-26,Completed,2026-09-26,N,N
+JP70053,P70053,Position Assignment,HC Partner,2026-09-29,Completed,2026-09-30,N,N
+JP70053,P70053,Salary Verification,Compensation,2026-10-02,Completed,2026-10-04,N,N
+JP70053,P70053,System Access,IT,2026-10-05,Completed,2026-10-06,N,N
+JP70053,P70053,Final Approval,HCIS,2026-10-08,Completed,2026-10-09,N,N
+JP70054,P70054,Personal Information,New Hire,2026-09-05,Completed,2026-09-06,N,N
+JP70054,P70054,Background Check,Pre-Employment,2026-09-08,Completed,2026-09-11,N,N
+JP70054,P70054,Position Assignment,HC Partner,2026-09-11,Completed,2026-09-11,N,N
+JP70054,P70054,Salary Verification,Compensation,2026-09-14,Completed,2026-09-17,N,N
+JP70054,P70054,System Access,IT,2026-09-17,Completed,2026-09-17,N,N
+JP70054,P70054,Final Approval,HCIS,2026-09-20,Completed,2026-09-21,N,N
+JP70055,P70055,Personal Information,New Hire,2026-08-14,Completed,2026-08-15,N,N
+JP70055,P70055,Background Check,Pre-Employment,2026-08-17,Assigned,,N,N
+JP70056,P70056,Personal Information,New Hire,2026-09-10,Completed,2026-09-10,N,N
+JP70056,P70056,Background Check,Pre-Employment,2026-09-13,Completed,2026-09-14,N,N
+JP70056,P70056,Position Assignment,HC Partner,2026-09-16,Completed,2026-09-17,N,N
+JP70056,P70056,Salary Verification,Compensation,2026-09-19,Completed,2026-09-19,N,N
+JP70056,P70056,System Access,IT,2026-09-22,Assigned,,N,N
+JP70057,P70057,Personal Information,New Hire,2026-10-14,Completed,2026-10-15,N,N
+JP70058,P70058,Personal Information,New Hire,2026-08-25,Completed,2026-08-28,N,N
+JP70058,P70058,Background Check,Pre-Employment,2026-08-28,Completed,2026-08-31,N,N
+JP70058,P70058,Position Assignment,HC Partner,2026-08-31,Completed,2026-08-31,N,N
+JP70058,P70058,Salary Verification,Compensation,2026-09-03,Completed,2026-09-06,N,N
+JP70058,P70058,System Access,IT,2026-09-06,Assigned,,N,N
+JP70059,P70059,Personal Information,New Hire,2026-08-08,Completed,2026-08-10,N,N
+JP70059,P70059,Background Check,Pre-Employment,2026-08-11,Completed,2026-08-11,N,N
+JP70059,P70059,Position Assignment,HC Partner,2026-08-14,Completed,2026-08-17,N,N
+JP70059,P70059,Salary Verification,Compensation,2026-08-17,Assigned,,N,Y
+JP70060,P70060,Personal Information,New Hire,2026-10-06,Completed,2026-10-09,N,N
+JP70060,P70060,Background Check,Pre-Employment,2026-10-09,Completed,2026-10-10,N,N
+JP70060,P70060,Position Assignment,HC Partner,2026-10-12,Completed,2026-10-13,N,N
+JP70060,P70060,Salary Verification,Compensation,2026-10-15,Completed,2026-10-18,N,N
+JP70061,P70061,Personal Information,New Hire,2026-07-28,Completed,2026-07-30,N,N
+JP70061,P70061,Background Check,Pre-Employment,2026-07-31,Completed,2026-08-02,N,N
+JP70061,P70061,Position Assignment,HC Partner,2026-08-03,Assigned,,N,N
+JP70062,P70062,Personal Information,New Hire,2026-08-13,Completed,2026-08-13,N,N
+JP70062,P70062,Background Check,Pre-Employment,2026-08-16,Completed,2026-08-19,N,N
+JP70062,P70062,Position Assignment,HC Partner,2026-08-19,Completed,2026-08-20,N,N
+JP70062,P70062,Salary Verification,Compensation,2026-08-22,Completed,2026-08-22,N,N
+JP70062,P70062,System Access,IT,2026-08-25,Completed,2026-08-28,N,N
+JP70062,P70062,Final Approval,HCIS,2026-08-28,Assigned,,N,Y
+JP70063,P70063,Personal Information,New Hire,2026-08-14,Completed,2026-08-16,N,N
+JP70063,P70063,Background Check,Pre-Employment,2026-08-17,Completed,2026-08-18,N,N
+JP70063,P70063,Position Assignment,HC Partner,2026-08-20,Assigned,,N,N
+JP70064,P70064,Personal Information,New Hire,2026-07-25,Assigned,,N,N
+JP70065,P70065,Personal Information,New Hire,2026-06-04,Completed,2026-06-06,N,N
+JP70065,P70065,Background Check,Pre-Employment,2026-06-07,Completed,2026-06-10,N,N
+JP70065,P70065,Position Assignment,HC Partner,2026-06-10,Completed,2026-06-12,N,N
+JP70065,P70065,Salary Verification,Compensation,2026-06-13,Assigned,,N,N
+JP70066,P70066,Personal Information,New Hire,2026-08-14,Completed,2026-08-16,N,N
+JP70066,P70066,Background Check,Pre-Employment,2026-08-17,Completed,2026-08-20,N,N
+JP70066,P70066,Position Assignment,HC Partner,2026-08-20,Completed,2026-08-20,N,N
+JP70066,P70066,Salary Verification,Compensation,2026-08-23,Completed,2026-08-25,N,N
+JP70066,P70066,System Access,IT,2026-08-26,Completed,2026-08-27,N,N
+JP70066,P70066,Final Approval,HCIS,2026-08-29,Assigned,,N,N
+JP70067,P70067,Personal Information,New Hire,2026-06-25,Completed,2026-06-28,N,N
+JP70067,P70067,Background Check,Pre-Employment,2026-06-28,Completed,2026-06-30,N,N
+JP70067,P70067,Position Assignment,HC Partner,2026-07-01,Completed,2026-07-03,N,N
+JP70067,P70067,Salary Verification,Compensation,2026-07-04,Completed,2026-07-07,N,N
+JP70067,P70067,System Access,IT,2026-07-07,Completed,2026-07-10,N,N
+JP70067,P70067,Final Approval,HCIS,2026-07-10,Completed,2026-07-11,Y,N
+JP70068,P70068,Personal Information,New Hire,2026-08-23,Assigned,,N,Y
+JP70069,P70069,Personal Information,New Hire,2026-10-07,Completed,2026-10-10,N,N
+JP70069,P70069,Background Check,Pre-Employment,2026-10-10,Completed,2026-10-12,N,N
+JP70069,P70069,Position Assignment,HC Partner,2026-10-13,Completed,2026-10-15,N,N
+JP70071,P70071,Personal Information,New Hire,2026-09-05,Completed,2026-09-05,N,N
+JP70071,P70071,Background Check,Pre-Employment,2026-09-08,Completed,2026-09-10,N,N
+JP70071,P70071,Position Assignment,HC Partner,2026-09-11,Completed,2026-09-12,N,N
+JP70071,P70071,Salary Verification,Compensation,2026-09-14,Completed,2026-09-14,N,N
+JP70071,P70071,System Access,IT,2026-09-17,Completed,2026-09-20,N,N
+JP70071,P70071,Final Approval,HCIS,2026-09-20,Completed,2026-09-22,N,N
+JP70072,P70072,Personal Information,New Hire,2026-07-05,Assigned,,N,N
+JP70073,P70073,Personal Information,New Hire,2026-08-25,Completed,2026-08-26,N,N
+JP70073,P70073,Background Check,Pre-Employment,2026-08-28,Completed,2026-08-28,N,N
+JP70073,P70073,Position Assignment,HC Partner,2026-08-31,Completed,2026-09-03,N,N
+JP70073,P70073,Salary Verification,Compensation,2026-09-03,Completed,2026-09-04,N,N
+JP70073,P70073,System Access,IT,2026-09-06,Completed,2026-09-09,N,N
+JP70073,P70073,Final Approval,HCIS,2026-09-09,Completed,2026-09-10,N,N
+JP70074,P70074,Personal Information,New Hire,2026-09-03,Completed,2026-09-03,N,N
+JP70074,P70074,Background Check,Pre-Employment,2026-09-06,Completed,2026-09-06,N,N
+JP70074,P70074,Position Assignment,HC Partner,2026-09-09,Completed,2026-09-11,N,N
+JP70074,P70074,Salary Verification,Compensation,2026-09-12,Completed,2026-09-15,N,N
+JP70074,P70074,System Access,IT,2026-09-15,Completed,2026-09-15,Y,N
+JP70074,P70074,Final Approval,HCIS,2026-09-18,Completed,2026-09-20,N,N
+JP70075,P70075,Personal Information,New Hire,2026-09-21,Completed,2026-09-22,N,N
+JP70075,P70075,Background Check,Pre-Employment,2026-09-24,Completed,2026-09-25,N,N
+JP70075,P70075,Position Assignment,HC Partner,2026-09-27,Assigned,,N,N
+JP70076,P70076,Personal Information,New Hire,2026-07-27,Completed,2026-07-27,N,N
+JP70076,P70076,Background Check,Pre-Employment,2026-07-30,Completed,2026-07-31,N,N
+JP70076,P70076,Position Assignment,HC Partner,2026-08-02,Completed,2026-08-02,N,N
+JP70076,P70076,Salary Verification,Compensation,2026-08-05,Assigned,,N,Y
+JP70077,P70077,Personal Information,New Hire,2026-07-19,Completed,2026-07-22,N,N
+JP70077,P70077,Background Check,Pre-Employment,2026-07-22,Assigned,,N,N
+JP70078,P70078,Personal Information,New Hire,2026-06-29,Completed,2026-07-01,N,N
+JP70078,P70078,Background Check,Pre-Employment,2026-07-02,Completed,2026-07-04,N,N
+JP70078,P70078,Position Assignment,HC Partner,2026-07-05,Completed,2026-07-06,N,N
+JP70078,P70078,Salary Verification,Compensation,2026-07-08,Completed,2026-07-09,N,N
+JP70078,P70078,System Access,IT,2026-07-11,Completed,2026-07-14,N,N
+JP70078,P70078,Final Approval,HCIS,2026-07-14,Completed,2026-07-15,N,N
+JP70079,P70079,Personal Information,New Hire,2026-09-18,Completed,2026-09-19,N,N
+JP70079,P70079,Background Check,Pre-Employment,2026-09-21,Completed,2026-09-22,N,N
+JP70079,P70079,Position Assignment,HC Partner,2026-09-24,Completed,2026-09-27,N,N
+JP70079,P70079,Salary Verification,Compensation,2026-09-27,Assigned,,N,N
+JP70081,P70081,Personal Information,New Hire,2026-07-01,Completed,2026-07-02,N,N
+JP70081,P70081,Background Check,Pre-Employment,2026-07-04,Completed,2026-07-04,Y,N
+JP70081,P70081,Position Assignment,HC Partner,2026-07-07,Completed,2026-07-07,N,N
+JP70081,P70081,Salary Verification,Compensation,2026-07-10,Completed,2026-07-10,N,N
+JP70081,P70081,System Access,IT,2026-07-13,Completed,2026-07-14,N,N
+JP70081,P70081,Final Approval,HCIS,2026-07-16,Completed,2026-07-17,N,N
+JP70082,P70082,Personal Information,New Hire,2026-08-13,Completed,2026-08-15,N,N
+JP70082,P70082,Background Check,Pre-Employment,2026-08-16,Assigned,,N,Y
+JP70085,P70085,Personal Information,New Hire,2026-09-29,Completed,2026-09-30,N,N
+JP70085,P70085,Background Check,Pre-Employment,2026-10-02,Completed,2026-10-03,N,N
+JP70085,P70085,Position Assignment,HC Partner,2026-10-05,Completed,2026-10-07,N,N
+JP70085,P70085,Salary Verification,Compensation,2026-10-08,Completed,2026-10-11,N,N
+JP70085,P70085,System Access,IT,2026-10-11,Completed,2026-10-13,N,N
+JP70085,P70085,Final Approval,HCIS,2026-10-14,Completed,2026-10-14,N,N
+JP70086,P70086,Personal Information,New Hire,2026-07-02,Completed,2026-07-02,N,N
+JP70086,P70086,Background Check,Pre-Employment,2026-07-05,Completed,2026-07-07,N,N
+JP70086,P70086,Position Assignment,HC Partner,2026-07-08,Completed,2026-07-11,N,N
+JP70086,P70086,Salary Verification,Compensation,2026-07-11,Completed,2026-07-12,Y,N
+JP70086,P70086,System Access,IT,2026-07-14,Completed,2026-07-16,N,N
+JP70086,P70086,Final Approval,HCIS,2026-07-17,Completed,2026-07-19,N,N
+JP70088,P70088,Personal Information,New Hire,2026-10-01,Completed,2026-10-02,N,N
+JP70088,P70088,Background Check,Pre-Employment,2026-10-04,Completed,2026-10-07,N,N
+JP70088,P70088,Position Assignment,HC Partner,2026-10-07,Assigned,,N,Y
+JP70089,P70089,Personal Information,New Hire,2026-08-10,Completed,2026-08-11,N,N
+JP70089,P70089,Background Check,Pre-Employment,2026-08-13,Completed,2026-08-13,N,N
+JP70089,P70089,Position Assignment,HC Partner,2026-08-16,Completed,2026-08-19,N,N
+JP70089,P70089,Salary Verification,Compensation,2026-08-19,Completed,2026-08-21,N,N
+JP70089,P70089,System Access,IT,2026-08-22,Completed,2026-08-24,N,N
+JP70089,P70089,Final Approval,HCIS,2026-08-25,Completed,2026-08-27,Y,N
+JP70090,P70090,Personal Information,New Hire,2026-10-06,Assigned,,N,N
+JP70091,P70091,Personal Information,New Hire,2026-08-01,Assigned,,N,Y
+JP70092,P70092,Personal Information,New Hire,2026-10-05,Completed,2026-10-07,N,N
+JP70092,P70092,Background Check,Pre-Employment,2026-10-08,Completed,2026-10-09,N,N
+JP70092,P70092,Position Assignment,HC Partner,2026-10-11,Completed,2026-10-14,N,N
+JP70092,P70092,Salary Verification,Compensation,2026-10-14,Completed,2026-10-17,N,N
+JP70093,P70093,Personal Information,New Hire,2026-08-31,Completed,2026-08-31,N,N
+JP70093,P70093,Background Check,Pre-Employment,2026-09-03,Assigned,,N,N
+JP70094,P70094,Personal Information,New Hire,2026-07-08,Completed,2026-07-08,N,N
+JP70094,P70094,Background Check,Pre-Employment,2026-07-11,Completed,2026-07-13,N,N
+JP70094,P70094,Position Assignment,HC Partner,2026-07-14,Assigned,,N,N
+JP70095,P70095,Personal Information,New Hire,2026-09-09,Completed,2026-09-11,N,N
+JP70095,P70095,Background Check,Pre-Employment,2026-09-12,Completed,2026-09-12,N,N
+JP70095,P70095,Position Assignment,HC Partner,2026-09-15,Completed,2026-09-18,N,N
+JP70095,P70095,Salary Verification,Compensation,2026-09-18,Completed,2026-09-19,Y,N
+JP70095,P70095,System Access,IT,2026-09-21,Completed,2026-09-23,N,N
+JP70095,P70095,Final Approval,HCIS,2026-09-24,Assigned,,N,Y
+JP70096,P70096,Personal Information,New Hire,2026-06-22,Completed,2026-06-24,N,N
+JP70096,P70096,Background Check,Pre-Employment,2026-06-25,Completed,2026-06-28,N,N
+JP70096,P70096,Position Assignment,HC Partner,2026-06-28,Completed,2026-06-30,N,N
+JP70096,P70096,Salary Verification,Compensation,2026-07-01,Assigned,,N,Y
+JP70097,P70097,Personal Information,New Hire,2026-08-29,Completed,2026-09-01,N,N
+JP70097,P70097,Background Check,Pre-Employment,2026-09-01,Completed,2026-09-04,N,N
+JP70097,P70097,Position Assignment,HC Partner,2026-09-04,Completed,2026-09-06,N,N
+JP70097,P70097,Salary Verification,Compensation,2026-09-07,Assigned,,N,N
+JP70098,P70098,Personal Information,New Hire,2026-08-28,Completed,2026-08-31,N,N
+JP70098,P70098,Background Check,Pre-Employment,2026-08-31,Completed,2026-09-02,N,N
+JP70098,P70098,Position Assignment,HC Partner,2026-09-03,Completed,2026-09-06,N,N
+JP70098,P70098,Salary Verification,Compensation,2026-09-06,Completed,2026-09-09,N,N
+JP70098,P70098,System Access,IT,2026-09-09,Completed,2026-09-12,N,N
+JP70098,P70098,Final Approval,HCIS,2026-09-12,Completed,2026-09-15,N,N
+JP70099,P70099,Personal Information,New Hire,2026-08-01,Assigned,,N,Y
+JP70100,P70100,Personal Information,New Hire,2026-08-19,Completed,2026-08-20,N,N
+JP70100,P70100,Background Check,Pre-Employment,2026-08-22,Completed,2026-08-23,N,N
+JP70100,P70100,Position Assignment,HC Partner,2026-08-25,Completed,2026-08-26,N,N
+JP70100,P70100,Salary Verification,Compensation,2026-08-28,Completed,2026-08-30,N,N
+JP70100,P70100,System Access,IT,2026-08-31,Completed,2026-09-02,N,N
+JP70100,P70100,Final Approval,HCIS,2026-09-03,Completed,2026-09-05,N,N
+JP70101,P70101,Personal Information,New Hire,2026-08-26,Completed,2026-08-28,N,N
+JP70101,P70101,Background Check,Pre-Employment,2026-08-29,Completed,2026-08-31,N,N
+JP70101,P70101,Position Assignment,HC Partner,2026-09-01,Completed,2026-09-01,N,N
+JP70101,P70101,Salary Verification,Compensation,2026-09-04,Completed,2026-09-06,N,N
+JP70101,P70101,System Access,IT,2026-09-07,Assigned,,N,N
+JP70102,P70102,Personal Information,New Hire,2026-08-17,Completed,2026-08-19,N,N
+JP70102,P70102,Background Check,Pre-Employment,2026-08-20,Completed,2026-08-22,N,N
+JP70102,P70102,Position Assignment,HC Partner,2026-08-23,Completed,2026-08-25,N,N
+JP70102,P70102,Salary Verification,Compensation,2026-08-26,Completed,2026-08-28,Y,N
+JP70102,P70102,System Access,IT,2026-08-29,Assigned,,N,N
+JP70104,P70104,Personal Information,New Hire,2026-09-01,Completed,2026-09-02,N,N
+JP70104,P70104,Background Check,Pre-Employment,2026-09-04,Completed,2026-09-06,N,N
+JP70104,P70104,Position Assignment,HC Partner,2026-09-07,Completed,2026-09-08,N,N
+JP70104,P70104,Salary Verification,Compensation,2026-09-10,Assigned,,Y,N
+JP70105,P70105,Personal Information,New Hire,2026-09-30,Completed,2026-10-03,N,N
+JP70105,P70105,Background Check,Pre-Employment,2026-10-03,Completed,2026-10-05,N,N
+JP70105,P70105,Position Assignment,HC Partner,2026-10-06,Completed,2026-10-09,N,N
+JP70105,P70105,Salary Verification,Compensation,2026-10-09,Assigned,,N,N
+JP70107,P70107,Personal Information,New Hire,2026-08-09,Completed,2026-08-10,N,N
+JP70107,P70107,Background Check,Pre-Employment,2026-08-12,Completed,2026-08-12,N,N
+JP70107,P70107,Position Assignment,HC Partner,2026-08-15,Completed,2026-08-17,N,N
+JP70107,P70107,Salary Verification,Compensation,2026-08-18,Completed,2026-08-18,N,N
+JP70107,P70107,System Access,IT,2026-08-21,Completed,2026-08-24,N,N
+JP70107,P70107,Final Approval,HCIS,2026-08-24,Completed,2026-08-27,N,N
+JP70108,P70108,Personal Information,New Hire,2026-09-10,Completed,2026-09-13,N,N
+JP70108,P70108,Background Check,Pre-Employment,2026-09-13,Completed,2026-09-16,N,N
+JP70108,P70108,Position Assignment,HC Partner,2026-09-16,Assigned,,N,N
+JP70109,P70109,Personal Information,New Hire,2026-08-03,Completed,2026-08-06,N,N
+JP70109,P70109,Background Check,Pre-Employment,2026-08-06,Completed,2026-08-06,N,N
+JP70109,P70109,Position Assignment,HC Partner,2026-08-09,Completed,2026-08-11,N,N
+JP70109,P70109,Salary Verification,Compensation,2026-08-12,Assigned,,N,N
+JP70110,P70110,Personal Information,New Hire,2026-08-17,Completed,2026-08-20,N,N
+JP70110,P70110,Background Check,Pre-Employment,2026-08-20,Completed,2026-08-22,N,N
+JP70110,P70110,Position Assignment,HC Partner,2026-08-23,Completed,2026-08-23,Y,N
+JP70110,P70110,Salary Verification,Compensation,2026-08-26,Completed,2026-08-27,N,N
+JP70110,P70110,System Access,IT,2026-08-29,Completed,2026-09-01,N,N
+JP70110,P70110,Final Approval,HCIS,2026-09-01,Completed,2026-09-04,N,N
+JP70111,P70111,Personal Information,New Hire,2026-08-14,Completed,2026-08-16,N,N
+JP70111,P70111,Background Check,Pre-Employment,2026-08-17,Completed,2026-08-18,N,N
+JP70111,P70111,Position Assignment,HC Partner,2026-08-20,Completed,2026-08-22,N,N
+JP70111,P70111,Salary Verification,Compensation,2026-08-23,Completed,2026-08-23,N,N
+JP70111,P70111,System Access,IT,2026-08-26,Completed,2026-08-26,N,N
+JP70111,P70111,Final Approval,HCIS,2026-08-29,Assigned,,N,N
+JP70112,P70112,Personal Information,New Hire,2026-08-29,Completed,2026-08-29,N,N
+JP70112,P70112,Background Check,Pre-Employment,2026-09-01,Completed,2026-09-03,N,N
+JP70112,P70112,Position Assignment,HC Partner,2026-09-04,Completed,2026-09-05,N,N
+JP70112,P70112,Salary Verification,Compensation,2026-09-07,Completed,2026-09-09,N,N
+JP70112,P70112,System Access,IT,2026-09-10,Assigned,,N,N
+JP70113,P70113,Personal Information,New Hire,2026-08-26,Completed,2026-08-27,Y,N
+JP70113,P70113,Background Check,Pre-Employment,2026-08-29,Completed,2026-08-29,N,N
+JP70113,P70113,Position Assignment,HC Partner,2026-09-01,Completed,2026-09-04,N,N
+JP70113,P70113,Salary Verification,Compensation,2026-09-04,Completed,2026-09-04,N,N
+JP70113,P70113,System Access,IT,2026-09-07,Completed,2026-09-07,N,N
+JP70113,P70113,Final Approval,HCIS,2026-09-10,Assigned,,N,Y
+JP70114,P70114,Personal Information,New Hire,2026-08-04,Completed,2026-08-04,N,N
+JP70114,P70114,Background Check,Pre-Employment,2026-08-07,Completed,2026-08-10,N,N
+JP70114,P70114,Position Assignment,HC Partner,2026-08-10,Completed,2026-08-13,N,N
+JP70114,P70114,Salary Verification,Compensation,2026-08-13,Completed,2026-08-15,N,N
+JP70114,P70114,System Access,IT,2026-08-16,Completed,2026-08-18,N,N
+JP70114,P70114,Final Approval,HCIS,2026-08-19,Assigned,,N,Y
+JP70115,P70115,Personal Information,New Hire,2026-10-05,Completed,2026-10-07,N,N
+JP70115,P70115,Background Check,Pre-Employment,2026-10-08,Completed,2026-10-09,N,N
+JP70115,P70115,Position Assignment,HC Partner,2026-10-11,Completed,2026-10-12,N,N
+JP70115,P70115,Salary Verification,Compensation,2026-10-14,Assigned,,N,N
+JP70116,P70116,Personal Information,New Hire,2026-07-27,Completed,2026-07-27,N,N
+JP70116,P70116,Background Check,Pre-Employment,2026-07-30,Completed,2026-07-31,N,N
+JP70116,P70116,Position Assignment,HC Partner,2026-08-02,Completed,2026-08-03,N,N
+JP70116,P70116,Salary Verification,Compensation,2026-08-05,Assigned,,N,Y
+JP70117,P70117,Personal Information,New Hire,2026-09-26,Assigned,,N,Y
+JP70118,P70118,Personal Information,New Hire,2026-08-03,Completed,2026-08-04,N,N
+JP70118,P70118,Background Check,Pre-Employment,2026-08-06,Completed,2026-08-06,N,N
+JP70118,P70118,Position Assignment,HC Partner,2026-08-09,Completed,2026-08-10,N,N
+JP70118,P70118,Salary Verification,Compensation,2026-08-12,Completed,2026-08-15,N,N
+JP70118,P70118,System Access,IT,2026-08-15,Completed,2026-08-18,N,N
+JP70118,P70118,Final Approval,HCIS,2026-08-18,Completed,2026-08-20,N,N
+JP70119,P70119,Personal Information,New Hire,2026-08-01,Completed,2026-08-03,N,N
+JP70119,P70119,Background Check,Pre-Employment,2026-08-04,Completed,2026-08-06,N,N
+JP70119,P70119,Position Assignment,HC Partner,2026-08-07,Assigned,,N,N
+JP70120,P70120,Personal Information,New Hire,2026-07-16,Completed,2026-07-17,N,N
+JP70120,P70120,Background Check,Pre-Employment,2026-07-19,Completed,2026-07-19,N,N
+JP70120,P70120,Position Assignment,HC Partner,2026-07-22,Completed,2026-07-22,N,N
+JP70120,P70120,Salary Verification,Compensation,2026-07-25,Completed,2026-07-28,N,N
+JP70120,P70120,System Access,IT,2026-07-28,Completed,2026-07-28,N,N
+JP70120,P70120,Final Approval,HCIS,2026-07-31,Assigned,,N,N
+JP70121,P70121,Personal Information,New Hire,2026-08-06,Completed,2026-08-06,N,N
+JP70121,P70121,Background Check,Pre-Employment,2026-08-09,Completed,2026-08-09,N,N
+JP70121,P70121,Position Assignment,HC Partner,2026-08-12,Completed,2026-08-15,N,N
+JP70121,P70121,Salary Verification,Compensation,2026-08-15,Completed,2026-08-15,N,N
+JP70121,P70121,System Access,IT,2026-08-18,Completed,2026-08-19,N,N
+JP70121,P70121,Final Approval,HCIS,2026-08-21,Assigned,,N,N
+JP70122,P70122,Personal Information,New Hire,2026-09-05,Completed,2026-09-05,N,N
+JP70122,P70122,Background Check,Pre-Employment,2026-09-08,Completed,2026-09-09,N,N
+JP70122,P70122,Position Assignment,HC Partner,2026-09-11,Completed,2026-09-14,N,N
+JP70122,P70122,Salary Verification,Compensation,2026-09-14,Completed,2026-09-16,N,N
+JP70122,P70122,System Access,IT,2026-09-17,Assigned,,N,Y
+JP70123,P70123,Personal Information,New Hire,2026-07-19,Completed,2026-07-21,N,N
+JP70123,P70123,Background Check,Pre-Employment,2026-07-22,Completed,2026-07-24,N,N
+JP70123,P70123,Position Assignment,HC Partner,2026-07-25,Completed,2026-07-28,N,N
+JP70123,P70123,Salary Verification,Compensation,2026-07-28,Completed,2026-07-29,N,N
+JP70123,P70123,System Access,IT,2026-07-31,Completed,2026-07-31,N,N
+JP70123,P70123,Final Approval,HCIS,2026-08-03,Completed,2026-08-04,N,N
+JP70124,P70124,Personal Information,New Hire,2026-08-13,Completed,2026-08-15,Y,N
+JP70124,P70124,Background Check,Pre-Employment,2026-08-16,Assigned,,N,N
+JP70125,P70125,Personal Information,New Hire,2026-06-08,Completed,2026-06-10,N,N
+JP70125,P70125,Background Check,Pre-Employment,2026-06-11,Completed,2026-06-14,N,N
+JP70125,P70125,Position Assignment,HC Partner,2026-06-14,Completed,2026-06-15,N,N
+JP70125,P70125,Salary Verification,Compensation,2026-06-17,Completed,2026-06-18,N,N
+JP70125,P70125,System Access,IT,2026-06-20,Completed,2026-06-22,N,N
+JP70125,P70125,Final Approval,HCIS,2026-06-23,Completed,2026-06-25,N,N
+JP70126,P70126,Personal Information,New Hire,2026-09-05,Completed,2026-09-05,N,N
+JP70126,P70126,Background Check,Pre-Employment,2026-09-08,Completed,2026-09-10,N,N
+JP70126,P70126,Position Assignment,HC Partner,2026-09-11,Completed,2026-09-12,N,N
+JP70126,P70126,Salary Verification,Compensation,2026-09-14,Completed,2026-09-15,Y,N
+JP70126,P70126,System Access,IT,2026-09-17,Completed,2026-09-19,N,N
+JP70126,P70126,Final Approval,HCIS,2026-09-20,Completed,2026-09-21,N,N
+JP70128,P70128,Personal Information,New Hire,2026-09-14,Completed,2026-09-15,N,N
+JP70128,P70128,Background Check,Pre-Employment,2026-09-17,Completed,2026-09-18,N,N
+JP70128,P70128,Position Assignment,HC Partner,2026-09-20,Completed,2026-09-22,N,N
+JP70128,P70128,Salary Verification,Compensation,2026-09-23,Completed,2026-09-24,N,N
+JP70128,P70128,System Access,IT,2026-09-26,Completed,2026-09-29,N,N
+JP70128,P70128,Final Approval,HCIS,2026-09-29,Completed,2026-10-01,N,N
+JP70129,P70129,Personal Information,New Hire,2026-07-23,Completed,2026-07-24,N,N
+JP70129,P70129,Background Check,Pre-Employment,2026-07-26,Completed,2026-07-26,N,N
+JP70129,P70129,Position Assignment,HC Partner,2026-07-29,Completed,2026-07-30,N,N
+JP70129,P70129,Salary Verification,Compensation,2026-08-01,Assigned,,N,N
+JP70130,P70130,Personal Information,New Hire,2026-06-13,Completed,2026-06-15,N,N
+JP70130,P70130,Background Check,Pre-Employment,2026-06-16,Completed,2026-06-16,N,N
+JP70130,P70130,Position Assignment,HC Partner,2026-06-19,Completed,2026-06-20,N,N
+JP70130,P70130,Salary Verification,Compensation,2026-06-22,Completed,2026-06-25,N,N
+JP70130,P70130,System Access,IT,2026-06-25,Completed,2026-06-28,N,N
+JP70130,P70130,Final Approval,HCIS,2026-06-28,Completed,2026-06-28,N,N
+JP70131,P70131,Personal Information,New Hire,2026-09-03,Assigned,,N,N
+JP70132,P70132,Personal Information,New Hire,2026-09-21,Completed,2026-09-24,N,N
+JP70132,P70132,Background Check,Pre-Employment,2026-09-24,Completed,2026-09-27,N,N
+JP70132,P70132,Position Assignment,HC Partner,2026-09-27,Assigned,,N,Y
+JP70133,P70133,Personal Information,New Hire,2026-09-03,Completed,2026-09-03,N,N
+JP70133,P70133,Background Check,Pre-Employment,2026-09-06,Completed,2026-09-07,N,N
+JP70133,P70133,Position Assignment,HC Partner,2026-09-09,Completed,2026-09-10,N,N
+JP70133,P70133,Salary Verification,Compensation,2026-09-12,Completed,2026-09-13,N,N
+JP70133,P70133,System Access,IT,2026-09-15,Completed,2026-09-18,N,N
+JP70133,P70133,Final Approval,HCIS,2026-09-18,Completed,2026-09-19,N,N
+JP70134,P70134,Personal Information,New Hire,2026-07-31,Completed,2026-08-01,N,N
+JP70134,P70134,Background Check,Pre-Employment,2026-08-03,Completed,2026-08-03,N,N
+JP70134,P70134,Position Assignment,HC Partner,2026-08-06,Completed,2026-08-09,N,N
+JP70134,P70134,Salary Verification,Compensation,2026-08-09,Completed,2026-08-09,N,N
+JP70134,P70134,System Access,IT,2026-08-12,Completed,2026-08-15,N,N
+JP70134,P70134,Final Approval,HCIS,2026-08-15,Completed,2026-08-18,N,N
+JP70135,P70135,Personal Information,New Hire,2026-10-04,Completed,2026-10-05,N,N
+JP70135,P70135,Background Check,Pre-Employment,2026-10-07,Assigned,,N,Y
+JP70137,P70137,Personal Information,New Hire,2026-06-22,Completed,2026-06-23,N,N
+JP70137,P70137,Background Check,Pre-Employment,2026-06-25,Assigned,,Y,N
+JP70138,P70138,Personal Information,New Hire,2026-08-03,Completed,2026-08-03,N,N
+JP70138,P70138,Background Check,Pre-Employment,2026-08-06,Assigned,,N,Y
+JP70139,P70139,Personal Information,New Hire,2026-08-06,Completed,2026-08-06,N,N
+JP70139,P70139,Background Check,Pre-Employment,2026-08-09,Completed,2026-08-12,N,N
+JP70139,P70139,Position Assignment,HC Partner,2026-08-12,Completed,2026-08-15,N,N
+JP70139,P70139,Salary Verification,Compensation,2026-08-15,Assigned,,N,N
+JP70140,P70140,Personal Information,New Hire,2026-08-13,Completed,2026-08-16,N,N
+JP70140,P70140,Background Check,Pre-Employment,2026-08-16,Assigned,,N,Y
+JP70142,P70142,Personal Information,New Hire,2026-08-25,Completed,2026-08-26,N,N
+JP70142,P70142,Background Check,Pre-Employment,2026-08-28,Completed,2026-08-28,N,N
+JP70142,P70142,Position Assignment,HC Partner,2026-08-31,Completed,2026-09-02,N,N
+JP70142,P70142,Salary Verification,Compensation,2026-09-03,Assigned,,N,N
+JP70143,P70143,Personal Information,New Hire,2026-08-07,Completed,2026-08-08,N,N
+JP70143,P70143,Background Check,Pre-Employment,2026-08-10,Completed,2026-08-11,N,N
+JP70143,P70143,Position Assignment,HC Partner,2026-08-13,Completed,2026-08-14,N,N
+JP70143,P70143,Salary Verification,Compensation,2026-08-16,Assigned,,N,N
+JP70144,P70144,Personal Information,New Hire,2026-09-01,Completed,2026-09-01,N,N
+JP70144,P70144,Background Check,Pre-Employment,2026-09-04,Completed,2026-09-06,N,N
+JP70144,P70144,Position Assignment,HC Partner,2026-09-07,Completed,2026-09-08,Y,N
+JP70144,P70144,Salary Verification,Compensation,2026-09-10,Completed,2026-09-10,N,N
+JP70144,P70144,System Access,IT,2026-09-13,Completed,2026-09-15,N,N
+JP70144,P70144,Final Approval,HCIS,2026-09-16,Completed,2026-09-16,N,N
+JP70145,P70145,Personal Information,New Hire,2026-08-25,Completed,2026-08-27,N,N
+JP70145,P70145,Background Check,Pre-Employment,2026-08-28,Completed,2026-08-31,N,N
+JP70145,P70145,Position Assignment,HC Partner,2026-08-31,Completed,2026-09-01,N,N
+JP70145,P70145,Salary Verification,Compensation,2026-09-03,Assigned,,N,N
+JP70146,P70146,Personal Information,New Hire,2026-07-04,Assigned,,N,N
+JP70147,P70147,Personal Information,New Hire,2026-08-08,Completed,2026-08-11,N,N
+JP70147,P70147,Background Check,Pre-Employment,2026-08-11,Completed,2026-08-12,N,N
+JP70147,P70147,Position Assignment,HC Partner,2026-08-14,Completed,2026-08-15,N,N
+JP70147,P70147,Salary Verification,Compensation,2026-08-17,Completed,2026-08-20,N,N
+JP70147,P70147,System Access,IT,2026-08-20,Completed,2026-08-20,N,N
+JP70147,P70147,Final Approval,HCIS,2026-08-23,Completed,2026-08-25,N,N
+JP70148,P70148,Personal Information,New Hire,2026-09-21,Completed,2026-09-24,N,N
+JP70148,P70148,Background Check,Pre-Employment,2026-09-24,Completed,2026-09-26,N,N
+JP70148,P70148,Position Assignment,HC Partner,2026-09-27,Completed,2026-09-30,N,N
+JP70148,P70148,Salary Verification,Compensation,2026-09-30,Completed,2026-10-03,N,N
+JP70148,P70148,System Access,IT,2026-10-03,Completed,2026-10-03,N,N
+JP70148,P70148,Final Approval,HCIS,2026-10-06,Completed,2026-10-09,N,N
+JP70149,P70149,Personal Information,New Hire,2026-09-08,Completed,2026-09-11,N,N
+JP70149,P70149,Background Check,Pre-Employment,2026-09-11,Completed,2026-09-12,N,N
+JP70149,P70149,Position Assignment,HC Partner,2026-09-14,Assigned,,N,N
+JP70150,P70150,Personal Information,New Hire,2026-06-17,Completed,2026-06-19,N,N
+JP70150,P70150,Background Check,Pre-Employment,2026-06-20,Completed,2026-06-20,N,N
+JP70150,P70150,Position Assignment,HC Partner,2026-06-23,Completed,2026-06-25,N,N
+JP70150,P70150,Salary Verification,Compensation,2026-06-26,Completed,2026-06-26,N,N
+JP70150,P70150,System Access,IT,2026-06-29,Completed,2026-07-01,Y,N
+JP70150,P70150,Final Approval,HCIS,2026-07-02,Assigned,,N,N
+JP70151,P70151,Personal Information,New Hire,2026-09-19,Completed,2026-09-19,N,N
+JP70151,P70151,Background Check,Pre-Employment,2026-09-22,Completed,2026-09-23,N,N
+JP70151,P70151,Position Assignment,HC Partner,2026-09-25,Completed,2026-09-25,N,N
+JP70151,P70151,Salary Verification,Compensation,2026-09-28,Completed,2026-09-30,N,N
+JP70151,P70151,System Access,IT,2026-10-01,Assigned,,N,Y
+JP70152,P70152,Personal Information,New Hire,2026-09-11,Completed,2026-09-11,N,N
+JP70152,P70152,Background Check,Pre-Employment,2026-09-14,Completed,2026-09-15,N,N
+JP70152,P70152,Position Assignment,HC Partner,2026-09-17,Completed,2026-09-17,N,N
+JP70152,P70152,Salary Verification,Compensation,2026-09-20,Assigned,,N,N
+JP70153,P70153,Personal Information,New Hire,2026-09-18,Completed,2026-09-18,N,N
+JP70153,P70153,Background Check,Pre-Employment,2026-09-21,Completed,2026-09-24,N,N
+JP70153,P70153,Position Assignment,HC Partner,2026-09-24,Completed,2026-09-25,Y,N
+JP70153,P70153,Salary Verification,Compensation,2026-09-27,Assigned,,N,N
+JP70155,P70155,Personal Information,New Hire,2026-09-02,Completed,2026-09-04,N,N
+JP70155,P70155,Background Check,Pre-Employment,2026-09-05,Completed,2026-09-05,N,N
+JP70155,P70155,Position Assignment,HC Partner,2026-09-08,Completed,2026-09-10,N,N
+JP70155,P70155,Salary Verification,Compensation,2026-09-11,Completed,2026-09-11,N,N
+JP70155,P70155,System Access,IT,2026-09-14,Assigned,,N,Y
+JP70156,P70156,Personal Information,New Hire,2026-08-23,Completed,2026-08-26,N,N
+JP70156,P70156,Background Check,Pre-Employment,2026-08-26,Assigned,,N,N
+JP70157,P70157,Personal Information,New Hire,2026-09-30,Completed,2026-10-03,N,N
+JP70157,P70157,Background Check,Pre-Employment,2026-10-03,Completed,2026-10-03,N,N
+JP70157,P70157,Position Assignment,HC Partner,2026-10-06,Completed,2026-10-08,N,N
+JP70157,P70157,Salary Verification,Compensation,2026-10-09,Assigned,,N,N
+JP70158,P70158,Personal Information,New Hire,2026-07-12,Completed,2026-07-15,N,N
+JP70158,P70158,Background Check,Pre-Employment,2026-07-15,Completed,2026-07-18,N,N
+JP70158,P70158,Position Assignment,HC Partner,2026-07-18,Completed,2026-07-20,N,N
+JP70158,P70158,Salary Verification,Compensation,2026-07-21,Completed,2026-07-21,N,N
+JP70158,P70158,System Access,IT,2026-07-24,Completed,2026-07-25,N,N
+JP70158,P70158,Final Approval,HCIS,2026-07-27,Completed,2026-07-29,N,N
+JP70159,P70159,Personal Information,New Hire,2026-08-23,Completed,2026-08-24,N,N
+JP70159,P70159,Background Check,Pre-Employment,2026-08-26,Completed,2026-08-26,N,N
+JP70159,P70159,Position Assignment,HC Partner,2026-08-29,Completed,2026-08-30,N,N
+JP70159,P70159,Salary Verification,Compensation,2026-09-01,Completed,2026-09-03,N,N
+JP70159,P70159,System Access,IT,2026-09-04,Completed,2026-09-04,N,N
+JP70159,P70159,Final Approval,HCIS,2026-09-07,Completed,2026-09-09,N,N
+JP70160,P70160,Personal Information,New Hire,2026-08-21,Completed,2026-08-23,N,N
+JP70160,P70160,Background Check,Pre-Employment,2026-08-24,Completed,2026-08-25,N,N
+JP70160,P70160,Position Assignment,HC Partner,2026-08-27,Assigned,,N,N
+JP70161,P70161,Personal Information,New Hire,2026-07-23,Completed,2026-07-23,Y,N
+JP70161,P70161,Background Check,Pre-Employment,2026-07-26,Completed,2026-07-27,N,N
+JP70161,P70161,Position Assignment,HC Partner,2026-07-29,Completed,2026-07-30,N,N
+JP70161,P70161,Salary Verification,Compensation,2026-08-01,Assigned,,N,Y
+JP70162,P70162,Personal Information,New Hire,2026-09-15,Completed,2026-09-18,N,N
+JP70162,P70162,Background Check,Pre-Employment,2026-09-18,Assigned,,N,N
+JP70163,P70163,Personal Information,New Hire,2026-07-12,Completed,2026-07-13,N,N
+JP70163,P70163,Background Check,Pre-Employment,2026-07-15,Assigned,,N,Y
+JP70165,P70165,Personal Information,New Hire,2026-07-01,Completed,2026-07-03,N,N
+JP70165,P70165,Background Check,Pre-Employment,2026-07-04,Completed,2026-07-04,N,N
+JP70165,P70165,Position Assignment,HC Partner,2026-07-07,Completed,2026-07-07,N,N
+JP70165,P70165,Salary Verification,Compensation,2026-07-10,Completed,2026-07-13,N,N
+JP70165,P70165,System Access,IT,2026-07-13,Completed,2026-07-16,N,N
+JP70165,P70165,Final Approval,HCIS,2026-07-16,Completed,2026-07-18,N,N
+JP70166,P70166,Personal Information,New Hire,2026-07-16,Completed,2026-07-18,N,N
+JP70166,P70166,Background Check,Pre-Employment,2026-07-19,Completed,2026-07-22,N,N
+JP70166,P70166,Position Assignment,HC Partner,2026-07-22,Completed,2026-07-24,N,N
+JP70166,P70166,Salary Verification,Compensation,2026-07-25,Assigned,,N,N
+JP70167,P70167,Personal Information,New Hire,2026-08-26,Completed,2026-08-26,N,N
+JP70167,P70167,Background Check,Pre-Employment,2026-08-29,Assigned,,N,Y
+JP70168,P70168,Personal Information,New Hire,2026-07-21,Completed,2026-07-22,N,N
+JP70168,P70168,Background Check,Pre-Employment,2026-07-24,Assigned,,Y,N
+JP70169,P70169,Personal Information,New Hire,2026-09-10,Completed,2026-09-13,N,N
+JP70169,P70169,Background Check,Pre-Employment,2026-09-13,Assigned,,N,N
+JP70170,P70170,Personal Information,New Hire,2026-08-07,Completed,2026-08-10,N,N
+JP70170,P70170,Background Check,Pre-Employment,2026-08-10,Completed,2026-08-11,N,N
+JP70170,P70170,Position Assignment,HC Partner,2026-08-13,Completed,2026-08-14,N,N
+JP70170,P70170,Salary Verification,Compensation,2026-08-16,Assigned,,N,N
+JP70171,P70171,Personal Information,New Hire,2026-07-11,Completed,2026-07-13,N,N
+JP70171,P70171,Background Check,Pre-Employment,2026-07-14,Completed,2026-07-17,N,N
+JP70171,P70171,Position Assignment,HC Partner,2026-07-17,Completed,2026-07-20,N,N
+JP70171,P70171,Salary Verification,Compensation,2026-07-20,Completed,2026-07-23,N,N
+JP70171,P70171,System Access,IT,2026-07-23,Completed,2026-07-26,N,N
+JP70171,P70171,Final Approval,HCIS,2026-07-26,Completed,2026-07-26,N,N
+JP70172,P70172,Personal Information,New Hire,2026-07-17,Completed,2026-07-20,N,N
+JP70172,P70172,Background Check,Pre-Employment,2026-07-20,Completed,2026-07-23,N,N
+JP70172,P70172,Position Assignment,HC Partner,2026-07-23,Completed,2026-07-25,N,N
+JP70172,P70172,Salary Verification,Compensation,2026-07-26,Completed,2026-07-26,N,N
+JP70172,P70172,System Access,IT,2026-07-29,Completed,2026-07-29,N,N
+JP70172,P70172,Final Approval,HCIS,2026-08-01,Completed,2026-08-03,N,N
+JP70173,P70173,Personal Information,New Hire,2026-09-27,Completed,2026-09-30,N,N
+JP70173,P70173,Background Check,Pre-Employment,2026-09-30,Completed,2026-10-02,N,N
+JP70173,P70173,Position Assignment,HC Partner,2026-10-03,Completed,2026-10-04,N,N
+JP70173,P70173,Salary Verification,Compensation,2026-10-06,Completed,2026-10-09,N,N
+JP70173,P70173,System Access,IT,2026-10-09,Completed,2026-10-11,N,N
+JP70173,P70173,Final Approval,HCIS,2026-10-12,Completed,2026-10-15,N,N
+JP70174,P70174,Personal Information,New Hire,2026-08-30,Completed,2026-08-31,N,N
+JP70174,P70174,Background Check,Pre-Employment,2026-09-02,Completed,2026-09-02,N,N
+JP70174,P70174,Position Assignment,HC Partner,2026-09-05,Assigned,,N,Y
+JP70175,P70175,Personal Information,New Hire,2026-08-13,Completed,2026-08-13,N,N
+JP70175,P70175,Background Check,Pre-Employment,2026-08-16,Completed,2026-08-18,N,N
+JP70175,P70175,Position Assignment,HC Partner,2026-08-19,Assigned,,N,N
+JP70176,P70176,Personal Information,New Hire,2026-08-31,Completed,2026-09-02,N,N
+JP70176,P70176,Background Check,Pre-Employment,2026-09-03,Assigned,,N,N
+JP70177,P70177,Personal Information,New Hire,2026-09-17,Completed,2026-09-20,N,N
+JP70177,P70177,Background Check,Pre-Employment,2026-09-20,Assigned,,N,Y
+JP70178,P70178,Personal Information,New Hire,2026-07-21,Assigned,,N,N
+JP70179,P70179,Personal Information,New Hire,2026-10-02,Completed,2026-10-02,N,N
+JP70179,P70179,Background Check,Pre-Employment,2026-10-05,Completed,2026-10-05,N,N
+JP70179,P70179,Position Assignment,HC Partner,2026-10-08,Completed,2026-10-09,N,N
+JP70179,P70179,Salary Verification,Compensation,2026-10-11,Completed,2026-10-14,N,N
+JP70179,P70179,System Access,IT,2026-10-14,Assigned,,N,Y
+JP70180,P70180,Personal Information,New Hire,2026-09-22,Completed,2026-09-22,N,N
+JP70180,P70180,Background Check,Pre-Employment,2026-09-25,Completed,2026-09-27,N,N
+JP70180,P70180,Position Assignment,HC Partner,2026-09-28,Completed,2026-09-28,N,N
+JP70180,P70180,Salary Verification,Compensation,2026-10-01,Assigned,,N,N
+JP70182,P70182,Personal Information,New Hire,2026-09-14,Completed,2026-09-14,N,N
+JP70182,P70182,Background Check,Pre-Employment,2026-09-17,Completed,2026-09-18,N,N
+JP70182,P70182,Position Assignment,HC Partner,2026-09-20,Assigned,,N,Y
+JP70183,P70183,Personal Information,New Hire,2026-10-01,Completed,2026-10-01,N,N
+JP70183,P70183,Background Check,Pre-Employment,2026-10-04,Completed,2026-10-06,N,N
+JP70183,P70183,Position Assignment,HC Partner,2026-10-07,Completed,2026-10-07,N,N
+JP70183,P70183,Salary Verification,Compensation,2026-10-10,Completed,2026-10-10,N,N
+JP70183,P70183,System Access,IT,2026-10-13,Completed,2026-10-15,N,N
+JP70185,P70185,Personal Information,New Hire,2026-08-25,Assigned,,N,Y
+JP70186,P70186,Personal Information,New Hire,2026-09-16,Assigned,,N,Y
+JP70187,P70187,Personal Information,New Hire,2026-06-01,Completed,2026-06-04,N,N
+JP70187,P70187,Background Check,Pre-Employment,2026-06-04,Completed,2026-06-06,N,N
+JP70187,P70187,Position Assignment,HC Partner,2026-06-07,Completed,2026-06-08,N,N
+JP70187,P70187,Salary Verification,Compensation,2026-06-10,Completed,2026-06-12,N,N
+JP70187,P70187,System Access,IT,2026-06-13,Assigned,,N,Y
+JP70188,P70188,Personal Information,New Hire,2026-08-07,Completed,2026-08-09,N,N
+JP70188,P70188,Background Check,Pre-Employment,2026-08-10,Completed,2026-08-10,N,N
+JP70188,P70188,Position Assignment,HC Partner,2026-08-13,Completed,2026-08-14,N,N
+JP70188,P70188,Salary Verification,Compensation,2026-08-16,Completed,2026-08-17,N,N
+JP70188,P70188,System Access,IT,2026-08-19,Completed,2026-08-20,N,N
+JP70188,P70188,Final Approval,HCIS,2026-08-22,Completed,2026-08-25,N,N
+JP70189,P70189,Personal Information,New Hire,2026-10-02,Completed,2026-10-05,N,N
+JP70189,P70189,Background Check,Pre-Employment,2026-10-05,Assigned,,N,N
+JP70190,P70190,Personal Information,New Hire,2026-09-12,Assigned,,N,N
+JP70191,P70191,Personal Information,New Hire,2026-07-26,Completed,2026-07-28,N,N
+JP70191,P70191,Background Check,Pre-Employment,2026-07-29,Completed,2026-07-29,N,N
+JP70191,P70191,Position Assignment,HC Partner,2026-08-01,Completed,2026-08-01,N,N
+JP70191,P70191,Salary Verification,Compensation,2026-08-04,Completed,2026-08-05,Y,N
+JP70191,P70191,System Access,IT,2026-08-07,Completed,2026-08-08,N,N
+JP70191,P70191,Final Approval,HCIS,2026-08-10,Completed,2026-08-11,N,N
+JP70192,P70192,Personal Information,New Hire,2026-08-17,Completed,2026-08-18,N,N
+JP70192,P70192,Background Check,Pre-Employment,2026-08-20,Completed,2026-08-21,N,N
+JP70192,P70192,Position Assignment,HC Partner,2026-08-23,Completed,2026-08-26,N,N
+JP70192,P70192,Salary Verification,Compensation,2026-08-26,Completed,2026-08-26,N,N
+JP70192,P70192,System Access,IT,2026-08-29,Completed,2026-09-01,N,N
+JP70192,P70192,Final Approval,HCIS,2026-09-01,Completed,2026-09-01,N,N
+JP70193,P70193,Personal Information,New Hire,2026-07-16,Completed,2026-07-18,N,N
+JP70193,P70193,Background Check,Pre-Employment,2026-07-19,Completed,2026-07-21,N,N
+JP70193,P70193,Position Assignment,HC Partner,2026-07-22,Completed,2026-07-23,N,N
+JP70193,P70193,Salary Verification,Compensation,2026-07-25,Completed,2026-07-27,N,N
+JP70193,P70193,System Access,IT,2026-07-28,Completed,2026-07-31,N,N
+JP70193,P70193,Final Approval,HCIS,2026-07-31,Completed,2026-08-03,N,N
+JP70194,P70194,Personal Information,New Hire,2026-07-09,Completed,2026-07-09,N,N
+JP70194,P70194,Background Check,Pre-Employment,2026-07-12,Assigned,,N,N
+JP70196,P70196,Personal Information,New Hire,2026-07-20,Completed,2026-07-23,N,N
+JP70196,P70196,Background Check,Pre-Employment,2026-07-23,Assigned,,N,N
+JP70197,P70197,Personal Information,New Hire,2026-09-09,Completed,2026-09-11,N,N
+JP70197,P70197,Background Check,Pre-Employment,2026-09-12,Completed,2026-09-12,N,N
+JP70197,P70197,Position Assignment,HC Partner,2026-09-15,Completed,2026-09-15,N,N
+JP70197,P70197,Salary Verification,Compensation,2026-09-18,Completed,2026-09-20,N,N
+JP70197,P70197,System Access,IT,2026-09-21,Completed,2026-09-24,N,N
+JP70197,P70197,Final Approval,HCIS,2026-09-24,Completed,2026-09-25,N,N
+JP70198,P70198,Personal Information,New Hire,2026-09-12,Completed,2026-09-13,N,N
+JP70198,P70198,Background Check,Pre-Employment,2026-09-15,Completed,2026-09-16,N,N
+JP70198,P70198,Position Assignment,HC Partner,2026-09-18,Completed,2026-09-18,N,N
+JP70198,P70198,Salary Verification,Compensation,2026-09-21,Completed,2026-09-23,N,N
+JP70198,P70198,System Access,IT,2026-09-24,Completed,2026-09-25,Y,N
+JP70198,P70198,Final Approval,HCIS,2026-09-27,Completed,2026-09-29,N,N
+JP70199,P70199,Personal Information,New Hire,2026-06-10,Completed,2026-06-11,N,N
+JP70199,P70199,Background Check,Pre-Employment,2026-06-13,Completed,2026-06-15,N,N
+JP70199,P70199,Position Assignment,HC Partner,2026-06-16,Completed,2026-06-17,N,N
+JP70199,P70199,Salary Verification,Compensation,2026-06-19,Completed,2026-06-19,N,N
+JP70199,P70199,System Access,IT,2026-06-22,Completed,2026-06-25,N,N
+JP70199,P70199,Final Approval,HCIS,2026-06-25,Completed,2026-06-27,N,N
+JP70200,P70200,Personal Information,New Hire,2026-09-11,Completed,2026-09-14,N,N
+JP70200,P70200,Background Check,Pre-Employment,2026-09-14,Completed,2026-09-17,N,N
+JP70200,P70200,Position Assignment,HC Partner,2026-09-17,Completed,2026-09-20,N,N
+JP70200,P70200,Salary Verification,Compensation,2026-09-20,Completed,2026-09-21,N,N
+JP70200,P70200,System Access,IT,2026-09-23,Completed,2026-09-26,N,N
+JP70200,P70200,Final Approval,HCIS,2026-09-26,Completed,2026-09-27,N,N
+JP70201,P70201,Personal Information,New Hire,2026-07-16,Completed,2026-07-16,Y,N
+JP70201,P70201,Background Check,Pre-Employment,2026-07-19,Completed,2026-07-21,N,N
+JP70201,P70201,Position Assignment,HC Partner,2026-07-22,Completed,2026-07-25,N,N
+JP70201,P70201,Salary Verification,Compensation,2026-07-25,Completed,2026-07-28,N,N
+JP70201,P70201,System Access,IT,2026-07-28,Completed,2026-07-31,Y,N
+JP70201,P70201,Final Approval,HCIS,2026-07-31,Completed,2026-08-03,N,N
+JP70202,P70202,Personal Information,New Hire,2026-10-15,Completed,2026-10-16,N,N
+JP70203,P70203,Personal Information,New Hire,2026-09-30,Assigned,,N,Y
+JP70206,P70206,Personal Information,New Hire,2026-09-11,Completed,2026-09-14,N,N
+JP70206,P70206,Background Check,Pre-Employment,2026-09-14,Completed,2026-09-14,N,N
+JP70206,P70206,Position Assignment,HC Partner,2026-09-17,Completed,2026-09-20,N,N
+JP70206,P70206,Salary Verification,Compensation,2026-09-20,Completed,2026-09-23,N,N
+JP70206,P70206,System Access,IT,2026-09-23,Completed,2026-09-26,N,N
+JP70206,P70206,Final Approval,HCIS,2026-09-26,Completed,2026-09-27,N,N
+JP70207,P70207,Personal Information,New Hire,2026-09-19,Completed,2026-09-22,N,N
+JP70207,P70207,Background Check,Pre-Employment,2026-09-22,Completed,2026-09-23,N,N
+JP70207,P70207,Position Assignment,HC Partner,2026-09-25,Completed,2026-09-25,N,N
+JP70207,P70207,Salary Verification,Compensation,2026-09-28,Completed,2026-09-28,N,N
+JP70207,P70207,System Access,IT,2026-10-01,Completed,2026-10-03,N,N
+JP70207,P70207,Final Approval,HCIS,2026-10-04,Completed,2026-10-04,N,N
+JP70208,P70208,Personal Information,New Hire,2026-06-20,Completed,2026-06-21,N,N
+JP70208,P70208,Background Check,Pre-Employment,2026-06-23,Completed,2026-06-23,N,N
+JP70208,P70208,Position Assignment,HC Partner,2026-06-26,Completed,2026-06-26,N,N
+JP70208,P70208,Salary Verification,Compensation,2026-06-29,Completed,2026-06-30,N,N
+JP70208,P70208,System Access,IT,2026-07-02,Assigned,,N,N
+JP70209,P70209,Personal Information,New Hire,2026-07-07,Completed,2026-07-10,N,N
+JP70209,P70209,Background Check,Pre-Employment,2026-07-10,Completed,2026-07-13,N,N
+JP70209,P70209,Position Assignment,HC Partner,2026-07-13,Completed,2026-07-16,N,N
+JP70209,P70209,Salary Verification,Compensation,2026-07-16,Assigned,,N,Y
+JP70210,P70210,Personal Information,New Hire,2026-10-02,Completed,2026-10-02,N,N
+JP70210,P70210,Background Check,Pre-Employment,2026-10-05,Assigned,,N,Y
+JP70211,P70211,Personal Information,New Hire,2026-09-13,Assigned,,N,Y
+JP70212,P70212,Personal Information,New Hire,2026-06-18,Completed,2026-06-18,N,N
+JP70212,P70212,Background Check,Pre-Employment,2026-06-21,Completed,2026-06-24,N,N
+JP70212,P70212,Position Assignment,HC Partner,2026-06-24,Completed,2026-06-27,N,N
+JP70212,P70212,Salary Verification,Compensation,2026-06-27,Completed,2026-06-29,N,N
+JP70212,P70212,System Access,IT,2026-06-30,Completed,2026-07-03,N,N
+JP70212,P70212,Final Approval,HCIS,2026-07-03,Assigned,,N,N
+JP70213,P70213,Personal Information,New Hire,2026-08-31,Completed,2026-08-31,N,N
+JP70213,P70213,Background Check,Pre-Employment,2026-09-03,Completed,2026-09-05,N,N
+JP70213,P70213,Position Assignment,HC Partner,2026-09-06,Completed,2026-09-08,Y,N
+JP70213,P70213,Salary Verification,Compensation,2026-09-09,Completed,2026-09-10,N,N
+JP70213,P70213,System Access,IT,2026-09-12,Completed,2026-09-12,N,N
+JP70213,P70213,Final Approval,HCIS,2026-09-15,Completed,2026-09-15,N,N
+JP70214,P70214,Personal Information,New Hire,2026-09-21,Completed,2026-09-24,N,N
+JP70214,P70214,Background Check,Pre-Employment,2026-09-24,Completed,2026-09-25,N,N
+JP70214,P70214,Position Assignment,HC Partner,2026-09-27,Completed,2026-09-28,N,N
+JP70214,P70214,Salary Verification,Compensation,2026-09-30,Completed,2026-10-02,N,N
+JP70214,P70214,System Access,IT,2026-10-03,Completed,2026-10-05,N,N
+JP70214,P70214,Final Approval,HCIS,2026-10-06,Completed,2026-10-09,N,N
+JP70215,P70215,Personal Information,New Hire,2026-06-25,Assigned,,N,Y
+JP70216,P70216,Personal Information,New Hire,2026-10-15,Completed,2026-10-16,N,N
+JP70217,P70217,Personal Information,New Hire,2026-07-23,Completed,2026-07-23,N,N
+JP70217,P70217,Background Check,Pre-Employment,2026-07-26,Completed,2026-07-29,N,N
+JP70217,P70217,Position Assignment,HC Partner,2026-07-29,Completed,2026-07-31,N,N
+JP70217,P70217,Salary Verification,Compensation,2026-08-01,Completed,2026-08-04,N,N
+JP70217,P70217,System Access,IT,2026-08-04,Completed,2026-08-04,N,N
+JP70217,P70217,Final Approval,HCIS,2026-08-07,Completed,2026-08-07,N,N
+JP70218,P70218,Personal Information,New Hire,2026-09-30,Assigned,,Y,N
+JP70219,P70219,Personal Information,New Hire,2026-06-15,Completed,2026-06-16,N,N
+JP70219,P70219,Background Check,Pre-Employment,2026-06-18,Completed,2026-06-21,N,N
+JP70219,P70219,Position Assignment,HC Partner,2026-06-21,Assigned,,N,N
+JP70220,P70220,Personal Information,New Hire,2026-08-30,Completed,2026-09-02,N,N
+JP70220,P70220,Background Check,Pre-Employment,2026-09-02,Completed,2026-09-04,N,N
+JP70220,P70220,Position Assignment,HC Partner,2026-09-05,Completed,2026-09-05,N,N
+JP70220,P70220,Salary Verification,Compensation,2026-09-08,Completed,2026-09-10,N,N
+JP70220,P70220,System Access,IT,2026-09-11,Completed,2026-09-12,N,N
+JP70220,P70220,Final Approval,HCIS,2026-09-14,Assigned,,N,N
+JP70221,P70221,Personal Information,New Hire,2026-08-21,Completed,2026-08-23,N,N
+JP70221,P70221,Background Check,Pre-Employment,2026-08-24,Completed,2026-08-26,N,N
+JP70221,P70221,Position Assignment,HC Partner,2026-08-27,Assigned,,N,N
+JP70222,P70222,Personal Information,New Hire,2026-07-14,Completed,2026-07-16,N,N
+JP70222,P70222,Background Check,Pre-Employment,2026-07-17,Completed,2026-07-18,N,N
+JP70222,P70222,Position Assignment,HC Partner,2026-07-20,Completed,2026-07-23,Y,N
+JP70222,P70222,Salary Verification,Compensation,2026-07-23,Completed,2026-07-25,N,N
+JP70222,P70222,System Access,IT,2026-07-26,Completed,2026-07-28,N,N
+JP70222,P70222,Final Approval,HCIS,2026-07-29,Completed,2026-07-31,N,N
+JP70223,P70223,Personal Information,New Hire,2026-09-16,Completed,2026-09-16,N,N
+JP70223,P70223,Background Check,Pre-Employment,2026-09-19,Completed,2026-09-19,N,N
+JP70223,P70223,Position Assignment,HC Partner,2026-09-22,Completed,2026-09-23,N,N
+JP70223,P70223,Salary Verification,Compensation,2026-09-25,Completed,2026-09-26,N,N
+JP70223,P70223,System Access,IT,2026-09-28,Completed,2026-09-30,N,N
+JP70223,P70223,Final Approval,HCIS,2026-10-01,Completed,2026-10-02,N,N
+JP70224,P70224,Personal Information,New Hire,2026-08-13,Completed,2026-08-15,N,N
+JP70224,P70224,Background Check,Pre-Employment,2026-08-16,Assigned,,N,N
+JP70225,P70225,Personal Information,New Hire,2026-08-30,Completed,2026-09-02,Y,N
+JP70225,P70225,Background Check,Pre-Employment,2026-09-02,Completed,2026-09-04,N,N
+JP70225,P70225,Position Assignment,HC Partner,2026-09-05,Completed,2026-09-05,N,N
+JP70225,P70225,Salary Verification,Compensation,2026-09-08,Completed,2026-09-09,N,N
+JP70225,P70225,System Access,IT,2026-09-11,Completed,2026-09-13,N,N
+JP70225,P70225,Final Approval,HCIS,2026-09-14,Completed,2026-09-14,N,N
+JP70226,P70226,Personal Information,New Hire,2026-07-12,Completed,2026-07-15,N,N
+JP70226,P70226,Background Check,Pre-Employment,2026-07-15,Completed,2026-07-15,N,N
+JP70226,P70226,Position Assignment,HC Partner,2026-07-18,Completed,2026-07-19,N,N
+JP70226,P70226,Salary Verification,Compensation,2026-07-21,Completed,2026-07-23,N,N
+JP70226,P70226,System Access,IT,2026-07-24,Completed,2026-07-24,N,N
+JP70226,P70226,Final Approval,HCIS,2026-07-27,Completed,2026-07-28,N,N
+JP70227,P70227,Personal Information,New Hire,2026-09-25,Completed,2026-09-26,N,N
+JP70227,P70227,Background Check,Pre-Employment,2026-09-28,Completed,2026-09-29,N,N
+JP70227,P70227,Position Assignment,HC Partner,2026-10-01,Completed,2026-10-04,N,N
+JP70227,P70227,Salary Verification,Compensation,2026-10-04,Assigned,,N,Y
+JP70228,P70228,Personal Information,New Hire,2026-07-28,Assigned,,N,N
+JP70229,P70229,Personal Information,New Hire,2026-10-08,Completed,2026-10-10,N,N
+JP70229,P70229,Background Check,Pre-Employment,2026-10-11,Completed,2026-10-12,N,N
+JP70229,P70229,Position Assignment,HC Partner,2026-10-14,Completed,2026-10-17,N,N
+JP70230,P70230,Personal Information,New Hire,2026-09-06,Completed,2026-09-08,N,N
+JP70230,P70230,Background Check,Pre-Employment,2026-09-09,Completed,2026-09-10,N,N
+JP70230,P70230,Position Assignment,HC Partner,2026-09-12,Completed,2026-09-14,N,N
+JP70230,P70230,Salary Verification,Compensation,2026-09-15,Completed,2026-09-16,N,N
+JP70230,P70230,System Access,IT,2026-09-18,Completed,2026-09-20,N,N
+JP70230,P70230,Final Approval,HCIS,2026-09-21,Completed,2026-09-24,N,N
+JP70231,P70231,Personal Information,New Hire,2026-07-30,Completed,2026-08-02,N,N
+JP70231,P70231,Background Check,Pre-Employment,2026-08-02,Completed,2026-08-03,N,N
+JP70231,P70231,Position Assignment,HC Partner,2026-08-05,Assigned,,N,N
+JP70232,P70232,Personal Information,New Hire,2026-08-04,Completed,2026-08-05,N,N
+JP70232,P70232,Background Check,Pre-Employment,2026-08-07,Completed,2026-08-07,N,N
+JP70232,P70232,Position Assignment,HC Partner,2026-08-10,Completed,2026-08-13,N,N
+JP70232,P70232,Salary Verification,Compensation,2026-08-13,Completed,2026-08-16,N,N
+JP70232,P70232,System Access,IT,2026-08-16,Completed,2026-08-19,N,N
+JP70232,P70232,Final Approval,HCIS,2026-08-19,Assigned,,N,N
+JP70234,P70234,Personal Information,New Hire,2026-08-15,Completed,2026-08-18,N,N
+JP70234,P70234,Background Check,Pre-Employment,2026-08-18,Completed,2026-08-19,N,N
+JP70234,P70234,Position Assignment,HC Partner,2026-08-21,Completed,2026-08-23,N,N
+JP70234,P70234,Salary Verification,Compensation,2026-08-24,Completed,2026-08-25,N,N
+JP70234,P70234,System Access,IT,2026-08-27,Completed,2026-08-29,N,N
+JP70234,P70234,Final Approval,HCIS,2026-08-30,Completed,2026-09-02,N,N
+JP70235,P70235,Personal Information,New Hire,2026-06-17,Completed,2026-06-19,N,N
+JP70235,P70235,Background Check,Pre-Employment,2026-06-20,Completed,2026-06-22,N,N
+JP70235,P70235,Position Assignment,HC Partner,2026-06-23,Completed,2026-06-24,Y,N
+JP70235,P70235,Salary Verification,Compensation,2026-06-26,Assigned,,N,N
+JP70237,P70237,Personal Information,New Hire,2026-09-15,Completed,2026-09-18,N,N
+JP70237,P70237,Background Check,Pre-Employment,2026-09-18,Assigned,,N,N
+JP70238,P70238,Personal Information,New Hire,2026-07-15,Completed,2026-07-16,N,N
+JP70238,P70238,Background Check,Pre-Employment,2026-07-18,Completed,2026-07-20,N,N
+JP70238,P70238,Position Assignment,HC Partner,2026-07-21,Completed,2026-07-24,N,N
+JP70238,P70238,Salary Verification,Compensation,2026-07-24,Completed,2026-07-27,N,N
+JP70238,P70238,System Access,IT,2026-07-27,Assigned,,N,Y
+JP70239,P70239,Personal Information,New Hire,2026-08-02,Completed,2026-08-04,N,N
+JP70239,P70239,Background Check,Pre-Employment,2026-08-05,Completed,2026-08-07,N,N
+JP70239,P70239,Position Assignment,HC Partner,2026-08-08,Completed,2026-08-09,N,N
+JP70239,P70239,Salary Verification,Compensation,2026-08-11,Completed,2026-08-11,N,N
+JP70239,P70239,System Access,IT,2026-08-14,Assigned,,N,Y
+JP70240,P70240,Personal Information,New Hire,2026-09-28,Completed,2026-10-01,N,N
+JP70240,P70240,Background Check,Pre-Employment,2026-10-01,Completed,2026-10-01,N,N
+JP70240,P70240,Position Assignment,HC Partner,2026-10-04,Completed,2026-10-04,N,N
+JP70240,P70240,Salary Verification,Compensation,2026-10-07,Assigned,,N,N
+JP70241,P70241,Personal Information,New Hire,2026-10-01,Completed,2026-10-01,N,N
+JP70241,P70241,Background Check,Pre-Employment,2026-10-04,Completed,2026-10-05,N,N
+JP70241,P70241,Position Assignment,HC Partner,2026-10-07,Completed,2026-10-10,N,N
+JP70241,P70241,Salary Verification,Compensation,2026-10-10,Assigned,,N,N
+JP70242,P70242,Personal Information,New Hire,2026-08-10,Assigned,,N,Y
+JP70243,P70243,Personal Information,New Hire,2026-09-01,Completed,2026-09-01,N,N
+JP70243,P70243,Background Check,Pre-Employment,2026-09-04,Completed,2026-09-06,N,N
+JP70243,P70243,Position Assignment,HC Partner,2026-09-07,Completed,2026-09-09,N,N
+JP70243,P70243,Salary Verification,Compensation,2026-09-10,Completed,2026-09-13,N,N
+JP70243,P70243,System Access,IT,2026-09-13,Completed,2026-09-15,N,N
+JP70243,P70243,Final Approval,HCIS,2026-09-16,Assigned,,N,N
+JP70244,P70244,Personal Information,New Hire,2026-07-14,Completed,2026-07-14,N,N
+JP70244,P70244,Background Check,Pre-Employment,2026-07-17,Completed,2026-07-18,N,N
+JP70244,P70244,Position Assignment,HC Partner,2026-07-20,Completed,2026-07-23,N,N
+JP70244,P70244,Salary Verification,Compensation,2026-07-23,Assigned,,Y,Y
+JP70245,P70245,Personal Information,New Hire,2026-08-25,Assigned,,N,N
+JP70246,P70246,Personal Information,New Hire,2026-08-07,Completed,2026-08-10,N,N
+JP70246,P70246,Background Check,Pre-Employment,2026-08-10,Completed,2026-08-13,N,N
+JP70246,P70246,Position Assignment,HC Partner,2026-08-13,Completed,2026-08-14,N,N
+JP70246,P70246,Salary Verification,Compensation,2026-08-16,Completed,2026-08-17,N,N
+JP70246,P70246,System Access,IT,2026-08-19,Assigned,,N,N
+JP70247,P70247,Personal Information,New Hire,2026-06-18,Completed,2026-06-20,N,N
+JP70247,P70247,Background Check,Pre-Employment,2026-06-21,Completed,2026-06-24,N,N
+JP70247,P70247,Position Assignment,HC Partner,2026-06-24,Completed,2026-06-24,Y,N
+JP70247,P70247,Salary Verification,Compensation,2026-06-27,Completed,2026-06-29,N,N
+JP70247,P70247,System Access,IT,2026-06-30,Completed,2026-07-02,N,N
+JP70247,P70247,Final Approval,HCIS,2026-07-03,Completed,2026-07-04,N,N
+JP70249,P70249,Personal Information,New Hire,2026-08-22,Completed,2026-08-25,Y,N
+JP70249,P70249,Background Check,Pre-Employment,2026-08-25,Completed,2026-08-28,N,N
+JP70249,P70249,Position Assignment,HC Partner,2026-08-28,Completed,2026-08-30,N,N
+JP70249,P70249,Salary Verification,Compensation,2026-08-31,Completed,2026-08-31,N,N
+JP70249,P70249,System Access,IT,2026-09-03,Completed,2026-09-05,N,N
+JP70249,P70249,Final Approval,HCIS,2026-09-06,Completed,2026-09-07,N,N
+JP70250,P70250,Personal Information,New Hire,2026-06-11,Completed,2026-06-14,N,N
+JP70250,P70250,Background Check,Pre-Employment,2026-06-14,Completed,2026-06-15,N,N
+JP70250,P70250,Position Assignment,HC Partner,2026-06-17,Completed,2026-06-17,N,N
+JP70250,P70250,Salary Verification,Compensation,2026-06-20,Completed,2026-06-22,N,N
+JP70250,P70250,System Access,IT,2026-06-23,Completed,2026-06-24,N,N
+JP70250,P70250,Final Approval,HCIS,2026-06-26,Completed,2026-06-27,N,N
+JP70251,P70251,Personal Information,New Hire,2026-09-16,Completed,2026-09-18,N,N
+JP70251,P70251,Background Check,Pre-Employment,2026-09-19,Assigned,,N,Y
+JP70253,P70253,Personal Information,New Hire,2026-08-20,Completed,2026-08-23,N,N
+JP70253,P70253,Background Check,Pre-Employment,2026-08-23,Completed,2026-08-26,N,N
+JP70253,P70253,Position Assignment,HC Partner,2026-08-26,Completed,2026-08-27,N,N
+JP70253,P70253,Salary Verification,Compensation,2026-08-29,Assigned,,N,N
+JP70255,P70255,Personal Information,New Hire,2026-07-02,Completed,2026-07-05,N,N
+JP70255,P70255,Background Check,Pre-Employment,2026-07-05,Completed,2026-07-08,N,N
+JP70255,P70255,Position Assignment,HC Partner,2026-07-08,Completed,2026-07-08,N,N
+JP70255,P70255,Salary Verification,Compensation,2026-07-11,Completed,2026-07-12,N,N
+JP70255,P70255,System Access,IT,2026-07-14,Completed,2026-07-16,N,N
+JP70255,P70255,Final Approval,HCIS,2026-07-17,Assigned,,N,Y
+JP70256,P70256,Personal Information,New Hire,2026-09-12,Completed,2026-09-14,N,N
+JP70256,P70256,Background Check,Pre-Employment,2026-09-15,Completed,2026-09-18,N,N
+JP70256,P70256,Position Assignment,HC Partner,2026-09-18,Completed,2026-09-20,N,N
+JP70256,P70256,Salary Verification,Compensation,2026-09-21,Completed,2026-09-22,N,N
+JP70256,P70256,System Access,IT,2026-09-24,Completed,2026-09-24,N,N
+JP70256,P70256,Final Approval,HCIS,2026-09-27,Completed,2026-09-30,N,N
+JP70257,P70257,Personal Information,New Hire,2026-09-07,Completed,2026-09-09,N,N
+JP70257,P70257,Background Check,Pre-Employment,2026-09-10,Completed,2026-09-13,N,N
+JP70257,P70257,Position Assignment,HC Partner,2026-09-13,Completed,2026-09-16,N,N
+JP70257,P70257,Salary Verification,Compensation,2026-09-16,Assigned,,N,N
+JP70258,P70258,Personal Information,New Hire,2026-06-30,Assigned,,N,N
+JP70259,P70259,Personal Information,New Hire,2026-08-21,Completed,2026-08-24,N,N
+JP70259,P70259,Background Check,Pre-Employment,2026-08-24,Completed,2026-08-25,N,N
+JP70259,P70259,Position Assignment,HC Partner,2026-08-27,Completed,2026-08-28,N,N
+JP70259,P70259,Salary Verification,Compensation,2026-08-30,Completed,2026-09-01,N,N
+JP70259,P70259,System Access,IT,2026-09-02,Completed,2026-09-04,N,N
+JP70259,P70259,Final Approval,HCIS,2026-09-05,Completed,2026-09-07,N,N
+JP70260,P70260,Personal Information,New Hire,2026-09-13,Completed,2026-09-16,N,N
+JP70260,P70260,Background Check,Pre-Employment,2026-09-16,Completed,2026-09-19,N,N
+JP70260,P70260,Position Assignment,HC Partner,2026-09-19,Completed,2026-09-22,N,N
+JP70260,P70260,Salary Verification,Compensation,2026-09-22,Completed,2026-09-24,N,N
+JP70260,P70260,System Access,IT,2026-09-25,Completed,2026-09-28,N,N
+JP70260,P70260,Final Approval,HCIS,2026-09-28,Completed,2026-09-30,N,N
+JP70261,P70261,Personal Information,New Hire,2026-09-12,Completed,2026-09-13,N,N
+JP70261,P70261,Background Check,Pre-Employment,2026-09-15,Completed,2026-09-16,N,N
+JP70261,P70261,Position Assignment,HC Partner,2026-09-18,Completed,2026-09-21,N,N
+JP70261,P70261,Salary Verification,Compensation,2026-09-21,Completed,2026-09-22,N,N
+JP70261,P70261,System Access,IT,2026-09-24,Completed,2026-09-25,N,N
+JP70261,P70261,Final Approval,HCIS,2026-09-27,Completed,2026-09-30,N,N
+JP70262,P70262,Personal Information,New Hire,2026-09-28,Completed,2026-10-01,N,N
+JP70262,P70262,Background Check,Pre-Employment,2026-10-01,Completed,2026-10-02,N,N
+JP70262,P70262,Position Assignment,HC Partner,2026-10-04,Completed,2026-10-06,N,N
+JP70262,P70262,Salary Verification,Compensation,2026-10-07,Assigned,,N,Y
+JP70263,P70263,Personal Information,New Hire,2026-07-17,Completed,2026-07-18,N,N
+JP70263,P70263,Background Check,Pre-Employment,2026-07-20,Completed,2026-07-20,N,N
+JP70263,P70263,Position Assignment,HC Partner,2026-07-23,Completed,2026-07-25,N,N
+JP70263,P70263,Salary Verification,Compensation,2026-07-26,Completed,2026-07-29,N,N
+JP70263,P70263,System Access,IT,2026-07-29,Completed,2026-07-31,N,N
+JP70263,P70263,Final Approval,HCIS,2026-08-01,Completed,2026-08-03,N,N
+JP70264,P70264,Personal Information,New Hire,2026-10-14,Completed,2026-10-17,N,N
+JP70266,P70266,Personal Information,New Hire,2026-10-08,Completed,2026-10-09,N,N
+JP70266,P70266,Background Check,Pre-Employment,2026-10-11,Completed,2026-10-12,N,N
+JP70266,P70266,Position Assignment,HC Partner,2026-10-14,Completed,2026-10-15,N,N
+JP70267,P70267,Personal Information,New Hire,2026-09-24,Completed,2026-09-27,N,N
+JP70267,P70267,Background Check,Pre-Employment,2026-09-27,Completed,2026-09-30,N,N
+JP70267,P70267,Position Assignment,HC Partner,2026-09-30,Completed,2026-09-30,N,N
+JP70267,P70267,Salary Verification,Compensation,2026-10-03,Assigned,,N,Y
+JP70268,P70268,Personal Information,New Hire,2026-10-10,Completed,2026-10-13,N,N
+JP70268,P70268,Background Check,Pre-Employment,2026-10-13,Completed,2026-10-14,Y,N
+JP70269,P70269,Personal Information,New Hire,2026-08-17,Completed,2026-08-18,N,N
+JP70269,P70269,Background Check,Pre-Employment,2026-08-20,Completed,2026-08-21,N,N
+JP70269,P70269,Position Assignment,HC Partner,2026-08-23,Completed,2026-08-23,N,N
+JP70269,P70269,Salary Verification,Compensation,2026-08-26,Completed,2026-08-28,N,N
+JP70269,P70269,System Access,IT,2026-08-29,Assigned,,N,N
+JP70271,P70271,Personal Information,New Hire,2026-08-03,Assigned,,N,N
+JP70272,P70272,Personal Information,New Hire,2026-07-29,Completed,2026-07-30,N,N
+JP70272,P70272,Background Check,Pre-Employment,2026-08-01,Completed,2026-08-04,N,N
+JP70272,P70272,Position Assignment,HC Partner,2026-08-04,Completed,2026-08-06,N,N
+JP70272,P70272,Salary Verification,Compensation,2026-08-07,Completed,2026-08-08,N,N
+JP70272,P70272,System Access,IT,2026-08-10,Completed,2026-08-13,N,N
+JP70272,P70272,Final Approval,HCIS,2026-08-13,Completed,2026-08-15,N,N
+JP70273,P70273,Personal Information,New Hire,2026-08-16,Completed,2026-08-19,N,N
+JP70273,P70273,Background Check,Pre-Employment,2026-08-19,Assigned,,N,Y
+JP70274,P70274,Personal Information,New Hire,2026-08-19,Completed,2026-08-20,N,N
+JP70274,P70274,Background Check,Pre-Employment,2026-08-22,Completed,2026-08-23,N,N
+JP70274,P70274,Position Assignment,HC Partner,2026-08-25,Assigned,,N,N
+JP70275,P70275,Personal Information,New Hire,2026-06-15,Completed,2026-06-15,N,N
+JP70275,P70275,Background Check,Pre-Employment,2026-06-18,Completed,2026-06-21,N,N
+JP70275,P70275,Position Assignment,HC Partner,2026-06-21,Completed,2026-06-24,N,N
+JP70275,P70275,Salary Verification,Compensation,2026-06-24,Completed,2026-06-27,N,N
+JP70275,P70275,System Access,IT,2026-06-27,Completed,2026-06-29,N,N
+JP70275,P70275,Final Approval,HCIS,2026-06-30,Completed,2026-07-03,N,N
+JP70276,P70276,Personal Information,New Hire,2026-08-28,Completed,2026-08-30,Y,N
+JP70276,P70276,Background Check,Pre-Employment,2026-08-31,Completed,2026-08-31,N,N
+JP70276,P70276,Position Assignment,HC Partner,2026-09-03,Assigned,,N,Y
+JP70277,P70277,Personal Information,New Hire,2026-06-08,Completed,2026-06-09,N,N
+JP70277,P70277,Background Check,Pre-Employment,2026-06-11,Completed,2026-06-11,N,N
+JP70277,P70277,Position Assignment,HC Partner,2026-06-14,Completed,2026-06-14,N,N
+JP70277,P70277,Salary Verification,Compensation,2026-06-17,Completed,2026-06-18,N,N
+JP70277,P70277,System Access,IT,2026-06-20,Assigned,,N,N
+JP70279,P70279,Personal Information,New Hire,2026-08-14,Completed,2026-08-15,N,N
+JP70279,P70279,Background Check,Pre-Employment,2026-08-17,Completed,2026-08-18,Y,N
+JP70279,P70279,Position Assignment,HC Partner,2026-08-20,Completed,2026-08-21,N,N
+JP70279,P70279,Salary Verification,Compensation,2026-08-23,Completed,2026-08-23,N,N
+JP70279,P70279,System Access,IT,2026-08-26,Completed,2026-08-28,N,N
+JP70279,P70279,Final Approval,HCIS,2026-08-29,Completed,2026-08-31,N,N
+JP70280,P70280,Personal Information,New Hire,2026-07-15,Completed,2026-07-15,N,N
+JP70280,P70280,Background Check,Pre-Employment,2026-07-18,Completed,2026-07-21,N,N
+JP70280,P70280,Position Assignment,HC Partner,2026-07-21,Completed,2026-07-23,N,N
+JP70280,P70280,Salary Verification,Compensation,2026-07-24,Assigned,,N,Y
+JP70281,P70281,Personal Information,New Hire,2026-09-09,Completed,2026-09-12,N,N
+JP70281,P70281,Background Check,Pre-Employment,2026-09-12,Completed,2026-09-12,N,N
+JP70281,P70281,Position Assignment,HC Partner,2026-09-15,Completed,2026-09-16,N,N
+JP70281,P70281,Salary Verification,Compensation,2026-09-18,Completed,2026-09-20,N,N
+JP70281,P70281,System Access,IT,2026-09-21,Assigned,,N,N
+JP70282,P70282,Personal Information,New Hire,2026-07-08,Completed,2026-07-09,N,N
+JP70282,P70282,Background Check,Pre-Employment,2026-07-11,Completed,2026-07-11,N,N
+JP70282,P70282,Position Assignment,HC Partner,2026-07-14,Completed,2026-07-17,N,N
+JP70282,P70282,Salary Verification,Compensation,2026-07-17,Completed,2026-07-17,N,N
+JP70282,P70282,System Access,IT,2026-07-20,Assigned,,N,N
+JP70283,P70283,Personal Information,New Hire,2026-08-04,Completed,2026-08-04,N,N
+JP70283,P70283,Background Check,Pre-Employment,2026-08-07,Completed,2026-08-10,N,N
+JP70283,P70283,Position Assignment,HC Partner,2026-08-10,Completed,2026-08-10,N,N
+JP70283,P70283,Salary Verification,Compensation,2026-08-13,Completed,2026-08-14,N,N
+JP70283,P70283,System Access,IT,2026-08-16,Assigned,,N,Y
+JP70284,P70284,Personal Information,New Hire,2026-08-29,Completed,2026-08-31,N,N
+JP70284,P70284,Background Check,Pre-Employment,2026-09-01,Completed,2026-09-04,N,N
+JP70284,P70284,Position Assignment,HC Partner,2026-09-04,Completed,2026-09-04,N,N
+JP70284,P70284,Salary Verification,Compensation,2026-09-07,Completed,2026-09-08,N,N
+JP70284,P70284,System Access,IT,2026-09-10,Completed,2026-09-13,N,N
+JP70284,P70284,Final Approval,HCIS,2026-09-13,Completed,2026-09-14,Y,N
+JP70285,P70285,Personal Information,New Hire,2026-09-20,Completed,2026-09-20,N,N
+JP70285,P70285,Background Check,Pre-Employment,2026-09-23,Completed,2026-09-23,N,N
+JP70285,P70285,Position Assignment,HC Partner,2026-09-26,Completed,2026-09-27,N,N
+JP70285,P70285,Salary Verification,Compensation,2026-09-29,Completed,2026-10-01,Y,N
+JP70285,P70285,System Access,IT,2026-10-02,Completed,2026-10-02,N,N
+JP70285,P70285,Final Approval,HCIS,2026-10-05,Completed,2026-10-06,N,N
+JP70286,P70286,Personal Information,New Hire,2026-09-12,Completed,2026-09-15,N,N
+JP70286,P70286,Background Check,Pre-Employment,2026-09-15,Assigned,,N,N
+JP70287,P70287,Personal Information,New Hire,2026-08-02,Completed,2026-08-03,N,N
+JP70287,P70287,Background Check,Pre-Employment,2026-08-05,Assigned,,N,N
+JP70288,P70288,Personal Information,New Hire,2026-07-30,Completed,2026-07-30,N,N
+JP70288,P70288,Background Check,Pre-Employment,2026-08-02,Completed,2026-08-05,N,N
+JP70288,P70288,Position Assignment,HC Partner,2026-08-05,Completed,2026-08-08,N,N
+JP70288,P70288,Salary Verification,Compensation,2026-08-08,Completed,2026-08-11,N,N
+JP70288,P70288,System Access,IT,2026-08-11,Completed,2026-08-12,N,N
+JP70288,P70288,Final Approval,HCIS,2026-08-14,Assigned,,N,N
+JP70289,P70289,Personal Information,New Hire,2026-10-03,Completed,2026-10-03,N,N
+JP70289,P70289,Background Check,Pre-Employment,2026-10-06,Completed,2026-10-09,N,N
+JP70289,P70289,Position Assignment,HC Partner,2026-10-09,Assigned,,N,N
+JP70290,P70290,Personal Information,New Hire,2026-07-21,Completed,2026-07-22,N,N
+JP70290,P70290,Background Check,Pre-Employment,2026-07-24,Completed,2026-07-25,N,N
+JP70290,P70290,Position Assignment,HC Partner,2026-07-27,Completed,2026-07-29,N,N
+JP70290,P70290,Salary Verification,Compensation,2026-07-30,Assigned,,N,N
+JP70291,P70291,Personal Information,New Hire,2026-08-29,Completed,2026-08-30,N,N
+JP70291,P70291,Background Check,Pre-Employment,2026-09-01,Completed,2026-09-02,N,N
+JP70291,P70291,Position Assignment,HC Partner,2026-09-04,Completed,2026-09-06,N,N
+JP70291,P70291,Salary Verification,Compensation,2026-09-07,Completed,2026-09-07,N,N
+JP70291,P70291,System Access,IT,2026-09-10,Completed,2026-09-13,N,N
+JP70291,P70291,Final Approval,HCIS,2026-09-13,Completed,2026-09-14,N,N
+JP70292,P70292,Personal Information,New Hire,2026-08-28,Completed,2026-08-31,N,N
+JP70292,P70292,Background Check,Pre-Employment,2026-08-31,Completed,2026-09-02,N,N
+JP70292,P70292,Position Assignment,HC Partner,2026-09-03,Completed,2026-09-06,N,N
+JP70292,P70292,Salary Verification,Compensation,2026-09-06,Assigned,,N,N
+JP70293,P70293,Personal Information,New Hire,2026-10-01,Completed,2026-10-02,N,N
+JP70293,P70293,Background Check,Pre-Employment,2026-10-04,Completed,2026-10-04,N,N
+JP70293,P70293,Position Assignment,HC Partner,2026-10-07,Completed,2026-10-10,N,N
+JP70293,P70293,Salary Verification,Compensation,2026-10-10,Completed,2026-10-13,Y,N
+JP70293,P70293,System Access,IT,2026-10-13,Completed,2026-10-16,N,N
+JP70294,P70294,Personal Information,New Hire,2026-07-22,Completed,2026-07-22,N,N
+JP70294,P70294,Background Check,Pre-Employment,2026-07-25,Completed,2026-07-27,N,N
+JP70294,P70294,Position Assignment,HC Partner,2026-07-28,Completed,2026-07-28,N,N
+JP70294,P70294,Salary Verification,Compensation,2026-07-31,Completed,2026-07-31,N,N
+JP70294,P70294,System Access,IT,2026-08-03,Completed,2026-08-03,N,N
+JP70294,P70294,Final Approval,HCIS,2026-08-06,Completed,2026-08-07,N,N
+JP70295,P70295,Personal Information,New Hire,2026-08-10,Assigned,,N,N
+JP70296,P70296,Personal Information,New Hire,2026-09-11,Completed,2026-09-14,N,N
+JP70296,P70296,Background Check,Pre-Employment,2026-09-14,Completed,2026-09-16,N,N
+JP70296,P70296,Position Assignment,HC Partner,2026-09-17,Completed,2026-09-20,N,N
+JP70296,P70296,Salary Verification,Compensation,2026-09-20,Completed,2026-09-23,N,N
+JP70296,P70296,System Access,IT,2026-09-23,Completed,2026-09-23,N,N
+JP70296,P70296,Final Approval,HCIS,2026-09-26,Completed,2026-09-29,N,N
+JP70298,P70298,Personal Information,New Hire,2026-08-19,Assigned,,N,Y
+JP70299,P70299,Personal Information,New Hire,2026-07-04,Completed,2026-07-06,N,N
+JP70299,P70299,Background Check,Pre-Employment,2026-07-07,Completed,2026-07-07,N,N
+JP70299,P70299,Position Assignment,HC Partner,2026-07-10,Completed,2026-07-12,N,N
+JP70299,P70299,Salary Verification,Compensation,2026-07-13,Completed,2026-07-14,N,N
+JP70299,P70299,System Access,IT,2026-07-16,Completed,2026-07-19,N,N
+JP70299,P70299,Final Approval,HCIS,2026-07-19,Completed,2026-07-21,N,N
+JP70300,P70300,Personal Information,New Hire,2026-09-29,Assigned,,N,N
+JP70301,P70301,Personal Information,New Hire,2026-09-22,Completed,2026-09-22,N,N
+JP70301,P70301,Background Check,Pre-Employment,2026-09-25,Completed,2026-09-28,N,N
+JP70301,P70301,Position Assignment,HC Partner,2026-09-28,Assigned,,N,N
+JP70302,P70302,Personal Information,New Hire,2026-08-02,Completed,2026-08-03,N,N
+JP70302,P70302,Background Check,Pre-Employment,2026-08-05,Assigned,,N,Y
+JP70303,P70303,Personal Information,New Hire,2026-07-28,Completed,2026-07-31,N,N
+JP70303,P70303,Background Check,Pre-Employment,2026-07-31,Completed,2026-08-02,N,N
+JP70303,P70303,Position Assignment,HC Partner,2026-08-03,Completed,2026-08-05,N,N
+JP70303,P70303,Salary Verification,Compensation,2026-08-06,Completed,2026-08-09,N,N
+JP70303,P70303,System Access,IT,2026-08-09,Completed,2026-08-12,N,N
+JP70303,P70303,Final Approval,HCIS,2026-08-12,Completed,2026-08-12,N,N
+JP70304,P70304,Personal Information,New Hire,2026-08-08,Completed,2026-08-08,N,N
+JP70304,P70304,Background Check,Pre-Employment,2026-08-11,Completed,2026-08-14,N,N
+JP70304,P70304,Position Assignment,HC Partner,2026-08-14,Completed,2026-08-17,N,N
+JP70304,P70304,Salary Verification,Compensation,2026-08-17,Completed,2026-08-19,N,N
+JP70304,P70304,System Access,IT,2026-08-20,Completed,2026-08-20,N,N
+JP70304,P70304,Final Approval,HCIS,2026-08-23,Completed,2026-08-23,N,N
+JP70305,P70305,Personal Information,New Hire,2026-07-25,Completed,2026-07-25,N,N
+JP70305,P70305,Background Check,Pre-Employment,2026-07-28,Completed,2026-07-30,N,N
+JP70305,P70305,Position Assignment,HC Partner,2026-07-31,Completed,2026-07-31,N,N
+JP70305,P70305,Salary Verification,Compensation,2026-08-03,Completed,2026-08-03,N,N
+JP70305,P70305,System Access,IT,2026-08-06,Completed,2026-08-07,N,N
+JP70305,P70305,Final Approval,HCIS,2026-08-09,Completed,2026-08-09,N,N
+JP70306,P70306,Personal Information,New Hire,2026-08-02,Completed,2026-08-04,N,N
+JP70306,P70306,Background Check,Pre-Employment,2026-08-05,Completed,2026-08-08,N,N
+JP70306,P70306,Position Assignment,HC Partner,2026-08-08,Completed,2026-08-11,N,N
+JP70306,P70306,Salary Verification,Compensation,2026-08-11,Completed,2026-08-14,N,N
+JP70306,P70306,System Access,IT,2026-08-14,Completed,2026-08-16,N,N
+JP70306,P70306,Final Approval,HCIS,2026-08-17,Completed,2026-08-19,N,N
+JP70307,P70307,Personal Information,New Hire,2026-08-29,Completed,2026-08-29,N,N
+JP70307,P70307,Background Check,Pre-Employment,2026-09-01,Completed,2026-09-03,N,N
+JP70307,P70307,Position Assignment,HC Partner,2026-09-04,Completed,2026-09-04,N,N
+JP70307,P70307,Salary Verification,Compensation,2026-09-07,Assigned,,N,N
+JP70308,P70308,Personal Information,New Hire,2026-09-07,Completed,2026-09-07,Y,N
+JP70308,P70308,Background Check,Pre-Employment,2026-09-10,Completed,2026-09-12,N,N
+JP70308,P70308,Position Assignment,HC Partner,2026-09-13,Completed,2026-09-16,N,N
+JP70308,P70308,Salary Verification,Compensation,2026-09-16,Completed,2026-09-19,Y,N
+JP70308,P70308,System Access,IT,2026-09-19,Completed,2026-09-20,N,N
+JP70308,P70308,Final Approval,HCIS,2026-09-22,Completed,2026-09-25,Y,N
+JP70309,P70309,Personal Information,New Hire,2026-07-13,Completed,2026-07-14,N,N
+JP70309,P70309,Background Check,Pre-Employment,2026-07-16,Completed,2026-07-19,N,N
+JP70309,P70309,Position Assignment,HC Partner,2026-07-19,Assigned,,N,Y
+JP70311,P70311,Personal Information,New Hire,2026-06-25,Completed,2026-06-27,N,N
+JP70311,P70311,Background Check,Pre-Employment,2026-06-28,Completed,2026-06-28,N,N
+JP70311,P70311,Position Assignment,HC Partner,2026-07-01,Assigned,,N,N
+JP70312,P70312,Personal Information,New Hire,2026-08-07,Completed,2026-08-10,N,N
+JP70312,P70312,Background Check,Pre-Employment,2026-08-10,Completed,2026-08-11,N,N
+JP70312,P70312,Position Assignment,HC Partner,2026-08-13,Completed,2026-08-14,N,N
+JP70312,P70312,Salary Verification,Compensation,2026-08-16,Assigned,,N,N
+JP70314,P70314,Personal Information,New Hire,2026-07-12,Completed,2026-07-13,N,N
+JP70314,P70314,Background Check,Pre-Employment,2026-07-15,Completed,2026-07-15,N,N
+JP70314,P70314,Position Assignment,HC Partner,2026-07-18,Completed,2026-07-18,N,N
+JP70314,P70314,Salary Verification,Compensation,2026-07-21,Completed,2026-07-24,N,N
+JP70314,P70314,System Access,IT,2026-07-24,Completed,2026-07-24,N,N
+JP70314,P70314,Final Approval,HCIS,2026-07-27,Completed,2026-07-30,N,N
+JP70315,P70315,Personal Information,New Hire,2026-09-09,Completed,2026-09-12,N,N
+JP70315,P70315,Background Check,Pre-Employment,2026-09-12,Completed,2026-09-12,N,N
+JP70315,P70315,Position Assignment,HC Partner,2026-09-15,Completed,2026-09-16,N,N
+JP70315,P70315,Salary Verification,Compensation,2026-09-18,Assigned,,N,N
+JP70316,P70316,Personal Information,New Hire,2026-09-19,Completed,2026-09-21,N,N
+JP70316,P70316,Background Check,Pre-Employment,2026-09-22,Completed,2026-09-23,N,N
+JP70316,P70316,Position Assignment,HC Partner,2026-09-25,Completed,2026-09-26,N,N
+JP70316,P70316,Salary Verification,Compensation,2026-09-28,Completed,2026-10-01,N,N
+JP70316,P70316,System Access,IT,2026-10-01,Completed,2026-10-01,N,N
+JP70316,P70316,Final Approval,HCIS,2026-10-04,Completed,2026-10-06,N,N
+JP70317,P70317,Personal Information,New Hire,2026-08-15,Completed,2026-08-16,N,N
+JP70317,P70317,Background Check,Pre-Employment,2026-08-18,Completed,2026-08-18,N,N
+JP70317,P70317,Position Assignment,HC Partner,2026-08-21,Completed,2026-08-22,N,N
+JP70317,P70317,Salary Verification,Compensation,2026-08-24,Assigned,,N,N
+JP70318,P70318,Personal Information,New Hire,2026-09-18,Completed,2026-09-21,N,N
+JP70318,P70318,Background Check,Pre-Employment,2026-09-21,Completed,2026-09-24,N,N
+JP70318,P70318,Position Assignment,HC Partner,2026-09-24,Assigned,,N,Y
+JP70319,P70319,Personal Information,New Hire,2026-09-16,Completed,2026-09-18,N,N
+JP70319,P70319,Background Check,Pre-Employment,2026-09-19,Assigned,,N,N
