@@ -33,7 +33,7 @@ Every check matches the planted answer key in `data/answer_key.csv`.
 
 ## Dashboard
 
-_Screenshot goes here (dashboards/dashboard_a.png)._
+   ![Data Quality Command Center](dashboards/dashboard_a.png)
 
 ## How to run it
 
