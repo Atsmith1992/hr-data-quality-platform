@@ -51,6 +51,9 @@ Every check matches the planted answer key in `data/answer_key.csv`.
 
 ![Data Quality Command Center](dashboards/dashboard_a.png)
 
+
+   ![Payroll Risk](dashboards/payroll_risk.png)
+   
 ## How to run it
 
 Requires Python 3 and PostgreSQL. No Python packages needed.
