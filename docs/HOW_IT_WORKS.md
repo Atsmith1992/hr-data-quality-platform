@@ -5,8 +5,8 @@ This guide walks through every file in plain English, so you can explain it in a
 ## The big picture
 
 ```
-generate_data.py  ->  data/raw/*.csv  ->  raw schema  ->  staging schema  ->  audit schema  ->  Power BI
-   (Python)            (the exports)     (01 load)       (02 clean)         (03 checks)      (dashboards)
+generate_data.py  ->  data/raw/*.csv  ->  raw schema  ->  staging schema  ->  audit + pipeline  ->  Power BI
+   (Python)            (the exports)     (01 load)       (02 clean)        (03 and 04)        (dashboards)
 ```
 
 Same flow as the real job: a system exports a file, you load it, clean it, check it, and report on it.
@@ -29,7 +29,7 @@ It makes the fake data. Open it and follow the numbered section headers.
 | 4. Data Point Checks | Plants your checks' errors on purpose, with exact counts | `pick()` so no worker gets planted twice |
 | 5. Other exports | Change log, P-STAR, PowerSchool ATS | Date formatting (`strftime`) |
 | 5b. Payroll calendar | Every pay period's deadlines, all as offsets from the Saturday start | `timedelta(days=16)` = Monday fix-by |
-| 6. Journeys | The 4 real pre-boarding templates and their task names | Nested lists, building task rows step by step |
+| 6. Journeys | The 4 real pre-boarding templates and their task names, start dates, district office hires | Nested lists, building task rows step by step, `sorted(..., key=...)` |
 | 7. Queues | Pending transactions and partner submissions (for Dashboard C) | Same patterns again |
 | 8. Catalog | Every audit message: team, severity, Action or Known Exception | Dictionaries of tuples |
 | 9. Weekly audit files | 26 Friday runs of the HR Audit Report | `random.random() < chance` decides if an error shows up that week |
@@ -103,6 +103,27 @@ WHERE a.person_type = 'Contingent Worker'
 - `audit.payroll_impact` looks at each pay period: errors on the report the Friday timecards closed are **at risk**. If they're gone by check day they were **saved**, and if they're still there they **missed** the check.
 
 **Part G, proof.** Compares every check to the answer key. Every row should say MATCH.
+
+## Part 5: 04_pipeline.sql (the hiring pipeline)
+
+New hires sit in pre-boarding journeys before their first day. Journeys move one task at a time, so the question is always: **which task is each hire stuck on, and who is it waiting on?**
+
+**Part A, one row per hire (`pipeline.hires`).**
+- `DISTINCT ON (pending_worker_id) ... ORDER BY pending_worker_id, task_seq` keeps the first open task per hire: the one Initiated or In Progress.
+- `waiting_on` asks whether the task performer is the hire (Employee or Worker) or HC staff (Pre-Employment, HC Partner, HCIS and so on).
+- `days_waiting` = 7/31/2026 minus the date the task was assigned. **Stalled** = 3+ days, the same rule Laura's dashboard used.
+- `expected_journey` is a `CASE` that says which journey the worker type *should* be on. When it differs from the actual journey, `wrong_journey` is true (a CW sitting on the Non-Certified journey, say).
+- `missing_data` uses `concat_ws` to list what's missing (email, phone, SSN, address). `NULLIF(..., '')` turns "nothing missing" into NULL.
+- The `LEFT JOIN` to `staging.payroll_calendar` on the start date pulls that pay period's HCIS deadlines.
+- Two `UPDATE`s then set one `pipeline_status` per hire (the first problem that applies) and a `start_risk`: **On track**, **At risk** (a problem with the HCIS deadline 14 days away or less), or **Needs follow-up** (a problem, but more time).
+
+**Part B, Laura's four tabs (`pipeline.intervention_list`).** Four `SELECT`s glued together with `UNION ALL`, one per tab. A hire can be on two tabs (stalled *and* missing data), which is why there are 909 rows for fewer hires, just like her export.
+
+**Part C, the cards (`pipeline.status`).** One row of counts plus the next start date and its deadline. Each number is a small `(SELECT count(*) ...)` sub-query. `ORDER BY planned_start_date LIMIT 1` finds the next start date.
+
+**Part D, proof.** Same idea as Part G of file 03: every count against the answer key.
+
+Why start dates aren't random: in `generate_data.py`, hires are ranked by how far along their journey they are, and the most-ready group gets the nearest start date. That's how it works in real life, since the people starting soonest were hired first.
 
 ## Do it yourself: practice
 

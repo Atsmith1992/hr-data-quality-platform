@@ -508,6 +508,8 @@ for h, bucket in zip(with_journey, buckets):
     else:
         options = list(range(len(steps)))
     cur = random.choice(options)
+    h["progress"] = cur / len(steps)          # how far along the journey (used for start dates below)
+    h["problem"] = bucket != "fresh" or h["pending_worker_id"] in reopened
     age = random.randint(3, 45) if bucket.startswith("stalled") else random.randint(0, 2)
     cur_assigned = AS_OF - timedelta(days=age)
     # walk backwards to give completed tasks believable dates
@@ -536,6 +538,42 @@ plant("LAURA_STALLED_HIRES", 307)
 plant("LAURA_HC_STAFF_TASKS", 321)
 plant("LAURA_REOPENED_TASKS", 34)
 plant("LAURA_MISSING_DATA", 247)
+
+# Start dates: people starting soonest were hired earliest, so they're furthest along.
+# Rank hires by progress (problems pull them back, plus some randomness) and give the
+# most-ready group the nearest start date. start_rng keeps the rest of the data unchanged.
+start_rng = random.Random(808)
+missing_ids = {h["pending_worker_id"] for h in missing}
+
+
+def readiness(h):
+    if not h["journey_name"]:
+        return start_rng.random() * 0.5
+    score = h["progress"]
+    if h["problem"] or h["pending_worker_id"] in missing_ids or h["journey_name"] != NORMAL[h["kind"]]:
+        score -= 0.5
+    return score + start_rng.gauss(0, 0.2)
+
+
+ranked = sorted(hires, key=readiness, reverse=True)
+group_sizes = [280, 265, 260, len(ranked)]           # 8/8, 8/22, 9/5, 9/19 (the rest)
+i = 0
+for start, size in zip(PP_STARTS_AHEAD, group_sizes):
+    for h in ranked[i:i + size]:
+        h["planned_start_date"] = start.isoformat()
+    i += size
+
+# District Office hires: Pre-Employment creates these, on the Non-Certified journey.
+# About 1 in 4 non-certified hires is at a central office instead of a school.
+# office_rng is its own random generator, so adding this doesn't change any other fake data
+# (Dashboard A's numbers stay exactly the same).
+office_rng = random.Random(2026)
+for h in hires:
+    if h["kind"] == "Employee-Non-Certified" and office_rng.random() < 0.25:
+        h["organization"] = office_rng.choice(OFFICES)
+plant("PIPELINE_DISTRICT_OFFICE_HIRES", sum(h["organization"] in OFFICES for h in hires))
+# Wrong journey for the worker type (the misrouted stragglers above, minus any with no journey)
+plant("PIPELINE_WRONG_JOURNEY", sum(1 for h in hires if h["journey_name"] and h["journey_name"] != NORMAL[h["kind"]]))
 
 hire_cols = ["pending_worker_id", "full_name", "proposed_worker_type", "job_name", "bargaining_unit",
              "organization", "planned_start_date", "personal_email", "primary_phone",
@@ -809,7 +847,7 @@ for r in fusion_rows:
         weekly[r["RUN_DATE"]] = weekly.get(r["RUN_DATE"], 0) + 1
 print("\nPlanted errors (your SQL should find exactly these):")
 for k in sorted(planted):
-    if k.startswith(("DP", "LAURA")):
+    if k.startswith(("DP", "LAURA", "PIPELINE")):
         print(f"  {k}: {planted[k]}")
 print(f"  HR Audit action items per week: {min(weekly.values())} to {max(weekly.values())}")
 print(f"  HR Audit action items on the latest run (7/31/2026): {sum(planted[f'F{n:03d}'] for n in ACTION)}")
