@@ -1,0 +1,26 @@
+check_id,msg_no,check_name,owner_team,severity,why_it_matters,tracking,hits_payroll
+F002,2,Employee Gender is Missing,Pre-Employment,High,Required for state and federal reporting,Action,N
+F003,3,Supervisor is blank,Talent Management,Medium,No one can approve time or tasks,Action,N
+F005,5,Social Security Number is invalid,Pre-Employment,High,Tax reporting fails,Action,N
+F006,6,Substitute Certification is Missing,Recruitment,Critical,Subs can't be paid without the cert flag,Action,Y
+F009,9,Salary record is Missing,Compensation,Critical,Employee won't be paid,Action,Y
+F010,10,Active Assignment associated with an inactive position,Talent Management,Medium,Mostly temps with no P-STAR submitted,Action,N
+F016,16,Position is missing from Assignment,HCIS,High,Can't cost or budget the assignment,Action,N
+F017,17,Position Costing does not equal 100%,Talent Management,Critical,Pay charged to the wrong budget,Action,Y
+F018,18,Position Costing is Missing,Talent Management,High,Recurring mass item,Known Exception,N
+F019,19,Employee hours do not match Job standard Hours,HCIS,Medium,Recurring mass item (split assignments),Known Exception,N
+F022,22,Missing Final Close Date,Payroll,High,"Recurring mass item, Payroll close dates",Known Exception,N
+F023,23,Position Costing contains duplicate records,HCIS,Medium,Costing double counts,Action,N
+F026,26,Position costing is end dated,Talent Management,High,Recurring mass item,Known Exception,N
+F031,31,Employee Assigned to Leave Org and status is not Leave with or without pay,HCIS,Medium,Same 7 special-leave employees,Known Exception,N
+F076,76,Employee Assignment FTE is Overallocated,Talent Management,Critical,Person is paid over 1.0 FTE,Action,Y
+F077,77,Employee has multiple Active Work Relationships,HCIS,Critical,Duplicate pay risk,Action,Y
+F083,83,Employee has multiple active assignments in different job titles,HCIS,Medium,Possible duplicate assignment,Action,N
+F085,85,Employee has multiple active Education records,Talent Management,Medium,Recurring mass item,Known Exception,N
+F088,88,Missing Vacant Position Costing,HCIS,Medium,"Recurring mass item, fixed by mass update",Known Exception,N
+F089,89,Active Position Missing Parent Position,Talent Management,Medium,Recurring mass item,Known Exception,N
+F090,90,Temporary employee without future suspension date,HCIS,Critical,Temp keeps getting paid past approval,Action,Y
+F091,91,Active Job missing Budgeted and/or Fringe Amount,Compensation,Medium,Budget planning gap,Action,N
+F093,93,Position EIT and Position Costing does not match,HCIS,Medium,Two costing sources disagree,Action,N
+F094,94,Contingent Worker missing Supervisor,HCIS,Medium,"Recurring mass item, fixed by mass update",Known Exception,N
+F095,95,Contingent Worker missing Department,HCIS,Medium,Can't route the contractor,Action,N

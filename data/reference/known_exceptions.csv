@@ -1,0 +1,26 @@
+check_id,employee_number,reason
+F018,,Recurring mass item
+F019,,Recurring mass item (split assignments)
+F022,,"Recurring mass item, Payroll close dates"
+F026,,Recurring mass item
+F085,,Recurring mass item
+F088,,"Recurring mass item, fixed by mass update"
+F089,,Recurring mass item
+F094,,"Recurring mass item, fixed by mass update"
+F031,63811,"Special leave, unpaid"
+F031,78748,"Special leave, unpaid"
+F031,47747,"Special leave, unpaid"
+F031,45337,"Special leave, unpaid"
+F031,68868,"Special leave, unpaid"
+F031,78808,"Special leave, unpaid"
+F031,61533,"Special leave, unpaid"
+F009,63811,"Special leave, unpaid"
+F009,78748,"Special leave, unpaid"
+F009,47747,"Special leave, unpaid"
+F009,45337,"Special leave, unpaid"
+F009,68868,"Special leave, unpaid"
+F009,78808,"Special leave, unpaid"
+F009,61533,"Special leave, unpaid"
+F005,48145,International worker
+F005,68426,International worker
+F005,78799,International worker

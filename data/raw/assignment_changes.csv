@@ -1,710 +1,910 @@
 employee_number,assignment_number,change_type,old_value,new_value,changed_by,change_date
-43252,43252-3,Assignment Flip - Supervisor,previous value,new value,SPEC04,17-AUG-2026
-44148,44148-3,Assignment Flip - Supervisor,previous value,new value,SPEC02,14-AUG-2026
-41368,41368-3,Assignment Flip - Position,previous value,new value,SPEC01,15-JUL-2026
-40596,40596-2,Assignment Flip - Position,previous value,new value,SPEC02,05-AUG-2026
-41307,41307-6,Assignment Flip - Job,previous value,new value,SPEC01,21-AUG-2026
-40681,40681-2,Assignment Flip - Asg Status,previous value,new value,SPEC02,10-AUG-2026
-42579,42579-2,Assignment Flip - Supervisor,previous value,new value,SPEC01,23-SEP-2026
-42474,42474-3,Assignment Flip - Supervisor,previous value,new value,SPEC03,23-SEP-2026
-40174,40174-2,Assignment Flip - Supervisor,previous value,new value,SPEC01,12-SEP-2026
-42185,42185-5,Assignment Flip - Payroll,10 Month Payroll,12 Month Payroll,SPEC02,24-SEP-2026
-41657,41657-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,22-JUL-2026
-40907,40907-1,Assignment Flip - Position,previous value,new value,SPEC03,18-JUL-2026
-44447,44447-3,Assignment Flip - Asg Status,previous value,new value,SPEC01,16-SEP-2026
-42134,42134-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,14-SEP-2026
-42214,42214-2,Assignment Flip - Position,previous value,new value,SPEC03,07-AUG-2026
-41931,41931-3,Assignment Flip - Asg Status,previous value,new value,SPEC03,08-SEP-2026
-42712,42712-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,25-SEP-2026
-43258,43258-1,Assignment Flip - Supervisor,previous value,new value,SPEC03,31-AUG-2026
-44265,44265-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,18-AUG-2026
-43655,43655-1,Assignment Flip - Job,previous value,new value,SPEC04,03-JUL-2026
-40909,40909-1,Assignment Flip - Supervisor,previous value,new value,SPEC02,12-AUG-2026
-44526,44526-3,Assignment Flip - Position,previous value,new value,SPEC01,31-JUL-2026
-40124,40124-6,Assignment Flip - Asg Status,previous value,new value,SPEC02,10-JUL-2026
-41844,41844-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,08-JUL-2026
-42619,42619-6,Assignment Flip - Position,previous value,new value,SPEC01,03-SEP-2026
-41327,41327-2,Assignment Flip - Job,previous value,new value,SPEC02,23-JUL-2026
-42938,42938-1,Assignment Flip - Job,previous value,new value,SPEC04,02-SEP-2026
-43274,43274-2,Assignment Flip - Position,previous value,new value,SPEC03,04-AUG-2026
-41026,41026-4,Assignment Flip - Position,previous value,new value,SPEC01,08-OCT-2026
-40817,40817-3,Assignment Flip - Position,previous value,new value,SPEC02,23-JUL-2026
-42257,42257-2,Assignment Flip - Job,previous value,new value,SPEC01,20-JUL-2026
-40332,40332-3,Assignment Flip - Job,previous value,new value,SPEC03,08-SEP-2026
-40503,40503-2,Assignment Flip - Position,previous value,new value,SPEC03,10-JUL-2026
-44280,44280-2,Assignment Flip - Position,previous value,new value,SPEC01,12-OCT-2026
-41126,41126-4,Assignment Flip - Job,previous value,new value,SPEC04,23-SEP-2026
-43061,43061-1,Assignment Flip - Asg Status,previous value,new value,SPEC02,12-SEP-2026
-42750,42750-3,Assignment Flip - Supervisor,previous value,new value,SPEC04,15-AUG-2026
-43771,43771-6,Assignment Flip - Position,previous value,new value,SPEC02,07-JUL-2026
-40965,40965-3,Assignment Flip - Position,previous value,new value,SPEC02,23-JUL-2026
-41493,41493-4,Assignment Flip - Job,previous value,new value,SPEC03,07-JUL-2026
-40054,40054-5,Assignment Flip - Job,previous value,new value,SPEC03,19-SEP-2026
-41741,41741-3,Assignment Flip - Supervisor,previous value,new value,SPEC01,07-AUG-2026
-40289,40289-6,Assignment Flip - Asg Status,previous value,new value,SPEC01,28-AUG-2026
-40722,40722-2,Assignment Flip - Job,previous value,new value,SPEC04,20-SEP-2026
-41507,41507-3,Assignment Flip - Position,previous value,new value,SPEC04,07-JUL-2026
-44051,44051-2,Assignment Flip - Job,previous value,new value,SPEC01,13-OCT-2026
-41822,41822-2,Assignment Flip - Position,previous value,new value,SPEC03,23-JUL-2026
-40881,40881-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,10-SEP-2026
-41156,41156-6,Assignment Flip - Asg Status,previous value,new value,SPEC04,26-SEP-2026
-41578,41578-6,Assignment Flip - Position,previous value,new value,SPEC03,08-AUG-2026
-41309,41309-1,Assignment Flip - Job,previous value,new value,SPEC01,17-SEP-2026
-40235,40235-3,Assignment Flip - Asg Status,previous value,new value,SPEC04,24-SEP-2026
-42908,42908-3,Assignment Flip - Asg Status,previous value,new value,SPEC03,04-JUL-2026
-44468,44468-2,Assignment Flip - Job,previous value,new value,SPEC01,29-JUL-2026
-41447,41447-1,Assignment Flip - Position,previous value,new value,SPEC04,08-SEP-2026
-41674,41674-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,11-JUL-2026
-41978,41978-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,16-JUL-2026
-44008,44008-3,Assignment Flip - Supervisor,previous value,new value,SPEC02,20-JUL-2026
-40902,40902-6,Assignment Flip - Job,previous value,new value,SPEC02,09-SEP-2026
-42582,42582-4,Assignment Flip - Asg Status,previous value,new value,SPEC04,08-SEP-2026
-43224,43224-5,Assignment Flip - Asg Status,previous value,new value,SPEC02,07-SEP-2026
-44330,44330-5,Assignment Flip - Asg Status,previous value,new value,SPEC01,13-OCT-2026
-43328,43328-2,Assignment Flip - Supervisor,previous value,new value,SPEC03,21-JUL-2026
-42056,42056-3,Assignment Flip - Position,previous value,new value,SPEC01,25-AUG-2026
-41749,41749-3,Assignment Flip - Position,previous value,new value,SPEC02,28-SEP-2026
-41301,41301-4,Assignment Flip - Position,previous value,new value,SPEC02,05-AUG-2026
-40824,40824-3,Assignment Flip - Asg Status,previous value,new value,SPEC04,01-OCT-2026
-41509,41509-5,Assignment Flip - Job,previous value,new value,SPEC02,28-JUL-2026
-44006,44006-3,Assignment Flip - Position,previous value,new value,SPEC02,30-SEP-2026
-42167,42167-5,Assignment Flip - Job,previous value,new value,SPEC02,04-AUG-2026
-41825,41825-1,Assignment Flip - Job,previous value,new value,SPEC01,20-SEP-2026
-43127,43127-6,Assignment Flip - Position,previous value,new value,SPEC02,26-JUL-2026
-43309,43309-3,Assignment Flip - Job,previous value,new value,SPEC01,12-SEP-2026
-40682,40682-3,Assignment Flip - Position,previous value,new value,SPEC03,03-JUL-2026
-43075,43075-2,Assignment Flip - Position,previous value,new value,SPEC01,12-OCT-2026
-42594,42594-5,Assignment Flip - Supervisor,previous value,new value,SPEC04,10-JUL-2026
-41669,41669-6,Assignment Flip - Position,previous value,new value,SPEC03,25-JUL-2026
-40867,40867-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,12-JUL-2026
-41777,41777-4,Assignment Flip - Job,previous value,new value,SPEC02,08-AUG-2026
-41919,41919-3,Assignment Flip - Asg Status,previous value,new value,SPEC02,02-SEP-2026
-40442,40442-3,Assignment Flip - Position,previous value,new value,SPEC03,03-AUG-2026
-40383,40383-4,Assignment Flip - Position,previous value,new value,SPEC03,09-AUG-2026
-41546,41546-1,Assignment Flip - Asg Status,previous value,new value,SPEC04,24-SEP-2026
-44479,44479-3,Assignment Flip - Position,previous value,new value,SPEC01,01-JUL-2026
-41320,41320-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,06-JUL-2026
-41201,41201-2,Assignment Flip - Position,previous value,new value,SPEC01,21-JUL-2026
-43805,43805-3,Assignment Flip - Job,previous value,new value,SPEC03,29-SEP-2026
-40606,40606-5,Assignment Flip - Position,previous value,new value,SPEC03,07-SEP-2026
-43225,43225-4,Assignment Flip - Job,previous value,new value,SPEC03,05-SEP-2026
-41631,41631-6,Assignment Flip - Asg Status,previous value,new value,SPEC02,13-AUG-2026
-44352,44352-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,12-SEP-2026
-40397,40397-2,Assignment Flip - Asg Status,previous value,new value,SPEC02,20-AUG-2026
-41634,41634-4,Assignment Flip - Supervisor,previous value,new value,SPEC02,10-JUL-2026
-42315,42315-3,Assignment Flip - Position,previous value,new value,SPEC01,16-AUG-2026
-43369,43369-1,Assignment Flip - Job,previous value,new value,SPEC02,14-OCT-2026
-43677,43677-5,Assignment Flip - Position,previous value,new value,SPEC03,21-JUL-2026
-44009,44009-1,Assignment Flip - Asg Status,previous value,new value,SPEC04,14-JUL-2026
-43994,43994-5,Assignment Flip - Position,previous value,new value,SPEC02,05-SEP-2026
-40414,40414-2,Assignment Flip - Job,previous value,new value,SPEC04,10-JUL-2026
-43027,43027-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,22-AUG-2026
-43953,43953-2,Assignment Flip - Job,previous value,new value,SPEC04,03-JUL-2026
-40366,40366-1,Assignment Flip - Supervisor,previous value,new value,SPEC02,17-AUG-2026
-40848,40848-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,18-AUG-2026
-41958,41958-3,Assignment Flip - Asg Status,previous value,new value,SPEC04,11-JUL-2026
-41184,41184-2,Assignment Flip - Position,previous value,new value,SPEC03,07-OCT-2026
-44163,44163-1,Assignment Flip - Job,previous value,new value,SPEC01,28-AUG-2026
-41233,41233-1,Assignment Flip - Position,previous value,new value,SPEC03,27-AUG-2026
-40160,40160-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,15-JUL-2026
-43794,43794-4,Assignment Flip - Position,previous value,new value,SPEC01,16-SEP-2026
-42345,42345-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,09-JUL-2026
-42754,42754-4,Assignment Flip - Job,previous value,new value,SPEC02,03-JUL-2026
-41177,41177-3,Assignment Flip - Job,previous value,new value,SPEC03,07-JUL-2026
-44062,44062-6,Assignment Flip - Job,previous value,new value,SPEC03,25-SEP-2026
-40796,40796-3,Assignment Flip - Asg Status,previous value,new value,SPEC01,24-SEP-2026
-40153,40153-3,Assignment Flip - Job,previous value,new value,SPEC02,14-JUL-2026
-41167,41167-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,13-SEP-2026
-40873,40873-2,Assignment Flip - Asg Status,previous value,new value,SPEC01,21-SEP-2026
-42045,42045-3,Assignment Flip - Supervisor,previous value,new value,SPEC04,05-AUG-2026
-42073,42073-4,Assignment Flip - Position,previous value,new value,SPEC04,14-AUG-2026
-42948,42948-1,Assignment Flip - Asg Status,previous value,new value,SPEC04,06-JUL-2026
-40840,40840-5,Assignment Flip - Job,previous value,new value,SPEC03,26-JUL-2026
-44292,44292-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,04-SEP-2026
-42776,42776-6,Assignment Flip - Position,previous value,new value,SPEC02,23-AUG-2026
-41904,41904-6,Assignment Flip - Position,previous value,new value,SPEC02,23-SEP-2026
-42079,42079-5,Assignment Flip - Position,previous value,new value,SPEC03,31-JUL-2026
-40586,40586-5,Assignment Flip - Position,previous value,new value,SPEC03,10-AUG-2026
-42049,42049-4,Assignment Flip - Position,previous value,new value,SPEC01,04-OCT-2026
-42155,42155-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,21-SEP-2026
-41616,41616-5,Assignment Flip - Job,previous value,new value,SPEC01,21-SEP-2026
-41855,41855-1,Assignment Flip - Payroll,10 Month Payroll,12 Month Payroll,SPEC01,29-SEP-2026
-40046,40046-4,Assignment Flip - Supervisor,previous value,new value,SPEC04,30-JUL-2026
-42710,42710-4,Assignment Flip - Position,previous value,new value,SPEC03,24-JUL-2026
-40961,40961-5,Assignment Flip - Job,previous value,new value,SPEC01,07-AUG-2026
-40500,40500-5,Assignment Flip - Asg Status,previous value,new value,SPEC01,13-SEP-2026
-42915,42915-5,Assignment Flip - Asg Status,previous value,new value,SPEC02,19-JUL-2026
-42615,42615-4,Assignment Flip - Asg Status,previous value,new value,SPEC03,04-JUL-2026
-41845,41845-3,Assignment Flip - Supervisor,previous value,new value,SPEC01,26-AUG-2026
-43305,43305-3,Assignment Flip - Position,previous value,new value,SPEC03,11-AUG-2026
-41214,41214-4,Assignment Flip - Asg Status,previous value,new value,SPEC04,14-SEP-2026
-43482,43482-1,Assignment Flip - Job,previous value,new value,SPEC01,10-OCT-2026
-43798,43798-2,Assignment Flip - Asg Status,previous value,new value,SPEC01,08-OCT-2026
-42027,42027-3,Assignment Flip - Position,previous value,new value,SPEC01,31-JUL-2026
-42198,42198-6,Assignment Flip - Asg Status,previous value,new value,SPEC01,05-SEP-2026
-43879,43879-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,17-SEP-2026
-44348,44348-2,Assignment Flip - Supervisor,previous value,new value,SPEC02,14-SEP-2026
-41403,41403-6,Assignment Flip - Position,previous value,new value,SPEC02,17-JUL-2026
-41514,41514-1,Assignment Flip - Position,previous value,new value,SPEC03,31-JUL-2026
-43844,43844-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,09-OCT-2026
-40225,40225-1,Assignment Flip - Supervisor,previous value,new value,SPEC01,29-JUL-2026
-41980,41980-5,Assignment Flip - Job,previous value,new value,SPEC04,19-AUG-2026
-44246,44246-5,Assignment Flip - Supervisor,previous value,new value,SPEC03,11-SEP-2026
-41593,41593-6,Assignment Flip - Asg Status,previous value,new value,SPEC01,19-JUL-2026
-40433,40433-4,Assignment Flip - Supervisor,previous value,new value,SPEC02,15-JUL-2026
-44212,44212-2,Assignment Flip - Position,previous value,new value,SPEC02,05-OCT-2026
-40738,40738-3,Assignment Flip - Asg Status,previous value,new value,SPEC02,26-SEP-2026
-42475,42475-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,26-SEP-2026
-40012,40012-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,12-AUG-2026
-42460,42460-1,Assignment Flip - Job,previous value,new value,SPEC02,24-SEP-2026
-42970,42970-6,Assignment Flip - Supervisor,previous value,new value,SPEC04,08-OCT-2026
-44434,44434-6,Assignment Flip - Asg Status,previous value,new value,SPEC04,01-JUL-2026
-41937,41937-6,Assignment Flip - Asg Status,previous value,new value,SPEC03,08-JUL-2026
-42920,42920-1,Assignment Flip - Asg Status,previous value,new value,SPEC02,03-AUG-2026
-43925,43925-2,Assignment Flip - Supervisor,previous value,new value,SPEC02,14-SEP-2026
-42219,42219-1,Assignment Flip - Supervisor,previous value,new value,SPEC02,12-AUG-2026
-41013,41013-1,Assignment Flip - Position,previous value,new value,SPEC03,03-JUL-2026
-44230,44230-5,Assignment Flip - Job,previous value,new value,SPEC04,07-JUL-2026
-42817,42817-2,Assignment Flip - Job,previous value,new value,SPEC01,25-AUG-2026
-44475,44475-2,Assignment Flip - Job,previous value,new value,SPEC04,12-JUL-2026
-41664,41664-1,Assignment Flip - Asg Status,previous value,new value,SPEC01,24-JUL-2026
-43921,43921-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,21-AUG-2026
-41462,41462-1,Assignment Flip - Asg Status,previous value,new value,SPEC02,18-SEP-2026
-41719,41719-5,Assignment Flip - Job,previous value,new value,SPEC03,31-JUL-2026
-40952,40952-2,Assignment Flip - Position,previous value,new value,SPEC01,14-JUL-2026
-40561,40561-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,02-OCT-2026
-42883,42883-4,Assignment Flip - Job,previous value,new value,SPEC04,23-JUL-2026
-44023,44023-5,Assignment Flip - Job,previous value,new value,SPEC03,20-SEP-2026
-43640,43640-2,Assignment Flip - Asg Status,previous value,new value,SPEC02,04-OCT-2026
-40729,40729-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,25-JUL-2026
-44438,44438-3,Assignment Flip - Asg Status,previous value,new value,SPEC01,30-AUG-2026
-44415,44415-2,Assignment Flip - Position,previous value,new value,SPEC01,04-AUG-2026
-40278,40278-3,Assignment Flip - Position,previous value,new value,SPEC03,03-JUL-2026
-43668,43668-4,Assignment Flip - Position,previous value,new value,SPEC01,11-SEP-2026
-40496,40496-5,Assignment Flip - Job,previous value,new value,SPEC02,23-JUL-2026
-41812,41812-3,Assignment Flip - Asg Status,previous value,new value,SPEC04,08-JUL-2026
-42800,42800-1,Assignment Flip - Position,previous value,new value,SPEC04,09-OCT-2026
-40298,40298-5,Assignment Flip - Job,previous value,new value,SPEC01,06-SEP-2026
-40638,40638-6,Assignment Flip - Job,previous value,new value,SPEC04,11-SEP-2026
-42023,42023-6,Assignment Flip - Position,previous value,new value,SPEC02,02-SEP-2026
-41062,41062-2,Assignment Flip - Job,previous value,new value,SPEC03,05-OCT-2026
-43510,43510-2,Assignment Flip - Supervisor,previous value,new value,SPEC02,11-AUG-2026
-44158,44158-4,Assignment Flip - Supervisor,previous value,new value,SPEC01,27-AUG-2026
-43002,43002-4,Assignment Flip - Position,previous value,new value,SPEC02,23-SEP-2026
-40119,40119-6,Assignment Flip - Asg Status,previous value,new value,SPEC04,16-SEP-2026
-41478,41478-2,Assignment Flip - Supervisor,previous value,new value,SPEC03,22-AUG-2026
-42107,42107-2,Assignment Flip - Supervisor,previous value,new value,SPEC02,14-OCT-2026
-42349,42349-5,Assignment Flip - Job,previous value,new value,SPEC02,29-AUG-2026
-42158,42158-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,19-SEP-2026
-42577,42577-4,Assignment Flip - Job,previous value,new value,SPEC01,28-AUG-2026
-44266,44266-2,Assignment Flip - Position,previous value,new value,SPEC03,08-OCT-2026
-42271,42271-4,Assignment Flip - Position,previous value,new value,SPEC01,24-SEP-2026
-44213,44213-2,Assignment Flip - Job,previous value,new value,SPEC03,03-AUG-2026
-41476,41476-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,23-SEP-2026
-42676,42676-1,Assignment Flip - Asg Status,previous value,new value,SPEC02,22-JUL-2026
-43884,43884-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,06-JUL-2026
-43600,43600-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,27-JUL-2026
-42392,42392-6,Assignment Flip - Asg Status,previous value,new value,SPEC04,05-SEP-2026
-44448,44448-6,Assignment Flip - Supervisor,previous value,new value,SPEC04,20-JUL-2026
-40198,40198-1,Assignment Flip - Job,previous value,new value,SPEC02,13-SEP-2026
-42470,42470-3,Assignment Flip - Job,previous value,new value,SPEC02,07-SEP-2026
-43607,43607-3,Assignment Flip - Position,previous value,new value,SPEC01,22-JUL-2026
-44353,44353-5,Assignment Flip - Position,previous value,new value,SPEC01,30-AUG-2026
-41485,41485-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,28-SEP-2026
-40404,40404-5,Assignment Flip - Job,previous value,new value,SPEC03,31-AUG-2026
-41908,41908-2,Assignment Flip - Asg Status,previous value,new value,SPEC03,04-JUL-2026
-43199,43199-4,Assignment Flip - Supervisor,previous value,new value,SPEC01,26-SEP-2026
-43079,43079-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,27-AUG-2026
-41818,41818-6,Assignment Flip - Position,previous value,new value,SPEC04,30-JUL-2026
-41781,41781-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,12-OCT-2026
-42296,42296-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,06-JUL-2026
-43621,43621-3,Assignment Flip - Supervisor,previous value,new value,SPEC01,14-OCT-2026
-44261,44261-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,21-JUL-2026
-43670,43670-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,03-JUL-2026
-43837,43837-2,Assignment Flip - Position,previous value,new value,SPEC04,04-SEP-2026
-41263,41263-5,Assignment Flip - Job,previous value,new value,SPEC03,01-AUG-2026
-41797,41797-3,Assignment Flip - Supervisor,previous value,new value,SPEC02,16-AUG-2026
-41191,41191-2,Assignment Flip - Job,previous value,new value,SPEC01,07-SEP-2026
-42328,42328-1,Assignment Flip - Position,previous value,new value,SPEC02,12-OCT-2026
-40213,40213-4,Assignment Flip - Supervisor,previous value,new value,SPEC01,19-SEP-2026
-42174,42174-6,Assignment Flip - Job,previous value,new value,SPEC02,30-JUL-2026
-40847,40847-5,Assignment Flip - Job,previous value,new value,SPEC04,29-JUL-2026
-42000,42000-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,26-AUG-2026
-42824,42824-1,Assignment Flip - Job,previous value,new value,SPEC02,14-OCT-2026
-42628,42628-4,Assignment Flip - Position,previous value,new value,SPEC02,11-OCT-2026
-43243,43243-2,Assignment Flip - Asg Status,previous value,new value,SPEC04,24-AUG-2026
-43473,43473-6,Assignment Flip - Asg Status,previous value,new value,SPEC03,02-OCT-2026
-43283,43283-2,Assignment Flip - Job,previous value,new value,SPEC04,11-SEP-2026
-43020,43020-3,Assignment Flip - Position,previous value,new value,SPEC04,15-SEP-2026
-42659,42659-1,Assignment Flip - Position,previous value,new value,SPEC01,27-AUG-2026
-40110,40110-6,Assignment Flip - Position,previous value,new value,SPEC01,01-OCT-2026
-41994,41994-6,Assignment Flip - Asg Status,previous value,new value,SPEC04,08-OCT-2026
-41855,41855-1,Assignment Flip - Job,previous value,new value,SPEC02,06-JUL-2026
-41278,41278-6,Assignment Flip - Position,previous value,new value,SPEC01,18-SEP-2026
-40455,40455-5,Assignment Flip - Job,previous value,new value,SPEC04,16-AUG-2026
-42879,42879-6,Assignment Flip - Job,previous value,new value,SPEC01,02-SEP-2026
-41384,41384-4,Assignment Flip - Position,previous value,new value,SPEC02,26-JUL-2026
-43255,43255-6,Assignment Flip - Asg Status,previous value,new value,SPEC04,01-OCT-2026
-42730,42730-6,Assignment Flip - Job,previous value,new value,SPEC02,02-SEP-2026
-42101,42101-6,Assignment Flip - Position,previous value,new value,SPEC04,11-OCT-2026
-41555,41555-4,Assignment Flip - Job,previous value,new value,SPEC03,17-JUL-2026
-42377,42377-1,Assignment Flip - Job,previous value,new value,SPEC03,18-JUL-2026
-43617,43617-4,Assignment Flip - Position,previous value,new value,SPEC03,04-JUL-2026
-43588,43588-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,12-JUL-2026
-42826,42826-2,Assignment Flip - Asg Status,previous value,new value,SPEC03,03-AUG-2026
-44043,44043-3,Assignment Flip - Supervisor,previous value,new value,SPEC04,18-AUG-2026
-41150,41150-3,Assignment Flip - Job,previous value,new value,SPEC02,31-AUG-2026
-41456,41456-5,Assignment Flip - Position,previous value,new value,SPEC02,28-JUL-2026
-42974,42974-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,07-JUL-2026
-42803,42803-6,Assignment Flip - Position,previous value,new value,SPEC03,11-JUL-2026
-40924,40924-5,Assignment Flip - Job,previous value,new value,SPEC02,18-AUG-2026
-44344,44344-2,Assignment Flip - Job,previous value,new value,SPEC01,20-AUG-2026
-42004,42004-3,Assignment Flip - Position,previous value,new value,SPEC02,16-AUG-2026
-43058,43058-1,Assignment Flip - Position,previous value,new value,SPEC03,30-JUL-2026
-42456,42456-6,Assignment Flip - Job,previous value,new value,SPEC03,03-JUL-2026
-41984,41984-3,Assignment Flip - Supervisor,previous value,new value,SPEC02,14-AUG-2026
-41107,41107-1,Assignment Flip - Job,previous value,new value,SPEC01,01-AUG-2026
-42369,42369-1,Assignment Flip - Supervisor,previous value,new value,SPEC01,24-SEP-2026
-42342,42342-2,Assignment Flip - Supervisor,previous value,new value,SPEC02,03-OCT-2026
-42669,42669-1,Assignment Flip - Position,previous value,new value,SPEC03,19-JUL-2026
-42052,42052-6,Assignment Flip - Position,previous value,new value,SPEC03,01-AUG-2026
-44370,44370-2,Assignment Flip - Asg Status,previous value,new value,SPEC04,09-JUL-2026
-40920,40920-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,12-OCT-2026
-43613,43613-3,Assignment Flip - Supervisor,previous value,new value,SPEC01,17-SEP-2026
-41281,41281-6,Assignment Flip - Job,previous value,new value,SPEC03,12-JUL-2026
-41453,41453-3,Assignment Flip - Asg Status,previous value,new value,SPEC02,22-JUL-2026
-43811,43811-4,Assignment Flip - Asg Status,previous value,new value,SPEC03,13-JUL-2026
-41624,41624-5,Assignment Flip - Position,previous value,new value,SPEC03,26-SEP-2026
-42694,42694-3,Assignment Flip - Position,previous value,new value,SPEC02,05-OCT-2026
-42868,42868-3,Assignment Flip - Supervisor,previous value,new value,SPEC02,22-AUG-2026
-44492,44492-2,Assignment Flip - Asg Status,previous value,new value,SPEC01,09-SEP-2026
-40993,40993-2,Assignment Flip - Position,previous value,new value,SPEC04,23-AUG-2026
-42564,42564-5,Assignment Flip - Asg Status,previous value,new value,SPEC01,28-JUL-2026
-42106,42106-4,Assignment Flip - Supervisor,previous value,new value,SPEC04,27-JUL-2026
-44221,44221-3,Assignment Flip - Position,previous value,new value,SPEC04,24-AUG-2026
-43104,43104-3,Assignment Flip - Position,previous value,new value,SPEC03,11-OCT-2026
-41346,41346-4,Assignment Flip - Position,previous value,new value,SPEC04,02-OCT-2026
-43930,43930-6,Assignment Flip - Supervisor,previous value,new value,SPEC03,08-OCT-2026
-40516,40516-5,Assignment Flip - Job,previous value,new value,SPEC01,19-JUL-2026
-43272,43272-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,22-AUG-2026
-41188,41188-6,Assignment Flip - Job,previous value,new value,SPEC01,07-JUL-2026
-40043,40043-5,Assignment Flip - Job,previous value,new value,SPEC02,20-JUL-2026
-42523,42523-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,22-JUL-2026
-42159,42159-3,Assignment Flip - Supervisor,previous value,new value,SPEC02,17-AUG-2026
-43298,43298-6,Assignment Flip - Job,previous value,new value,SPEC02,20-SEP-2026
-40380,40380-1,Assignment Flip - Job,previous value,new value,SPEC01,09-OCT-2026
-42960,42960-2,Assignment Flip - Position,previous value,new value,SPEC01,14-SEP-2026
-40701,40701-5,Assignment Flip - Position,previous value,new value,SPEC02,19-AUG-2026
-40387,40387-3,Assignment Flip - Position,previous value,new value,SPEC04,12-OCT-2026
-41316,41316-1,Assignment Flip - Position,previous value,new value,SPEC02,29-AUG-2026
-42057,42057-1,Assignment Flip - Asg Status,previous value,new value,SPEC02,28-JUL-2026
-40532,40532-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,26-SEP-2026
-43131,43131-1,Assignment Flip - Job,previous value,new value,SPEC03,23-JUL-2026
-41798,41798-5,Assignment Flip - Asg Status,previous value,new value,SPEC02,07-JUL-2026
-44069,44069-3,Assignment Flip - Position,previous value,new value,SPEC03,29-AUG-2026
-40898,40898-3,Assignment Flip - Job,previous value,new value,SPEC04,07-OCT-2026
-41686,41686-2,Assignment Flip - Asg Status,previous value,new value,SPEC03,01-JUL-2026
-40914,40914-3,Assignment Flip - Position,previous value,new value,SPEC02,09-JUL-2026
-40990,40990-4,Assignment Flip - Supervisor,previous value,new value,SPEC01,19-JUL-2026
-40109,40109-5,Assignment Flip - Job,previous value,new value,SPEC04,27-JUL-2026
-40167,40167-6,Assignment Flip - Position,previous value,new value,SPEC02,20-SEP-2026
-40194,40194-3,Assignment Flip - Supervisor,previous value,new value,SPEC04,24-AUG-2026
-43822,43822-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,19-AUG-2026
-43754,43754-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,13-SEP-2026
-43321,43321-3,Assignment Flip - Asg Status,previous value,new value,SPEC03,04-SEP-2026
-43439,43439-5,Assignment Flip - Supervisor,previous value,new value,SPEC03,14-AUG-2026
-41575,41575-4,Assignment Flip - Position,previous value,new value,SPEC01,11-OCT-2026
-43174,43174-6,Assignment Flip - Job,previous value,new value,SPEC04,18-AUG-2026
-41560,41560-2,Assignment Flip - Asg Status,previous value,new value,SPEC01,01-OCT-2026
-42525,42525-6,Assignment Flip - Asg Status,previous value,new value,SPEC01,11-AUG-2026
-40927,40927-6,Assignment Flip - Job,previous value,new value,SPEC03,12-OCT-2026
-42228,42228-5,Assignment Flip - Asg Status,previous value,new value,SPEC02,06-OCT-2026
-42117,42117-5,Assignment Flip - Job,previous value,new value,SPEC02,31-AUG-2026
-42365,42365-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,30-SEP-2026
-42560,42560-4,Assignment Flip - Job,previous value,new value,SPEC04,20-JUL-2026
-43060,43060-3,Assignment Flip - Job,previous value,new value,SPEC04,25-AUG-2026
-40814,40814-3,Assignment Flip - Asg Status,previous value,new value,SPEC04,06-OCT-2026
-40845,40845-4,Assignment Flip - Job,previous value,new value,SPEC02,09-SEP-2026
-43181,43181-2,Assignment Flip - Job,previous value,new value,SPEC02,08-JUL-2026
-42185,42185-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,03-JUL-2026
-44411,44411-6,Assignment Flip - Payroll,10 Month Payroll,12 Month Payroll,SPEC01,02-OCT-2026
-41897,41897-3,Assignment Flip - Asg Status,previous value,new value,SPEC01,25-SEP-2026
-42466,42466-1,Assignment Flip - Supervisor,previous value,new value,SPEC01,20-AUG-2026
-42329,42329-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,01-JUL-2026
-43186,43186-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,08-SEP-2026
-41541,41541-1,Assignment Flip - Supervisor,previous value,new value,SPEC02,20-JUL-2026
-41070,41070-2,Assignment Flip - Job,previous value,new value,SPEC04,21-JUL-2026
-43343,43343-1,Assignment Flip - Job,previous value,new value,SPEC04,21-JUL-2026
-44187,44187-6,Assignment Flip - Position,previous value,new value,SPEC03,16-SEP-2026
-42943,42943-1,Assignment Flip - Supervisor,previous value,new value,SPEC03,22-AUG-2026
-42338,42338-4,Assignment Flip - Supervisor,previous value,new value,SPEC04,01-SEP-2026
-43241,43241-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,05-OCT-2026
-40821,40821-3,Assignment Flip - Supervisor,previous value,new value,SPEC03,17-AUG-2026
-40211,40211-4,Assignment Flip - Position,previous value,new value,SPEC02,25-JUL-2026
-40265,40265-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,29-AUG-2026
-41619,41619-4,Assignment Flip - Position,previous value,new value,SPEC01,25-JUL-2026
-43365,43365-4,Assignment Flip - Position,previous value,new value,SPEC02,09-AUG-2026
-40282,40282-3,Assignment Flip - Job,previous value,new value,SPEC03,21-JUL-2026
-41253,41253-4,Assignment Flip - Job,previous value,new value,SPEC01,18-SEP-2026
-43816,43816-6,Assignment Flip - Position,previous value,new value,SPEC01,06-JUL-2026
-44041,44041-1,Assignment Flip - Supervisor,previous value,new value,SPEC01,31-JUL-2026
-42732,42732-3,Assignment Flip - Position,previous value,new value,SPEC02,13-OCT-2026
-43883,43883-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,17-SEP-2026
-43387,43387-4,Assignment Flip - Position,previous value,new value,SPEC04,06-SEP-2026
-41028,41028-6,Assignment Flip - Supervisor,previous value,new value,SPEC04,30-SEP-2026
-40827,40827-2,Assignment Flip - Supervisor,previous value,new value,SPEC01,05-SEP-2026
-41217,41217-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,11-AUG-2026
-41203,41203-2,Assignment Flip - Position,previous value,new value,SPEC03,09-SEP-2026
-42510,42510-2,Assignment Flip - Asg Status,previous value,new value,SPEC04,04-JUL-2026
-40217,40217-5,Assignment Flip - Job,previous value,new value,SPEC03,23-AUG-2026
-40642,40642-4,Assignment Flip - Position,previous value,new value,SPEC03,31-JUL-2026
-40323,40323-5,Assignment Flip - Position,previous value,new value,SPEC01,18-JUL-2026
-42104,42104-6,Assignment Flip - Asg Status,previous value,new value,SPEC01,14-OCT-2026
-41601,41601-5,Assignment Flip - Position,previous value,new value,SPEC04,18-SEP-2026
-40933,40933-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,03-AUG-2026
-42708,42708-2,Assignment Flip - Job,previous value,new value,SPEC01,17-AUG-2026
-40620,40620-1,Assignment Flip - Supervisor,previous value,new value,SPEC03,25-JUL-2026
-42390,42390-2,Assignment Flip - Asg Status,previous value,new value,SPEC02,19-SEP-2026
-41730,41730-3,Assignment Flip - Position,previous value,new value,SPEC04,06-SEP-2026
-43449,43449-3,Assignment Flip - Position,previous value,new value,SPEC04,23-JUL-2026
-40747,40747-4,Assignment Flip - Asg Status,previous value,new value,SPEC03,19-SEP-2026
-40775,40775-1,Assignment Flip - Position,previous value,new value,SPEC04,14-SEP-2026
-44333,44333-6,Assignment Flip - Position,previous value,new value,SPEC03,15-JUL-2026
-41754,41754-4,Assignment Flip - Position,previous value,new value,SPEC04,18-JUL-2026
-43437,43437-5,Assignment Flip - Position,previous value,new value,SPEC01,13-JUL-2026
-41577,41577-2,Assignment Flip - Asg Status,previous value,new value,SPEC04,18-SEP-2026
-41246,41246-3,Assignment Flip - Position,previous value,new value,SPEC01,12-OCT-2026
-41110,41110-5,Assignment Flip - Position,previous value,new value,SPEC03,10-JUL-2026
-43749,43749-4,Assignment Flip - Supervisor,previous value,new value,SPEC04,19-AUG-2026
-42306,42306-3,Assignment Flip - Payroll,10 Month Payroll,12 Month Payroll,SPEC01,06-OCT-2026
-42855,42855-5,Assignment Flip - Supervisor,previous value,new value,SPEC03,30-SEP-2026
-42437,42437-4,Assignment Flip - Position,previous value,new value,SPEC01,27-JUL-2026
-40841,40841-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,10-JUL-2026
-41355,41355-5,Assignment Flip - Position,previous value,new value,SPEC03,06-SEP-2026
-44349,44349-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,21-SEP-2026
-41415,41415-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,19-SEP-2026
-42611,42611-5,Assignment Flip - Position,previous value,new value,SPEC04,03-SEP-2026
-40600,40600-5,Assignment Flip - Position,previous value,new value,SPEC03,21-JUL-2026
-43261,43261-4,Assignment Flip - Job,previous value,new value,SPEC02,08-OCT-2026
-44382,44382-5,Assignment Flip - Job,previous value,new value,SPEC03,06-SEP-2026
-41302,41302-6,Assignment Flip - Asg Status,previous value,new value,SPEC02,08-SEP-2026
-43472,43472-3,Assignment Flip - Asg Status,previous value,new value,SPEC03,03-SEP-2026
-42044,42044-1,Assignment Flip - Supervisor,previous value,new value,SPEC01,01-SEP-2026
-41763,41763-5,Assignment Flip - Asg Status,previous value,new value,SPEC02,17-JUL-2026
-40430,40430-3,Assignment Flip - Supervisor,previous value,new value,SPEC03,17-AUG-2026
-43870,43870-3,Assignment Flip - Supervisor,previous value,new value,SPEC04,03-SEP-2026
-41459,41459-6,Assignment Flip - Supervisor,previous value,new value,SPEC03,08-OCT-2026
-40656,40656-4,Assignment Flip - Job,previous value,new value,SPEC04,02-OCT-2026
-41615,41615-4,Assignment Flip - Asg Status,previous value,new value,SPEC01,16-AUG-2026
-41901,41901-5,Assignment Flip - Asg Status,previous value,new value,SPEC02,24-JUL-2026
-42746,42746-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,14-SEP-2026
-43403,43403-4,Assignment Flip - Asg Status,previous value,new value,SPEC01,24-AUG-2026
-40227,40227-1,Assignment Flip - Position,previous value,new value,SPEC01,16-SEP-2026
-40270,40270-6,Assignment Flip - Position,previous value,new value,SPEC02,07-SEP-2026
-40513,40513-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,22-SEP-2026
-43830,43830-3,Assignment Flip - Job,previous value,new value,SPEC02,05-SEP-2026
-42506,42506-6,Assignment Flip - Job,previous value,new value,SPEC04,30-JUL-2026
-41788,41788-5,Assignment Flip - Asg Status,previous value,new value,SPEC03,24-AUG-2026
-41889,41889-4,Assignment Flip - Asg Status,previous value,new value,SPEC01,21-SEP-2026
-43457,43457-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,06-SEP-2026
-41136,41136-2,Assignment Flip - Asg Status,previous value,new value,SPEC03,12-AUG-2026
-41927,41927-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,10-AUG-2026
-44322,44322-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,25-AUG-2026
-43465,43465-6,Assignment Flip - Asg Status,previous value,new value,SPEC01,14-JUL-2026
-43803,43803-4,Assignment Flip - Job,previous value,new value,SPEC02,12-SEP-2026
-40163,40163-6,Assignment Flip - Supervisor,previous value,new value,SPEC04,22-JUL-2026
-42232,42232-2,Assignment Flip - Supervisor,previous value,new value,SPEC03,05-SEP-2026
-43503,43503-6,Assignment Flip - Job,previous value,new value,SPEC01,21-SEP-2026
-40788,40788-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,21-SEP-2026
-41053,41053-6,Assignment Flip - Position,previous value,new value,SPEC02,02-OCT-2026
-40659,40659-6,Assignment Flip - Position,previous value,new value,SPEC02,11-OCT-2026
-40009,40009-1,Assignment Flip - Supervisor,previous value,new value,SPEC02,06-AUG-2026
-40983,40983-5,Assignment Flip - Asg Status,previous value,new value,SPEC01,22-AUG-2026
-41868,41868-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,26-AUG-2026
-41116,41116-3,Assignment Flip - Job,previous value,new value,SPEC04,07-AUG-2026
-42288,42288-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,04-SEP-2026
-44234,44234-4,Assignment Flip - Supervisor,previous value,new value,SPEC01,05-SEP-2026
-42549,42549-5,Assignment Flip - Job,previous value,new value,SPEC01,09-OCT-2026
-41244,41244-1,Assignment Flip - Job,previous value,new value,SPEC04,08-JUL-2026
-41275,41275-6,Assignment Flip - Supervisor,previous value,new value,SPEC04,01-JUL-2026
-42459,42459-5,Assignment Flip - Position,previous value,new value,SPEC01,05-OCT-2026
-40002,40002-1,Assignment Flip - Job,previous value,new value,SPEC02,06-JUL-2026
-40806,40806-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,24-JUL-2026
-43045,43045-1,Assignment Flip - Position,previous value,new value,SPEC04,02-JUL-2026
-42325,42325-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,17-SEP-2026
-40120,40120-3,Assignment Flip - Asg Status,previous value,new value,SPEC01,27-SEP-2026
-44400,44400-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,01-OCT-2026
-40557,40557-4,Assignment Flip - Position,previous value,new value,SPEC04,02-AUG-2026
-41537,41537-4,Assignment Flip - Asg Status,previous value,new value,SPEC01,11-OCT-2026
-43430,43430-2,Assignment Flip - Position,previous value,new value,SPEC04,19-SEP-2026
-43443,43443-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,31-AUG-2026
-42681,42681-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,01-OCT-2026
-42164,42164-1,Assignment Flip - Asg Status,previous value,new value,SPEC01,28-SEP-2026
-43081,43081-5,Assignment Flip - Position,previous value,new value,SPEC02,15-SEP-2026
-43377,43377-3,Assignment Flip - Supervisor,previous value,new value,SPEC02,29-JUL-2026
-40091,40091-6,Assignment Flip - Job,previous value,new value,SPEC04,20-JUL-2026
-40859,40859-2,Assignment Flip - Asg Status,previous value,new value,SPEC04,12-OCT-2026
-44422,44422-6,Assignment Flip - Asg Status,previous value,new value,SPEC01,18-SEP-2026
-43658,43658-1,Assignment Flip - Position,previous value,new value,SPEC01,08-OCT-2026
-40115,40115-6,Assignment Flip - Position,previous value,new value,SPEC01,27-AUG-2026
-43043,43043-5,Assignment Flip - Position,previous value,new value,SPEC01,03-AUG-2026
-40453,40453-4,Assignment Flip - Asg Status,previous value,new value,SPEC03,19-AUG-2026
-43074,43074-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,03-OCT-2026
-43213,43213-6,Assignment Flip - Job,previous value,new value,SPEC01,14-AUG-2026
-43313,43313-6,Assignment Flip - Asg Status,previous value,new value,SPEC01,30-AUG-2026
-43217,43217-6,Assignment Flip - Position,previous value,new value,SPEC04,30-JUL-2026
-41361,41361-6,Assignment Flip - Position,previous value,new value,SPEC01,06-SEP-2026
-41168,41168-2,Assignment Flip - Job,previous value,new value,SPEC02,28-AUG-2026
-42161,42161-5,Assignment Flip - Position,previous value,new value,SPEC03,01-OCT-2026
-41633,41633-5,Assignment Flip - Job,previous value,new value,SPEC01,12-JUL-2026
-40086,40086-1,Assignment Flip - Supervisor,previous value,new value,SPEC02,02-AUG-2026
-40238,40238-4,Assignment Flip - Position,previous value,new value,SPEC04,09-SEP-2026
-42865,42865-4,Assignment Flip - Asg Status,previous value,new value,SPEC04,01-AUG-2026
-40060,40060-6,Assignment Flip - Position,previous value,new value,SPEC02,20-SEP-2026
-42923,42923-2,Assignment Flip - Asg Status,previous value,new value,SPEC03,06-OCT-2026
-42624,42624-3,Assignment Flip - Position,previous value,new value,SPEC03,07-OCT-2026
-40742,40742-4,Assignment Flip - Payroll,10 Month Payroll,12 Month Payroll,SPEC01,13-SEP-2026
-44467,44467-1,Assignment Flip - Position,previous value,new value,SPEC01,06-OCT-2026
-40218,40218-4,Assignment Flip - Asg Status,previous value,new value,SPEC04,14-AUG-2026
-40687,40687-2,Assignment Flip - Asg Status,previous value,new value,SPEC03,09-OCT-2026
-41518,41518-4,Assignment Flip - Job,previous value,new value,SPEC04,08-SEP-2026
-43719,43719-3,Assignment Flip - Job,previous value,new value,SPEC02,31-JUL-2026
-43644,43644-2,Assignment Flip - Job,previous value,new value,SPEC02,28-SEP-2026
-42841,42841-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,19-AUG-2026
-43340,43340-4,Assignment Flip - Position,previous value,new value,SPEC03,05-OCT-2026
-42131,42131-4,Assignment Flip - Supervisor,previous value,new value,SPEC01,30-SEP-2026
-41482,41482-6,Assignment Flip - Asg Status,previous value,new value,SPEC03,17-AUG-2026
-43119,43119-6,Assignment Flip - Job,previous value,new value,SPEC02,02-SEP-2026
-44058,44058-6,Assignment Flip - Position,previous value,new value,SPEC02,11-SEP-2026
-41349,41349-3,Assignment Flip - Job,previous value,new value,SPEC02,19-SEP-2026
-42815,42815-3,Assignment Flip - Job,previous value,new value,SPEC01,08-SEP-2026
-42525,42525-6,Assignment Flip - Payroll,10 Month Payroll,12 Month Payroll,SPEC01,16-SEP-2026
-42480,42480-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,05-OCT-2026
-43385,43385-1,Assignment Flip - Supervisor,previous value,new value,SPEC02,26-AUG-2026
-40484,40484-3,Assignment Flip - Asg Status,previous value,new value,SPEC03,21-SEP-2026
-42143,42143-5,Assignment Flip - Supervisor,previous value,new value,SPEC04,07-AUG-2026
-42395,42395-2,Assignment Flip - Supervisor,previous value,new value,SPEC04,18-AUG-2026
-40006,40006-4,Assignment Flip - Position,previous value,new value,SPEC03,10-AUG-2026
-42983,42983-2,Assignment Flip - Job,previous value,new value,SPEC03,24-JUL-2026
-42592,42592-3,Assignment Flip - Job,previous value,new value,SPEC03,12-SEP-2026
-43171,43171-5,Assignment Flip - Job,previous value,new value,SPEC03,04-OCT-2026
-40768,40768-6,Assignment Flip - Position,previous value,new value,SPEC03,19-JUL-2026
-42975,42975-2,Assignment Flip - Supervisor,previous value,new value,SPEC01,12-SEP-2026
-41510,41510-3,Assignment Flip - Job,previous value,new value,SPEC03,04-JUL-2026
-43284,43284-5,Assignment Flip - Job,previous value,new value,SPEC03,23-AUG-2026
-43804,43804-1,Assignment Flip - Position,previous value,new value,SPEC04,16-JUL-2026
-43411,43411-2,Assignment Flip - Supervisor,previous value,new value,SPEC01,12-SEP-2026
-43624,43624-4,Assignment Flip - Asg Status,previous value,new value,SPEC01,02-JUL-2026
-43713,43713-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,11-OCT-2026
-40833,40833-2,Assignment Flip - Position,previous value,new value,SPEC02,01-AUG-2026
-40548,40548-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,13-AUG-2026
-42179,42179-5,Assignment Flip - Asg Status,previous value,new value,SPEC02,04-OCT-2026
-40226,40226-6,Assignment Flip - Asg Status,previous value,new value,SPEC01,19-JUL-2026
-44489,44489-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,26-JUL-2026
-43146,43146-6,Assignment Flip - Job,previous value,new value,SPEC01,24-SEP-2026
-41801,41801-3,Assignment Flip - Position,previous value,new value,SPEC02,30-SEP-2026
-42237,42237-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,13-AUG-2026
-43860,43860-2,Assignment Flip - Asg Status,previous value,new value,SPEC03,15-AUG-2026
-43914,43914-4,Assignment Flip - Position,previous value,new value,SPEC03,19-SEP-2026
-41261,41261-3,Assignment Flip - Position,previous value,new value,SPEC02,15-AUG-2026
-43047,43047-6,Assignment Flip - Supervisor,previous value,new value,SPEC03,13-JUL-2026
-40858,40858-4,Assignment Flip - Position,previous value,new value,SPEC02,01-SEP-2026
-41137,41137-4,Assignment Flip - Asg Status,previous value,new value,SPEC01,20-JUL-2026
-40977,40977-2,Assignment Flip - Job,previous value,new value,SPEC03,31-AUG-2026
-41463,41463-4,Assignment Flip - Supervisor,previous value,new value,SPEC01,18-JUL-2026
-43154,43154-1,Assignment Flip - Job,previous value,new value,SPEC03,02-AUG-2026
-42950,42950-5,Assignment Flip - Asg Status,previous value,new value,SPEC01,03-SEP-2026
-40376,40376-6,Assignment Flip - Position,previous value,new value,SPEC04,02-SEP-2026
-43610,43610-3,Assignment Flip - Asg Status,previous value,new value,SPEC02,01-JUL-2026
-40038,40038-2,Assignment Flip - Asg Status,previous value,new value,SPEC02,13-AUG-2026
-40001,40001-2,Assignment Flip - Job,previous value,new value,SPEC01,08-JUL-2026
-40434,40434-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,13-OCT-2026
-43609,43609-2,Assignment Flip - Asg Status,previous value,new value,SPEC04,05-OCT-2026
-42650,42650-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,11-SEP-2026
-42376,42376-2,Assignment Flip - Asg Status,previous value,new value,SPEC02,04-JUL-2026
-42080,42080-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,14-JUL-2026
-44317,44317-3,Assignment Flip - Position,previous value,new value,SPEC03,05-JUL-2026
-43091,43091-1,Assignment Flip - Position,previous value,new value,SPEC02,02-OCT-2026
-42596,42596-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,26-JUL-2026
-42455,42455-3,Assignment Flip - Position,previous value,new value,SPEC03,23-AUG-2026
-41543,41543-3,Assignment Flip - Job,previous value,new value,SPEC01,15-AUG-2026
-42451,42451-6,Assignment Flip - Payroll,10 Month Payroll,12 Month Payroll,SPEC02,04-AUG-2026
-40910,40910-6,Assignment Flip - Position,previous value,new value,SPEC02,16-AUG-2026
-41684,41684-3,Assignment Flip - Position,previous value,new value,SPEC01,15-JUL-2026
-43541,43541-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,27-JUL-2026
-42501,42501-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,20-AUG-2026
-42020,42020-6,Assignment Flip - Job,previous value,new value,SPEC02,18-JUL-2026
-40106,40106-4,Assignment Flip - Job,previous value,new value,SPEC02,22-AUG-2026
-43723,43723-6,Assignment Flip - Asg Status,previous value,new value,SPEC02,29-JUL-2026
-40446,40446-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,05-SEP-2026
-43896,43896-2,Assignment Flip - Asg Status,previous value,new value,SPEC04,22-JUL-2026
-41991,41991-6,Assignment Flip - Supervisor,previous value,new value,SPEC04,30-AUG-2026
-42720,42720-3,Assignment Flip - Job,previous value,new value,SPEC04,08-SEP-2026
-41987,41987-2,Assignment Flip - Position,previous value,new value,SPEC01,20-AUG-2026
-43222,43222-3,Assignment Flip - Supervisor,previous value,new value,SPEC01,25-AUG-2026
-43946,43946-1,Assignment Flip - Position,previous value,new value,SPEC01,26-SEP-2026
-41983,41983-6,Assignment Flip - Job,previous value,new value,SPEC03,04-SEP-2026
-43356,43356-2,Assignment Flip - Position,previous value,new value,SPEC04,13-AUG-2026
-42334,42334-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,01-JUL-2026
-43320,43320-6,Assignment Flip - Job,previous value,new value,SPEC02,28-SEP-2026
-40370,40370-3,Assignment Flip - Position,previous value,new value,SPEC04,18-AUG-2026
-40454,40454-2,Assignment Flip - Asg Status,previous value,new value,SPEC01,15-JUL-2026
-42623,42623-2,Assignment Flip - Asg Status,previous value,new value,SPEC03,25-JUL-2026
-40875,40875-1,Assignment Flip - Position,previous value,new value,SPEC02,30-AUG-2026
-42829,42829-5,Assignment Flip - Position,previous value,new value,SPEC03,14-AUG-2026
-41665,41665-2,Assignment Flip - Supervisor,previous value,new value,SPEC03,06-AUG-2026
-44313,44313-5,Assignment Flip - Asg Status,previous value,new value,SPEC03,16-JUL-2026
-41791,41791-2,Assignment Flip - Position,previous value,new value,SPEC02,03-JUL-2026
-43514,43514-6,Assignment Flip - Asg Status,previous value,new value,SPEC03,01-SEP-2026
-40626,40626-6,Assignment Flip - Position,previous value,new value,SPEC01,31-JUL-2026
-42034,42034-1,Assignment Flip - Position,previous value,new value,SPEC03,15-AUG-2026
-44418,44418-6,Assignment Flip - Asg Status,previous value,new value,SPEC02,14-OCT-2026
-41874,41874-3,Assignment Flip - Supervisor,previous value,new value,SPEC02,17-JUL-2026
-42427,42427-2,Assignment Flip - Position,previous value,new value,SPEC03,05-JUL-2026
-41333,41333-6,Assignment Flip - Position,previous value,new value,SPEC02,07-JUL-2026
-44205,44205-6,Assignment Flip - Job,previous value,new value,SPEC02,08-SEP-2026
-43549,43549-1,Assignment Flip - Job,previous value,new value,SPEC01,08-OCT-2026
-41157,41157-4,Assignment Flip - Position,previous value,new value,SPEC01,03-JUL-2026
-42792,42792-6,Assignment Flip - Job,previous value,new value,SPEC01,01-OCT-2026
-41653,41653-6,Assignment Flip - Asg Status,previous value,new value,SPEC04,10-AUG-2026
-40512,40512-3,Assignment Flip - Job,previous value,new value,SPEC04,25-SEP-2026
-40258,40258-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,26-JUL-2026
-43142,43142-6,Assignment Flip - Position,previous value,new value,SPEC02,28-AUG-2026
-42398,42398-4,Assignment Flip - Supervisor,previous value,new value,SPEC02,06-SEP-2026
-43151,43151-4,Assignment Flip - Supervisor,previous value,new value,SPEC04,14-JUL-2026
-42468,42468-1,Assignment Flip - Position,previous value,new value,SPEC02,17-JUL-2026
-42704,42704-6,Assignment Flip - Asg Status,previous value,new value,SPEC02,14-JUL-2026
-44120,44120-2,Assignment Flip - Supervisor,previous value,new value,SPEC01,27-JUL-2026
-41399,41399-2,Assignment Flip - Position,previous value,new value,SPEC01,25-SEP-2026
-43092,43092-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,31-AUG-2026
-41199,41199-5,Assignment Flip - Position,previous value,new value,SPEC02,13-JUL-2026
-44272,44272-5,Assignment Flip - Supervisor,previous value,new value,SPEC01,01-AUG-2026
-43363,43363-2,Assignment Flip - Asg Status,previous value,new value,SPEC02,18-JUL-2026
-41566,41566-4,Assignment Flip - Job,previous value,new value,SPEC01,10-AUG-2026
-43414,43414-2,Assignment Flip - Job,previous value,new value,SPEC02,07-SEP-2026
-42038,42038-2,Assignment Flip - Position,previous value,new value,SPEC01,22-AUG-2026
-42763,42763-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,09-JUL-2026
-43413,43413-6,Assignment Flip - Asg Status,previous value,new value,SPEC03,18-AUG-2026
-43390,43390-1,Assignment Flip - Payroll,10 Month Payroll,12 Month Payroll,SPEC01,09-OCT-2026
-43107,43107-4,Assignment Flip - Job,previous value,new value,SPEC02,08-JUL-2026
-40554,40554-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,29-SEP-2026
-43638,43638-6,Assignment Flip - Job,previous value,new value,SPEC01,03-OCT-2026
-44166,44166-1,Assignment Flip - Position,previous value,new value,SPEC02,20-AUG-2026
-40777,40777-5,Assignment Flip - Position,previous value,new value,SPEC02,28-AUG-2026
-40903,40903-5,Assignment Flip - Supervisor,previous value,new value,SPEC04,05-SEP-2026
-42796,42796-4,Assignment Flip - Job,previous value,new value,SPEC02,31-JUL-2026
-43684,43684-5,Assignment Flip - Asg Status,previous value,new value,SPEC01,12-OCT-2026
-40690,40690-5,Assignment Flip - Job,previous value,new value,SPEC03,16-JUL-2026
-43236,43236-3,Assignment Flip - Position,previous value,new value,SPEC02,22-AUG-2026
-42202,42202-4,Assignment Flip - Job,previous value,new value,SPEC04,22-JUL-2026
-41757,41757-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,05-AUG-2026
-42774,42774-2,Assignment Flip - Asg Status,previous value,new value,SPEC04,19-AUG-2026
-42646,42646-6,Assignment Flip - Job,previous value,new value,SPEC03,19-AUG-2026
-43984,43984-3,Assignment Flip - Asg Status,previous value,new value,SPEC04,13-AUG-2026
-43997,43997-3,Assignment Flip - Supervisor,previous value,new value,SPEC03,24-SEP-2026
-42576,42576-5,Assignment Flip - Job,previous value,new value,SPEC03,29-JUL-2026
-40863,40863-1,Assignment Flip - Supervisor,previous value,new value,SPEC03,13-AUG-2026
-40906,40906-3,Assignment Flip - Payroll,10 Month Payroll,12 Month Payroll,SPEC04,14-AUG-2026
-40929,40929-2,Assignment Flip - Asg Status,previous value,new value,SPEC01,22-JUL-2026
-41086,41086-3,Assignment Flip - Job,previous value,new value,SPEC02,13-JUL-2026
-40528,40528-4,Assignment Flip - Supervisor,previous value,new value,SPEC02,13-SEP-2026
-40311,40311-2,Assignment Flip - Job,previous value,new value,SPEC03,11-JUL-2026
-41687,41687-2,Assignment Flip - Position,previous value,new value,SPEC01,19-AUG-2026
-41944,41944-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,03-AUG-2026
-44074,44074-2,Assignment Flip - Position,previous value,new value,SPEC02,30-SEP-2026
-40895,40895-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,12-OCT-2026
-42088,42088-6,Assignment Flip - Asg Status,previous value,new value,SPEC02,27-JUL-2026
-44521,44521-6,Assignment Flip - Supervisor,previous value,new value,SPEC02,08-OCT-2026
-43568,43568-2,Assignment Flip - Asg Status,previous value,new value,SPEC02,04-OCT-2026
-42516,42516-5,Assignment Flip - Position,previous value,new value,SPEC02,01-JUL-2026
-43854,43854-2,Assignment Flip - Job,previous value,new value,SPEC01,10-SEP-2026
-42125,42125-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,26-JUL-2026
-43902,43902-5,Assignment Flip - Supervisor,previous value,new value,SPEC03,12-AUG-2026
-41123,41123-3,Assignment Flip - Job,previous value,new value,SPEC02,23-SEP-2026
-43070,43070-4,Assignment Flip - Job,previous value,new value,SPEC01,13-AUG-2026
-40922,40922-5,Assignment Flip - Asg Status,previous value,new value,SPEC02,15-AUG-2026
-43726,43726-3,Assignment Flip - Job,previous value,new value,SPEC01,04-AUG-2026
-41228,41228-4,Assignment Flip - Asg Status,previous value,new value,SPEC03,18-AUG-2026
-44179,44179-6,Assignment Flip - Job,previous value,new value,SPEC03,24-JUL-2026
-41647,41647-3,Assignment Flip - Position,previous value,new value,SPEC04,01-OCT-2026
-40207,40207-5,Assignment Flip - Position,previous value,new value,SPEC03,17-SEP-2026
-40942,40942-1,Assignment Flip - Position,previous value,new value,SPEC02,30-AUG-2026
-42361,42361-4,Assignment Flip - Job,previous value,new value,SPEC02,27-AUG-2026
-42170,42170-4,Assignment Flip - Job,previous value,new value,SPEC03,06-OCT-2026
-42684,42684-4,Assignment Flip - Position,previous value,new value,SPEC02,28-SEP-2026
-41592,41592-2,Assignment Flip - Asg Status,previous value,new value,SPEC04,29-JUL-2026
-40087,40087-4,Assignment Flip - Job,previous value,new value,SPEC01,07-JUL-2026
-42014,42014-6,Assignment Flip - Supervisor,previous value,new value,SPEC04,08-OCT-2026
-44416,44416-2,Assignment Flip - Position,previous value,new value,SPEC03,27-JUL-2026
-40736,40736-4,Assignment Flip - Position,previous value,new value,SPEC04,14-OCT-2026
-41076,41076-2,Assignment Flip - Position,previous value,new value,SPEC02,13-SEP-2026
-41358,41358-5,Assignment Flip - Supervisor,previous value,new value,SPEC03,18-AUG-2026
-43786,43786-2,Assignment Flip - Supervisor,previous value,new value,SPEC02,28-JUL-2026
-40885,40885-6,Assignment Flip - Job,previous value,new value,SPEC03,22-AUG-2026
-42302,42302-3,Assignment Flip - Position,previous value,new value,SPEC03,23-JUL-2026
-42263,42263-2,Assignment Flip - Position,previous value,new value,SPEC02,04-OCT-2026
-42667,42667-3,Assignment Flip - Position,previous value,new value,SPEC04,21-SEP-2026
-44440,44440-4,Assignment Flip - Supervisor,previous value,new value,SPEC02,11-AUG-2026
-41330,41330-4,Assignment Flip - Supervisor,previous value,new value,SPEC01,21-AUG-2026
-41314,41314-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,21-AUG-2026
-42591,42591-2,Assignment Flip - Position,previous value,new value,SPEC03,07-OCT-2026
-44141,44141-3,Assignment Flip - Job,previous value,new value,SPEC03,28-SEP-2026
-44397,44397-4,Assignment Flip - Supervisor,previous value,new value,SPEC03,10-SEP-2026
-41296,41296-1,Assignment Flip - Supervisor,previous value,new value,SPEC02,22-SEP-2026
-42414,42414-2,Assignment Flip - Position,previous value,new value,SPEC01,02-AUG-2026
-43687,43687-5,Assignment Flip - Job,previous value,new value,SPEC02,13-JUL-2026
-40276,40276-3,Assignment Flip - Position,previous value,new value,SPEC01,04-OCT-2026
-43785,43785-1,Assignment Flip - Position,previous value,new value,SPEC04,31-AUG-2026
-42503,42503-3,Assignment Flip - Supervisor,previous value,new value,SPEC04,09-OCT-2026
-40201,40201-2,Assignment Flip - Supervisor,previous value,new value,SPEC01,16-AUG-2026
-40103,40103-3,Assignment Flip - Supervisor,previous value,new value,SPEC04,12-AUG-2026
-43950,43950-2,Assignment Flip - Asg Status,previous value,new value,SPEC01,29-AUG-2026
-43724,43724-1,Assignment Flip - Asg Status,previous value,new value,SPEC03,26-SEP-2026
-42331,42331-1,Assignment Flip - Job,previous value,new value,SPEC04,22-JUL-2026
-41589,41589-3,Assignment Flip - Supervisor,previous value,new value,SPEC04,10-JUL-2026
-41369,41369-3,Assignment Flip - Job,previous value,new value,SPEC01,11-OCT-2026
-44284,44284-1,Assignment Flip - Supervisor,previous value,new value,SPEC03,20-AUG-2026
-41054,41054-3,Assignment Flip - Asg Status,previous value,new value,SPEC01,12-JUL-2026
-40798,40798-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,08-OCT-2026
-42183,42183-4,Assignment Flip - Position,previous value,new value,SPEC01,11-AUG-2026
-41502,41502-5,Assignment Flip - Position,previous value,new value,SPEC04,24-SEP-2026
-43561,43561-6,Assignment Flip - Position,previous value,new value,SPEC04,17-AUG-2026
-40262,40262-3,Assignment Flip - Job,previous value,new value,SPEC03,06-JUL-2026
-44443,44443-4,Assignment Flip - Position,previous value,new value,SPEC02,08-JUL-2026
-43559,43559-4,Assignment Flip - Job,previous value,new value,SPEC04,09-OCT-2026
-41067,41067-4,Assignment Flip - Supervisor,previous value,new value,SPEC01,19-SEP-2026
-42635,42635-4,Assignment Flip - Job,previous value,new value,SPEC04,14-JUL-2026
-42322,42322-6,Assignment Flip - Job,previous value,new value,SPEC02,05-SEP-2026
-40883,40883-1,Assignment Flip - Job,previous value,new value,SPEC04,10-OCT-2026
-40558,40558-4,Assignment Flip - Job,previous value,new value,SPEC03,08-SEP-2026
-42005,42005-3,Assignment Flip - Position,previous value,new value,SPEC04,20-JUL-2026
-41961,41961-1,Assignment Flip - Job,previous value,new value,SPEC03,16-SEP-2026
-44005,44005-5,Assignment Flip - Asg Status,previous value,new value,SPEC01,02-SEP-2026
-44502,44502-4,Assignment Flip - Supervisor,previous value,new value,SPEC04,21-AUG-2026
-43965,43965-1,Assignment Flip - Asg Status,previous value,new value,SPEC01,12-AUG-2026
-40050,40050-5,Assignment Flip - Position,previous value,new value,SPEC01,20-JUL-2026
-42416,42416-1,Assignment Flip - Asg Status,previous value,new value,SPEC02,18-JUL-2026
-42722,42722-6,Assignment Flip - Job,previous value,new value,SPEC03,23-JUL-2026
-43464,43464-5,Assignment Flip - Position,previous value,new value,SPEC02,28-JUL-2026
-42756,42756-3,Assignment Flip - Supervisor,previous value,new value,SPEC03,15-AUG-2026
-40785,40785-3,Assignment Flip - Asg Status,previous value,new value,SPEC01,03-OCT-2026
-40695,40695-5,Assignment Flip - Supervisor,previous value,new value,SPEC02,16-SEP-2026
-41950,41950-6,Assignment Flip - Job,previous value,new value,SPEC04,23-JUL-2026
-40753,40753-2,Assignment Flip - Supervisor,previous value,new value,SPEC02,21-AUG-2026
-40458,40458-3,Assignment Flip - Asg Status,previous value,new value,SPEC03,04-SEP-2026
-42966,42966-1,Assignment Flip - Job,previous value,new value,SPEC02,25-AUG-2026
-42488,42488-6,Assignment Flip - Asg Status,previous value,new value,SPEC03,30-AUG-2026
-41699,41699-4,Assignment Flip - Job,previous value,new value,SPEC03,23-AUG-2026
-43589,43589-2,Assignment Flip - Position,previous value,new value,SPEC01,30-AUG-2026
-42347,42347-4,Assignment Flip - Position,previous value,new value,SPEC01,03-SEP-2026
-44078,44078-6,Assignment Flip - Position,previous value,new value,SPEC01,19-SEP-2026
-43165,43165-5,Assignment Flip - Position,previous value,new value,SPEC04,12-JUL-2026
-42919,42919-1,Assignment Flip - Position,previous value,new value,SPEC01,08-JUL-2026
-44243,44243-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,05-OCT-2026
-44080,44080-3,Assignment Flip - Position,previous value,new value,SPEC03,11-AUG-2026
-41999,41999-2,Assignment Flip - Position,previous value,new value,SPEC03,31-JUL-2026
-41773,41773-4,Assignment Flip - Asg Status,previous value,new value,SPEC02,14-OCT-2026
-41285,41285-5,Assignment Flip - Asg Status,previous value,new value,SPEC04,19-AUG-2026
-40850,40850-1,Assignment Flip - Supervisor,previous value,new value,SPEC04,09-AUG-2026
-44087,44087-6,Assignment Flip - Supervisor,previous value,new value,SPEC01,24-AUG-2026
-42067,42067-6,Assignment Flip - Supervisor,previous value,new value,SPEC04,25-JUL-2026
+906646,C906646,Change Assignment - Position,previous value,new value,SPEC01,06-FEB-2026
+65668,E65668,Change Assignment - Position,previous value,new value,SPEC02,20-MAY-2026
+76915,E76915,Change Assignment - Job,previous value,new value,SPEC02,07-MAR-2026
+41888,E41888,Change Assignment - Job,previous value,new value,SPEC03,19-JUN-2026
+54780,E54780,Change Assignment - Job,previous value,new value,SPEC03,29-JUL-2026
+58825,E58825,Change Assignment - Job,previous value,new value,SPEC01,12-FEB-2026
+61005,E61005,Change Assignment - Manager,previous value,new value,SPEC01,20-JUN-2026
+68412,E68412,Change Assignment - Job,previous value,new value,SPEC04,16-JUL-2026
+66617,E66617,Change Assignment - Position,previous value,new value,SPEC03,14-APR-2026
+83301,E83301,Change Assignment - Position,previous value,new value,SPEC02,05-MAR-2026
+48365,E48365,Change Assignment - Position,previous value,new value,SPEC02,16-MAY-2026
+44009,E44009,Change Assignment - Job,previous value,new value,SPEC04,07-MAY-2026
+82855,E82855,Change Assignment - Position,previous value,new value,SPEC03,01-MAY-2026
+83059,E83059,Change Assignment - Status,previous value,new value,SPEC01,16-MAR-2026
+53632,E53632,Change Assignment - Position,previous value,new value,SPEC01,04-MAY-2026
+63704,E63704,Change Assignment - Position,previous value,new value,SPEC01,18-JUL-2026
+77101,E77101,Change Assignment - Manager,previous value,new value,SPEC02,28-JUL-2026
+65603,E65603,Change Assignment - Status,previous value,new value,SPEC02,26-JUL-2026
+54953,E54953,Change Assignment - Job,previous value,new value,SPEC02,20-JUL-2026
+45915,E45915,Change Assignment - Manager,previous value,new value,SPEC04,21-MAR-2026
+906307,C906307,Change Assignment - Manager,previous value,new value,SPEC03,18-JUL-2026
+64472,E64472,Change Assignment - Position,previous value,new value,SPEC04,13-MAY-2026
+78209,E78209,Change Assignment - Position,previous value,new value,SPEC04,23-JUL-2026
+72645,E72645,Change Assignment - Manager,previous value,new value,SPEC01,22-FEB-2026
+44958,E44958,Change Assignment - Status,previous value,new value,SPEC02,18-JUN-2026
+79355,E79355,Change Assignment - Position,previous value,new value,SPEC04,18-FEB-2026
+67791,E67791,Change Assignment - Position,previous value,new value,SPEC02,14-JUN-2026
+80197,E80197,Change Assignment - Position,previous value,new value,SPEC03,01-JUL-2026
+83151,E83151,Change Assignment - Position,previous value,new value,SPEC01,08-MAY-2026
+56585,E56585,Change Assignment - Status,previous value,new value,SPEC02,23-MAR-2026
+71864,E71864,Change Assignment - Status,previous value,new value,SPEC01,18-JUL-2026
+82739,E82739,Change Assignment - Position,previous value,new value,SPEC04,19-MAR-2026
+81598,E81598,Change Assignment - Status,previous value,new value,SPEC04,25-APR-2026
+54676,E54676,Change Assignment - Manager,previous value,new value,SPEC02,24-MAY-2026
+67768,E67768,Change Assignment - Job,previous value,new value,SPEC03,22-MAR-2026
+65834,E65834,Change Assignment - Status,previous value,new value,SPEC02,11-MAY-2026
+76753,E76753,Change Assignment - Job,previous value,new value,SPEC03,24-JUN-2026
+66068,E66068,Change Assignment - Manager,previous value,new value,SPEC04,11-MAY-2026
+69103,E69103,Change Assignment - Manager,previous value,new value,SPEC02,23-JUL-2026
+907189,C907189,Change Assignment - Manager,previous value,new value,SPEC04,22-MAY-2026
+40745,E40745,Change Assignment - Manager,previous value,new value,SPEC02,25-APR-2026
+81556,E81556,Change Assignment - Position,previous value,new value,SPEC02,18-APR-2026
+63165,E63165,Change Assignment - Job,previous value,new value,SPEC04,17-FEB-2026
+55104,E55104,Change Assignment - Job,previous value,new value,SPEC02,20-FEB-2026
+51648,E51648,Change Assignment - Manager,previous value,new value,SPEC02,21-JUN-2026
+42455,E42455,Change Assignment - Job,previous value,new value,SPEC01,04-JUN-2026
+52072,E52072,Change Assignment - Position,previous value,new value,SPEC02,12-JUL-2026
+54687,E54687,Change Assignment - Position,previous value,new value,SPEC04,13-MAY-2026
+62673,E62673,Change Assignment - Status,previous value,new value,SPEC02,28-APR-2026
+51718,E51718,Change Assignment - Job,previous value,new value,SPEC04,28-FEB-2026
+71853,E71853,Change Assignment - Position,previous value,new value,SPEC01,23-JUN-2026
+41755,E41755,Change Assignment - Job,previous value,new value,SPEC03,17-MAY-2026
+43624,E43624,Change Assignment - Manager,previous value,new value,SPEC03,09-JUL-2026
+80359,E80359,Change Assignment - Status,previous value,new value,SPEC02,04-JUL-2026
+66972,E66972,Change Assignment - Job,previous value,new value,SPEC01,20-JUL-2026
+43658,E43658,Change Assignment - Status,previous value,new value,SPEC03,08-MAR-2026
+906468,C906468,Change Assignment - Manager,previous value,new value,SPEC04,22-MAR-2026
+62203,E62203,Change Assignment - Manager,previous value,new value,SPEC01,24-FEB-2026
+65706,E65706,Change Assignment - Position,previous value,new value,SPEC03,02-JUN-2026
+82582,E82582,Change Assignment - Status,previous value,new value,SPEC02,08-JUN-2026
+79680,E79680,Change Assignment - Manager,previous value,new value,SPEC03,08-JUL-2026
+68028,E68028,Change Assignment - Manager,previous value,new value,SPEC03,03-MAY-2026
+50645,E50645,Change Assignment - Manager,previous value,new value,SPEC03,09-MAY-2026
+74384,E74384,Change Assignment - Manager,previous value,new value,SPEC02,13-JUL-2026
+44925,E44925,Change Assignment - Position,previous value,new value,SPEC02,29-JUN-2026
+57382,E57382,Change Assignment - Position,previous value,new value,SPEC02,02-FEB-2026
+43600,E43600,Change Assignment - Position,previous value,new value,SPEC01,13-MAY-2026
+45738,E45738,Change Assignment - Manager,previous value,new value,SPEC01,15-FEB-2026
+49208,E49208,Change Assignment - Status,previous value,new value,SPEC01,14-APR-2026
+58167,E58167,Change Assignment - Job,previous value,new value,SPEC02,17-FEB-2026
+56693,E56693,Change Assignment - Job,previous value,new value,SPEC03,24-JUL-2026
+49758,E49758,Change Assignment - Manager,previous value,new value,SPEC03,09-APR-2026
+906173,C906173,Change Assignment - Job,previous value,new value,SPEC01,17-MAY-2026
+68580,E68580,Change Assignment - Position,previous value,new value,SPEC04,18-MAY-2026
+41827,E41827,Change Assignment - Status,previous value,new value,SPEC03,08-FEB-2026
+74004,E74004,Change Assignment - Status,previous value,new value,SPEC01,11-APR-2026
+906436,C906436,Change Assignment - Manager,previous value,new value,SPEC04,30-MAY-2026
+906730,C906730,Change Assignment - Position,previous value,new value,SPEC02,28-FEB-2026
+79486,E79486,Change Assignment - Manager,previous value,new value,SPEC03,27-FEB-2026
+65301,E65301,Change Assignment - Job,previous value,new value,SPEC02,23-APR-2026
+80877,E80877,Change Assignment - Job,previous value,new value,SPEC04,15-JUL-2026
+70971,E70971,Change Assignment - Job,previous value,new value,SPEC02,12-FEB-2026
+69548,E69548,Change Assignment - Job,previous value,new value,SPEC02,29-APR-2026
+59302,E59302,Change Assignment - Manager,previous value,new value,SPEC01,16-MAY-2026
+53232,E53232,Change Assignment - Status,previous value,new value,SPEC02,22-APR-2026
+42337,E42337,Change Assignment - Job,previous value,new value,SPEC04,21-JUN-2026
+61652,E61652,Change Assignment - Status,previous value,new value,SPEC01,03-APR-2026
+58687,E58687,Change Assignment - Job,previous value,new value,SPEC04,03-MAY-2026
+82717,E82717,Change Assignment - Position,previous value,new value,SPEC02,14-MAR-2026
+906434,C906434,Change Assignment - Status,previous value,new value,SPEC04,27-MAY-2026
+76820,E76820,Change Assignment - Job,previous value,new value,SPEC02,10-MAY-2026
+68638,E68638,Change Assignment - Position,previous value,new value,SPEC02,18-MAR-2026
+55375,E55375,Change Assignment - Job,previous value,new value,SPEC02,07-MAR-2026
+43201,E43201,Change Assignment - Status,previous value,new value,SPEC02,18-JUN-2026
+57535,E57535,Change Assignment - Manager,previous value,new value,SPEC02,10-FEB-2026
+75008,E75008,Change Assignment - Position,previous value,new value,SPEC04,26-MAY-2026
+61382,E61382,Change Assignment - Status,previous value,new value,SPEC02,06-MAR-2026
+78615,E78615,Change Assignment - Job,previous value,new value,SPEC03,05-JUL-2026
+70678,E70678,Change Assignment - Position,previous value,new value,SPEC04,07-FEB-2026
+55158,E55158,Change Assignment - Position,previous value,new value,SPEC03,04-JUN-2026
+82345,E82345,Change Assignment - Status,previous value,new value,SPEC04,11-JUN-2026
+63599,E63599,Change Assignment - Position,previous value,new value,SPEC01,06-JUN-2026
+907221,C907221,Change Assignment - Position,previous value,new value,SPEC03,26-JUN-2026
+66964,E66964,Change Assignment - Status,previous value,new value,SPEC04,23-FEB-2026
+64104,E64104,Change Assignment - Position,previous value,new value,SPEC03,03-APR-2026
+52685,E52685,Change Assignment - Status,previous value,new value,SPEC04,02-MAR-2026
+73773,E73773,Change Assignment - Position,previous value,new value,SPEC01,22-JUL-2026
+74666,E74666,Change Assignment - Position,previous value,new value,SPEC01,07-JUN-2026
+41260,E41260,Change Assignment - Job,previous value,new value,SPEC03,04-JUL-2026
+78377,E78377,Change Assignment - Status,previous value,new value,SPEC03,14-JUN-2026
+46604,E46604,Change Assignment - Position,previous value,new value,SPEC02,23-MAY-2026
+79531,E79531,Change Assignment - Manager,previous value,new value,SPEC01,17-APR-2026
+81341,E81341,Change Assignment - Position,previous value,new value,SPEC04,27-FEB-2026
+75017,E75017,Change Assignment - Position,previous value,new value,SPEC04,22-JUN-2026
+42547,E42547,Change Assignment - Job,previous value,new value,SPEC03,16-APR-2026
+61616,E61616,Change Assignment - Status,previous value,new value,SPEC03,09-APR-2026
+61418,E61418,Change Assignment - Position,previous value,new value,SPEC02,26-JUN-2026
+41702,E41702,Change Assignment - Job,previous value,new value,SPEC02,07-JUN-2026
+49236,E49236,Change Assignment - Job,previous value,new value,SPEC01,10-FEB-2026
+60989,E60989,Change Assignment - Status,previous value,new value,SPEC02,05-MAY-2026
+56406,E56406,Change Assignment - Manager,previous value,new value,SPEC01,16-APR-2026
+74830,E74830,Change Assignment - Status,previous value,new value,SPEC02,12-JUN-2026
+65549,E65549,Change Assignment - Manager,previous value,new value,SPEC03,07-JUL-2026
+45609,E45609,Change Assignment - Status,previous value,new value,SPEC01,10-JUL-2026
+54400,E54400,Change Assignment - Manager,previous value,new value,SPEC01,09-APR-2026
+82527,E82527,Change Assignment - Job,previous value,new value,SPEC03,03-FEB-2026
+52034,E52034,Change Assignment - Manager,previous value,new value,SPEC02,01-MAR-2026
+69945,E69945,Change Assignment - Job,previous value,new value,SPEC04,18-APR-2026
+47277,E47277,Change Assignment - Status,previous value,new value,SPEC03,12-APR-2026
+45844,E45844,Change Assignment - Position,previous value,new value,SPEC04,17-JUL-2026
+66549,E66549,Change Assignment - Manager,previous value,new value,SPEC02,13-MAR-2026
+80602,E80602,Change Assignment - Manager,previous value,new value,SPEC01,19-JUN-2026
+45273,E45273,Change Assignment - Manager,previous value,new value,SPEC01,21-FEB-2026
+43439,E43439,Change Assignment - Status,previous value,new value,SPEC04,12-FEB-2026
+51235,E51235,Change Assignment - Job,previous value,new value,SPEC02,15-APR-2026
+44794,E44794,Change Assignment - Position,previous value,new value,SPEC02,29-JUN-2026
+54610,E54610,Change Assignment - Status,previous value,new value,SPEC03,10-MAR-2026
+51537,E51537,Change Assignment - Manager,previous value,new value,SPEC01,07-FEB-2026
+47147,E47147,Change Assignment - Job,previous value,new value,SPEC04,24-FEB-2026
+45052,E45052,Change Assignment - Manager,previous value,new value,SPEC04,24-FEB-2026
+44481,E44481,Change Assignment - Manager,previous value,new value,SPEC04,11-APR-2026
+60601,E60601,Change Assignment - Job,previous value,new value,SPEC03,22-JUL-2026
+45302,E45302,Change Assignment - Job,previous value,new value,SPEC03,10-FEB-2026
+57972,E57972,Change Assignment - Job,previous value,new value,SPEC04,16-MAY-2026
+67159,E67159,Change Assignment - Job,previous value,new value,SPEC02,23-JUL-2026
+82110,E82110,Change Assignment - Job,previous value,new value,SPEC03,08-FEB-2026
+71674,E71674,Change Assignment - Manager,previous value,new value,SPEC04,11-JUL-2026
+63124,E63124,Change Assignment - Job,previous value,new value,SPEC03,19-MAR-2026
+77795,E77795,Change Assignment - Job,previous value,new value,SPEC03,02-APR-2026
+42817,E42817,Change Assignment - Job,previous value,new value,SPEC01,13-FEB-2026
+47286,E47286,Change Assignment - Job,previous value,new value,SPEC04,18-MAR-2026
+77757,E77757,Change Assignment - Job,previous value,new value,SPEC03,09-MAY-2026
+72990,E72990,Change Assignment - Manager,previous value,new value,SPEC03,08-FEB-2026
+46002,E46002,Change Assignment - Payroll,10 Month Payroll,12 Month Payroll,SPEC02,30-MAY-2026
+41580,E41580,Change Assignment - Job,previous value,new value,SPEC02,22-MAY-2026
+81005,E81005,Change Assignment - Manager,previous value,new value,SPEC03,09-JUN-2026
+61294,E61294,Change Assignment - Status,previous value,new value,SPEC01,11-JUL-2026
+52580,E52580,Change Assignment - Status,previous value,new value,SPEC02,06-JUN-2026
+63516,E63516,Change Assignment - Position,previous value,new value,SPEC02,27-JUL-2026
+73708,E73708,Change Assignment - Manager,previous value,new value,SPEC02,22-APR-2026
+51564,E51564,Change Assignment - Manager,previous value,new value,SPEC04,14-MAR-2026
+66359,E66359,Change Assignment - Position,previous value,new value,SPEC03,28-APR-2026
+74955,E74955,Change Assignment - Position,previous value,new value,SPEC02,17-JUN-2026
+52800,E52800,Change Assignment - Status,previous value,new value,SPEC02,29-MAY-2026
+63923,E63923,Change Assignment - Job,previous value,new value,SPEC01,27-MAY-2026
+58441,E58441,Change Assignment - Manager,previous value,new value,SPEC01,04-MAR-2026
+68121,E68121,Change Assignment - Status,previous value,new value,SPEC04,03-MAR-2026
+67250,E67250,Change Assignment - Job,previous value,new value,SPEC02,25-JUL-2026
+55713,E55713,Change Assignment - Position,previous value,new value,SPEC01,11-JUL-2026
+907254,C907254,Change Assignment - Job,previous value,new value,SPEC03,26-JUN-2026
+63586,E63586,Change Assignment - Manager,previous value,new value,SPEC03,13-APR-2026
+42565,E42565,Change Assignment - Position,previous value,new value,SPEC03,09-MAY-2026
+51547,E51547,Change Assignment - Manager,previous value,new value,SPEC04,01-JUL-2026
+41753,E41753,Change Assignment - Job,previous value,new value,SPEC01,07-JUL-2026
+78150,E78150,Change Assignment - Manager,previous value,new value,SPEC03,12-FEB-2026
+80243,E80243,Change Assignment - Job,previous value,new value,SPEC01,05-JUL-2026
+70186,E70186,Change Assignment - Job,previous value,new value,SPEC04,22-APR-2026
+63936,E63936,Change Assignment - Position,previous value,new value,SPEC01,05-MAY-2026
+67810,E67810,Change Assignment - Status,previous value,new value,SPEC04,15-JUL-2026
+57525,E57525,Change Assignment - Status,previous value,new value,SPEC04,18-APR-2026
+43163,E43163,Change Assignment - Job,previous value,new value,SPEC03,13-MAR-2026
+64823,E64823,Change Assignment - Manager,previous value,new value,SPEC01,16-JUN-2026
+48335,E48335,Change Assignment - Job,previous value,new value,SPEC04,30-JUN-2026
+49635,E49635,Change Assignment - Manager,previous value,new value,SPEC01,19-JUL-2026
+81253,E81253,Change Assignment - Manager,previous value,new value,SPEC02,11-MAR-2026
+48710,E48710,Change Assignment - Position,previous value,new value,SPEC01,23-MAR-2026
+71100,E71100,Change Assignment - Status,previous value,new value,SPEC04,08-FEB-2026
+76840,E76840,Change Assignment - Job,previous value,new value,SPEC04,26-MAR-2026
+70236,E70236,Change Assignment - Payroll,10 Month Payroll,12 Month Payroll,SPEC02,04-APR-2026
+62774,E62774,Change Assignment - Manager,previous value,new value,SPEC01,19-MAR-2026
+906201,C906201,Change Assignment - Manager,previous value,new value,SPEC03,25-FEB-2026
+48707,E48707,Change Assignment - Manager,previous value,new value,SPEC02,30-JUL-2026
+57480,E57480,Change Assignment - Job,previous value,new value,SPEC04,13-APR-2026
+52366,E52366,Change Assignment - Position,previous value,new value,SPEC03,12-JUN-2026
+41409,E41409,Change Assignment - Status,previous value,new value,SPEC03,02-FEB-2026
+82776,E82776,Change Assignment - Status,previous value,new value,SPEC03,08-JUL-2026
+79345,E79345,Change Assignment - Position,previous value,new value,SPEC02,06-MAR-2026
+66347,E66347,Change Assignment - Position,previous value,new value,SPEC04,13-JUN-2026
+67603,E67603,Change Assignment - Job,previous value,new value,SPEC02,17-MAY-2026
+61396,E61396,Change Assignment - Job,previous value,new value,SPEC03,23-FEB-2026
+77720,E77720,Change Assignment - Position,previous value,new value,SPEC04,23-APR-2026
+54351,E54351,Change Assignment - Position,previous value,new value,SPEC04,16-JUL-2026
+46862,E46862,Change Assignment - Manager,previous value,new value,SPEC01,22-JUL-2026
+51317,E51317,Change Assignment - Manager,previous value,new value,SPEC02,15-MAY-2026
+67630,E67630,Change Assignment - Manager,previous value,new value,SPEC03,22-MAY-2026
+44792,E44792,Change Assignment - Position,previous value,new value,SPEC01,25-MAR-2026
+78633,E78633,Change Assignment - Position,previous value,new value,SPEC01,11-MAR-2026
+61424,E61424,Change Assignment - Job,previous value,new value,SPEC03,12-MAR-2026
+60958,E60958,Change Assignment - Manager,previous value,new value,SPEC04,19-MAY-2026
+49877,E49877,Change Assignment - Status,previous value,new value,SPEC04,16-JUL-2026
+50491,E50491,Change Assignment - Status,previous value,new value,SPEC02,02-JUN-2026
+80732,E80732,Change Assignment - Status,previous value,new value,SPEC01,03-MAY-2026
+57521,E57521,Change Assignment - Position,previous value,new value,SPEC01,03-FEB-2026
+73998,E73998,Change Assignment - Job,previous value,new value,SPEC04,08-JUL-2026
+906179,C906179,Change Assignment - Job,previous value,new value,SPEC03,01-JUN-2026
+56995,E56995,Change Assignment - Manager,previous value,new value,SPEC03,06-APR-2026
+81491,E81491,Change Assignment - Manager,previous value,new value,SPEC03,03-FEB-2026
+73071,E73071,Change Assignment - Position,previous value,new value,SPEC03,03-APR-2026
+42263,E42263,Change Assignment - Job,previous value,new value,SPEC02,24-MAR-2026
+69611,E69611,Change Assignment - Status,previous value,new value,SPEC02,28-APR-2026
+61110,E61110,Change Assignment - Job,previous value,new value,SPEC04,29-JUN-2026
+68005,E68005,Change Assignment - Manager,previous value,new value,SPEC02,02-MAR-2026
+77635,E77635,Change Assignment - Status,previous value,new value,SPEC02,05-APR-2026
+72384,E72384,Change Assignment - Position,previous value,new value,SPEC04,03-JUN-2026
+66447,E66447,Change Assignment - Manager,previous value,new value,SPEC04,06-JUL-2026
+40730,E40730,Change Assignment - Status,previous value,new value,SPEC03,10-MAR-2026
+70815,E70815,Change Assignment - Position,previous value,new value,SPEC02,08-APR-2026
+70313,E70313,Change Assignment - Status,previous value,new value,SPEC01,17-MAR-2026
+74425,E74425,Change Assignment - Position,previous value,new value,SPEC01,19-JUN-2026
+73313,E73313,Change Assignment - Status,previous value,new value,SPEC03,28-APR-2026
+52024,E52024,Change Assignment - Status,previous value,new value,SPEC03,11-MAR-2026
+49507,E49507,Change Assignment - Position,previous value,new value,SPEC01,05-MAY-2026
+48274,E48274,Change Assignment - Payroll,10 Month Payroll,12 Month Payroll,SPEC01,05-APR-2026
+75946,E75946,Change Assignment - Status,previous value,new value,SPEC01,26-APR-2026
+44885,E44885,Change Assignment - Manager,previous value,new value,SPEC01,15-JUN-2026
+65139,E65139,Change Assignment - Status,previous value,new value,SPEC02,08-APR-2026
+56478,E56478,Change Assignment - Job,previous value,new value,SPEC02,05-FEB-2026
+45413,E45413,Change Assignment - Manager,previous value,new value,SPEC01,22-MAY-2026
+66150,E66150,Change Assignment - Job,previous value,new value,SPEC03,19-MAR-2026
+72624,E72624,Change Assignment - Position,previous value,new value,SPEC01,20-APR-2026
+62520,E62520,Change Assignment - Manager,previous value,new value,SPEC04,04-APR-2026
+61200,E61200,Change Assignment - Status,previous value,new value,SPEC04,27-JUL-2026
+76199,E76199,Change Assignment - Status,previous value,new value,SPEC03,27-MAY-2026
+69372,E69372,Change Assignment - Manager,previous value,new value,SPEC02,17-MAR-2026
+65520,E65520,Change Assignment - Position,previous value,new value,SPEC04,17-FEB-2026
+75418,E75418,Change Assignment - Status,previous value,new value,SPEC03,20-FEB-2026
+75275,E75275,Change Assignment - Position,previous value,new value,SPEC01,12-FEB-2026
+50684,E50684,Change Assignment - Manager,previous value,new value,SPEC01,24-MAR-2026
+46358,E46358,Change Assignment - Status,previous value,new value,SPEC02,13-FEB-2026
+69408,E69408,Change Assignment - Status,previous value,new value,SPEC02,24-APR-2026
+64746,E64746,Change Assignment - Position,previous value,new value,SPEC03,15-JUL-2026
+76986,E76986,Change Assignment - Job,previous value,new value,SPEC03,31-MAY-2026
+58653,E58653,Change Assignment - Position,previous value,new value,SPEC02,07-JUL-2026
+59499,E59499,Change Assignment - Position,previous value,new value,SPEC02,07-MAY-2026
+68751,E68751,Change Assignment - Job,previous value,new value,SPEC02,03-JUL-2026
+75777,E75777,Change Assignment - Status,previous value,new value,SPEC03,30-MAR-2026
+67777,E67777,Change Assignment - Status,previous value,new value,SPEC01,17-MAR-2026
+59727,E59727,Change Assignment - Manager,previous value,new value,SPEC02,11-MAY-2026
+45113,E45113,Change Assignment - Job,previous value,new value,SPEC01,09-MAY-2026
+82638,E82638,Change Assignment - Position,previous value,new value,SPEC01,26-JUL-2026
+46349,E46349,Change Assignment - Position,previous value,new value,SPEC02,03-MAR-2026
+54215,E54215,Change Assignment - Status,previous value,new value,SPEC04,02-MAY-2026
+75673,E75673,Change Assignment - Status,previous value,new value,SPEC04,23-APR-2026
+906158,C906158,Change Assignment - Status,previous value,new value,SPEC03,31-MAY-2026
+82996,E82996,Change Assignment - Manager,previous value,new value,SPEC03,28-MAY-2026
+55644,E55644,Change Assignment - Manager,previous value,new value,SPEC02,24-APR-2026
+75505,E75505,Change Assignment - Position,previous value,new value,SPEC01,22-MAY-2026
+83397,E83397,Change Assignment - Position,previous value,new value,SPEC04,12-MAY-2026
+57969,E57969,Change Assignment - Manager,previous value,new value,SPEC04,17-APR-2026
+71475,E71475,Change Assignment - Status,previous value,new value,SPEC02,19-JUN-2026
+48893,E48893,Change Assignment - Position,previous value,new value,SPEC04,26-APR-2026
+80862,E80862,Change Assignment - Job,previous value,new value,SPEC02,10-JUL-2026
+70367,E70367,Change Assignment - Job,previous value,new value,SPEC04,17-JUN-2026
+41006,E41006,Change Assignment - Position,previous value,new value,SPEC04,08-JUN-2026
+43838,E43838,Change Assignment - Status,previous value,new value,SPEC01,06-JUL-2026
+40359,E40359,Change Assignment - Manager,previous value,new value,SPEC01,03-JUL-2026
+47506,E47506,Change Assignment - Status,previous value,new value,SPEC02,05-MAR-2026
+58552,E58552,Change Assignment - Status,previous value,new value,SPEC01,17-MAY-2026
+83187,E83187,Change Assignment - Position,previous value,new value,SPEC03,07-MAR-2026
+47074,E47074,Change Assignment - Manager,previous value,new value,SPEC01,28-APR-2026
+40621,E40621,Change Assignment - Job,previous value,new value,SPEC02,21-MAY-2026
+69347,E69347,Change Assignment - Status,previous value,new value,SPEC04,18-MAY-2026
+68630,E68630,Change Assignment - Position,previous value,new value,SPEC03,05-APR-2026
+906701,C906701,Change Assignment - Manager,previous value,new value,SPEC02,22-FEB-2026
+67303,E67303,Change Assignment - Job,previous value,new value,SPEC01,17-MAY-2026
+54120,E54120,Change Assignment - Manager,previous value,new value,SPEC04,02-JUN-2026
+76003,E76003,Change Assignment - Manager,previous value,new value,SPEC02,06-JUL-2026
+81011,E81011,Change Assignment - Position,previous value,new value,SPEC02,17-APR-2026
+55703,E55703,Change Assignment - Position,previous value,new value,SPEC03,26-FEB-2026
+71531,E71531,Change Assignment - Status,previous value,new value,SPEC03,09-MAY-2026
+74413,E74413,Change Assignment - Manager,previous value,new value,SPEC01,25-APR-2026
+61061,E61061,Change Assignment - Job,previous value,new value,SPEC02,28-JUN-2026
+45928,E45928,Change Assignment - Position,previous value,new value,SPEC02,19-JUN-2026
+48318,E48318,Change Assignment - Job,previous value,new value,SPEC03,16-MAR-2026
+51716,E51716,Change Assignment - Status,previous value,new value,SPEC03,23-MAY-2026
+46139,E46139,Change Assignment - Status,previous value,new value,SPEC01,06-JUL-2026
+66577,E66577,Change Assignment - Manager,previous value,new value,SPEC04,30-APR-2026
+59993,E59993,Change Assignment - Position,previous value,new value,SPEC02,06-MAY-2026
+45105,E45105,Change Assignment - Position,previous value,new value,SPEC02,08-JUL-2026
+83337,E83337,Change Assignment - Status,previous value,new value,SPEC03,23-MAR-2026
+65694,E65694,Change Assignment - Manager,previous value,new value,SPEC01,30-MAR-2026
+64120,E64120,Change Assignment - Manager,previous value,new value,SPEC01,30-MAY-2026
+73285,E73285,Change Assignment - Position,previous value,new value,SPEC04,12-JUL-2026
+53794,E53794,Change Assignment - Status,previous value,new value,SPEC02,23-MAR-2026
+62636,E62636,Change Assignment - Status,previous value,new value,SPEC02,20-APR-2026
+57812,E57812,Change Assignment - Position,previous value,new value,SPEC04,07-MAY-2026
+55532,E55532,Change Assignment - Position,previous value,new value,SPEC01,14-FEB-2026
+906838,C906838,Change Assignment - Manager,previous value,new value,SPEC02,16-FEB-2026
+49264,E49264,Change Assignment - Position,previous value,new value,SPEC03,15-MAR-2026
+54877,E54877,Change Assignment - Status,previous value,new value,SPEC03,13-JUN-2026
+64593,E64593,Change Assignment - Status,previous value,new value,SPEC03,27-MAR-2026
+58198,E58198,Change Assignment - Status,previous value,new value,SPEC04,28-FEB-2026
+45916,E45916,Change Assignment - Job,previous value,new value,SPEC03,13-MAR-2026
+71075,E71075,Change Assignment - Status,previous value,new value,SPEC03,29-MAY-2026
+46201,E46201,Change Assignment - Status,previous value,new value,SPEC04,04-MAY-2026
+57793,E57793,Change Assignment - Status,previous value,new value,SPEC02,12-JUN-2026
+70304,E70304,Change Assignment - Position,previous value,new value,SPEC03,11-MAY-2026
+57202,E57202,Change Assignment - Status,previous value,new value,SPEC04,07-FEB-2026
+64036,E64036,Change Assignment - Status,previous value,new value,SPEC02,21-FEB-2026
+53537,E53537,Change Assignment - Manager,previous value,new value,SPEC03,28-JUN-2026
+67039,E67039,Change Assignment - Job,previous value,new value,SPEC03,12-MAY-2026
+57430,E57430,Change Assignment - Manager,previous value,new value,SPEC02,04-APR-2026
+64257,E64257,Change Assignment - Manager,previous value,new value,SPEC01,30-MAY-2026
+66089,E66089,Change Assignment - Status,previous value,new value,SPEC01,24-APR-2026
+41868,E41868,Change Assignment - Manager,previous value,new value,SPEC04,05-JUN-2026
+58895,E58895,Change Assignment - Job,previous value,new value,SPEC02,27-JUN-2026
+42242,E42242,Change Assignment - Job,previous value,new value,SPEC02,10-JUN-2026
+49583,E49583,Change Assignment - Status,previous value,new value,SPEC04,22-APR-2026
+62408,E62408,Change Assignment - Job,previous value,new value,SPEC02,28-MAY-2026
+58624,E58624,Change Assignment - Status,previous value,new value,SPEC04,19-MAY-2026
+67167,E67167,Change Assignment - Manager,previous value,new value,SPEC04,20-JUN-2026
+46829,E46829,Change Assignment - Manager,previous value,new value,SPEC04,29-APR-2026
+67901,E67901,Change Assignment - Payroll,10 Month Payroll,12 Month Payroll,SPEC04,14-APR-2026
+57648,E57648,Change Assignment - Status,previous value,new value,SPEC01,21-JUL-2026
+69274,E69274,Change Assignment - Position,previous value,new value,SPEC02,02-JUL-2026
+75985,E75985,Change Assignment - Job,previous value,new value,SPEC03,16-APR-2026
+61070,E61070,Change Assignment - Status,previous value,new value,SPEC03,23-JUN-2026
+73687,E73687,Change Assignment - Manager,previous value,new value,SPEC03,23-JUL-2026
+44315,E44315,Change Assignment - Manager,previous value,new value,SPEC02,04-JUN-2026
+72838,E72838,Change Assignment - Status,previous value,new value,SPEC04,23-FEB-2026
+57727,E57727,Change Assignment - Position,previous value,new value,SPEC01,06-MAY-2026
+55076,E55076,Change Assignment - Position,previous value,new value,SPEC02,13-FEB-2026
+53508,E53508,Change Assignment - Manager,previous value,new value,SPEC03,30-MAR-2026
+66553,E66553,Change Assignment - Manager,previous value,new value,SPEC03,17-MAR-2026
+79523,E79523,Change Assignment - Manager,previous value,new value,SPEC01,20-MAY-2026
+40565,E40565,Change Assignment - Job,previous value,new value,SPEC01,08-JUL-2026
+43995,E43995,Change Assignment - Status,previous value,new value,SPEC04,02-JUN-2026
+46015,E46015,Change Assignment - Manager,previous value,new value,SPEC01,28-JUL-2026
+74217,E74217,Change Assignment - Position,previous value,new value,SPEC03,11-FEB-2026
+72620,E72620,Change Assignment - Job,previous value,new value,SPEC01,10-MAR-2026
+61752,E61752,Change Assignment - Manager,previous value,new value,SPEC01,12-MAR-2026
+77076,E77076,Change Assignment - Position,previous value,new value,SPEC04,24-FEB-2026
+44124,E44124,Change Assignment - Position,previous value,new value,SPEC03,19-JUN-2026
+74707,E74707,Change Assignment - Position,previous value,new value,SPEC03,05-MAY-2026
+40612,E40612,Change Assignment - Position,previous value,new value,SPEC01,12-MAY-2026
+78854,E78854,Change Assignment - Position,previous value,new value,SPEC04,03-JUL-2026
+64044,E64044,Change Assignment - Position,previous value,new value,SPEC02,20-MAR-2026
+73401,E73401,Change Assignment - Job,previous value,new value,SPEC04,16-JUN-2026
+67343,E67343,Change Assignment - Status,previous value,new value,SPEC01,11-MAR-2026
+66464,E66464,Change Assignment - Manager,previous value,new value,SPEC03,03-MAY-2026
+68855,E68855,Change Assignment - Manager,previous value,new value,SPEC02,02-JUN-2026
+69727,E69727,Change Assignment - Job,previous value,new value,SPEC04,27-JUL-2026
+43402,E43402,Change Assignment - Job,previous value,new value,SPEC04,19-MAR-2026
+60763,E60763,Change Assignment - Job,previous value,new value,SPEC01,26-MAR-2026
+46193,E46193,Change Assignment - Status,previous value,new value,SPEC04,14-JUN-2026
+906230,C906230,Change Assignment - Manager,previous value,new value,SPEC04,19-JUL-2026
+55914,E55914,Change Assignment - Manager,previous value,new value,SPEC01,09-MAR-2026
+73690,E73690,Change Assignment - Manager,previous value,new value,SPEC04,13-FEB-2026
+906402,C906402,Change Assignment - Status,previous value,new value,SPEC03,23-JUN-2026
+906322,C906322,Change Assignment - Status,previous value,new value,SPEC01,09-APR-2026
+40274,E40274,Change Assignment - Position,previous value,new value,SPEC01,06-FEB-2026
+76127,E76127,Change Assignment - Status,previous value,new value,SPEC02,05-MAR-2026
+51630,E51630,Change Assignment - Status,previous value,new value,SPEC04,03-FEB-2026
+66693,E66693,Change Assignment - Position,previous value,new value,SPEC01,20-APR-2026
+79604,E79604,Change Assignment - Manager,previous value,new value,SPEC04,13-MAY-2026
+58761,E58761,Change Assignment - Job,previous value,new value,SPEC04,24-JUL-2026
+41566,E41566,Change Assignment - Status,previous value,new value,SPEC01,04-JUN-2026
+59166,E59166,Change Assignment - Status,previous value,new value,SPEC04,24-APR-2026
+907308,C907308,Change Assignment - Job,previous value,new value,SPEC02,09-APR-2026
+68648,E68648,Change Assignment - Position,previous value,new value,SPEC04,23-FEB-2026
+52394,E52394,Change Assignment - Position,previous value,new value,SPEC02,29-MAY-2026
+52405,E52405,Change Assignment - Job,previous value,new value,SPEC02,09-APR-2026
+59285,E59285,Change Assignment - Manager,previous value,new value,SPEC01,13-JUN-2026
+40851,E40851,Change Assignment - Status,previous value,new value,SPEC04,19-FEB-2026
+49666,E49666,Change Assignment - Status,previous value,new value,SPEC01,07-JUN-2026
+68383,E68383,Change Assignment - Status,previous value,new value,SPEC01,19-APR-2026
+68888,E68888,Change Assignment - Manager,previous value,new value,SPEC01,03-MAY-2026
+71234,E71234,Change Assignment - Manager,previous value,new value,SPEC02,07-JUN-2026
+53367,E53367,Change Assignment - Status,previous value,new value,SPEC04,02-JUN-2026
+57588,E57588,Change Assignment - Job,previous value,new value,SPEC03,07-JUL-2026
+67557,E67557,Change Assignment - Job,previous value,new value,SPEC03,14-APR-2026
+64195,E64195,Change Assignment - Manager,previous value,new value,SPEC03,09-FEB-2026
+49768,E49768,Change Assignment - Job,previous value,new value,SPEC02,13-JUN-2026
+45164,E45164,Change Assignment - Position,previous value,new value,SPEC01,05-MAR-2026
+65819,E65819,Change Assignment - Status,previous value,new value,SPEC04,29-JUL-2026
+40100,E40100,Change Assignment - Job,previous value,new value,SPEC01,22-JUN-2026
+45691,E45691,Change Assignment - Status,previous value,new value,SPEC03,21-APR-2026
+68851,E68851,Change Assignment - Position,previous value,new value,SPEC03,27-JUL-2026
+67841,E67841,Change Assignment - Status,previous value,new value,SPEC04,14-MAR-2026
+71284,E71284,Change Assignment - Manager,previous value,new value,SPEC04,25-JUN-2026
+47000,E47000,Change Assignment - Status,previous value,new value,SPEC04,27-JUN-2026
+62562,E62562,Change Assignment - Manager,previous value,new value,SPEC01,01-JUL-2026
+41751,E41751,Change Assignment - Manager,previous value,new value,SPEC03,16-JUN-2026
+79544,E79544,Change Assignment - Manager,previous value,new value,SPEC03,19-MAR-2026
+43525,E43525,Change Assignment - Position,previous value,new value,SPEC01,29-JUN-2026
+44330,E44330,Change Assignment - Manager,previous value,new value,SPEC01,13-APR-2026
+64455,E64455,Change Assignment - Job,previous value,new value,SPEC02,02-MAY-2026
+70128,E70128,Change Assignment - Position,previous value,new value,SPEC03,24-APR-2026
+72087,E72087,Change Assignment - Manager,previous value,new value,SPEC02,17-FEB-2026
+59037,E59037,Change Assignment - Job,previous value,new value,SPEC03,24-JUL-2026
+906285,C906285,Change Assignment - Manager,previous value,new value,SPEC03,12-APR-2026
+80408,E80408,Change Assignment - Job,previous value,new value,SPEC04,17-JUL-2026
+43463,E43463,Change Assignment - Position,previous value,new value,SPEC03,23-MAR-2026
+55049,E55049,Change Assignment - Position,previous value,new value,SPEC03,16-APR-2026
+61669,E61669,Change Assignment - Manager,previous value,new value,SPEC01,22-JUL-2026
+70930,E70930,Change Assignment - Position,previous value,new value,SPEC03,12-FEB-2026
+48242,E48242,Change Assignment - Status,previous value,new value,SPEC04,18-APR-2026
+61247,E61247,Change Assignment - Job,previous value,new value,SPEC02,16-FEB-2026
+64488,E64488,Change Assignment - Status,previous value,new value,SPEC02,04-MAR-2026
+63816,E63816,Change Assignment - Manager,previous value,new value,SPEC04,25-APR-2026
+47587,E47587,Change Assignment - Job,previous value,new value,SPEC02,14-APR-2026
+67173,E67173,Change Assignment - Manager,previous value,new value,SPEC02,11-FEB-2026
+54917,E54917,Change Assignment - Manager,previous value,new value,SPEC04,04-JUN-2026
+49531,E49531,Change Assignment - Manager,previous value,new value,SPEC03,25-MAR-2026
+59225,E59225,Change Assignment - Manager,previous value,new value,SPEC04,27-JUN-2026
+73943,E73943,Change Assignment - Manager,previous value,new value,SPEC02,23-JUL-2026
+62989,E62989,Change Assignment - Manager,previous value,new value,SPEC04,13-FEB-2026
+47135,E47135,Change Assignment - Status,previous value,new value,SPEC01,23-APR-2026
+67814,E67814,Change Assignment - Position,previous value,new value,SPEC02,07-MAR-2026
+71014,E71014,Change Assignment - Status,previous value,new value,SPEC01,05-APR-2026
+68657,E68657,Change Assignment - Job,previous value,new value,SPEC04,13-JUL-2026
+69545,E69545,Change Assignment - Payroll,10 Month Payroll,12 Month Payroll,SPEC02,30-JUN-2026
+71516,E71516,Change Assignment - Position,previous value,new value,SPEC03,23-FEB-2026
+75040,E75040,Change Assignment - Position,previous value,new value,SPEC03,02-JUN-2026
+76617,E76617,Change Assignment - Position,previous value,new value,SPEC01,25-MAY-2026
+64927,E64927,Change Assignment - Manager,previous value,new value,SPEC02,26-MAY-2026
+68225,E68225,Change Assignment - Status,previous value,new value,SPEC04,22-APR-2026
+74987,E74987,Change Assignment - Job,previous value,new value,SPEC03,20-APR-2026
+60442,E60442,Change Assignment - Status,previous value,new value,SPEC04,20-JUL-2026
+40037,E40037,Change Assignment - Manager,previous value,new value,SPEC04,05-JUL-2026
+75781,E75781,Change Assignment - Job,previous value,new value,SPEC03,28-JUL-2026
+55314,E55314,Change Assignment - Job,previous value,new value,SPEC04,10-MAY-2026
+63744,E63744,Change Assignment - Position,previous value,new value,SPEC01,14-FEB-2026
+65359,E65359,Change Assignment - Position,previous value,new value,SPEC03,07-JUL-2026
+48754,E48754,Change Assignment - Position,previous value,new value,SPEC03,04-MAR-2026
+42477,E42477,Change Assignment - Job,previous value,new value,SPEC04,22-FEB-2026
+906153,C906153,Change Assignment - Job,previous value,new value,SPEC04,21-MAR-2026
+57398,E57398,Change Assignment - Status,previous value,new value,SPEC03,07-MAR-2026
+57309,E57309,Change Assignment - Status,previous value,new value,SPEC03,16-MAR-2026
+43618,E43618,Change Assignment - Position,previous value,new value,SPEC02,27-FEB-2026
+58860,E58860,Change Assignment - Job,previous value,new value,SPEC01,15-MAR-2026
+43990,E43990,Change Assignment - Status,previous value,new value,SPEC03,15-MAR-2026
+80893,E80893,Change Assignment - Job,previous value,new value,SPEC03,27-JUN-2026
+906145,C906145,Change Assignment - Position,previous value,new value,SPEC03,03-JUN-2026
+76497,E76497,Change Assignment - Manager,previous value,new value,SPEC02,09-JUN-2026
+77536,E77536,Change Assignment - Job,previous value,new value,SPEC01,31-MAY-2026
+65281,E65281,Change Assignment - Job,previous value,new value,SPEC01,15-MAY-2026
+55505,E55505,Change Assignment - Job,previous value,new value,SPEC01,26-MAY-2026
+68525,E68525,Change Assignment - Job,previous value,new value,SPEC01,31-MAY-2026
+79827,E79827,Change Assignment - Job,previous value,new value,SPEC01,28-JUN-2026
+906735,C906735,Change Assignment - Job,previous value,new value,SPEC02,06-MAY-2026
+67746,E67746,Change Assignment - Position,previous value,new value,SPEC01,26-JUN-2026
+50280,E50280,Change Assignment - Position,previous value,new value,SPEC04,10-FEB-2026
+45724,E45724,Change Assignment - Position,previous value,new value,SPEC03,09-JUL-2026
+69236,E69236,Change Assignment - Status,previous value,new value,SPEC01,15-APR-2026
+41545,E41545,Change Assignment - Position,previous value,new value,SPEC02,19-APR-2026
+81234,E81234,Change Assignment - Manager,previous value,new value,SPEC01,21-JUN-2026
+79851,E79851,Change Assignment - Manager,previous value,new value,SPEC02,27-MAR-2026
+49953,E49953,Change Assignment - Position,previous value,new value,SPEC04,10-APR-2026
+80678,E80678,Change Assignment - Status,previous value,new value,SPEC04,04-APR-2026
+68356,E68356,Change Assignment - Position,previous value,new value,SPEC03,15-MAR-2026
+55725,E55725,Change Assignment - Manager,previous value,new value,SPEC04,03-APR-2026
+55978,E55978,Change Assignment - Status,previous value,new value,SPEC01,03-FEB-2026
+55411,E55411,Change Assignment - Position,previous value,new value,SPEC01,20-JUL-2026
+66268,E66268,Change Assignment - Manager,previous value,new value,SPEC02,11-MAY-2026
+45221,E45221,Change Assignment - Job,previous value,new value,SPEC01,16-MAY-2026
+46355,E46355,Change Assignment - Manager,previous value,new value,SPEC03,05-JUL-2026
+42210,E42210,Change Assignment - Manager,previous value,new value,SPEC01,08-FEB-2026
+61244,E61244,Change Assignment - Job,previous value,new value,SPEC02,27-JUL-2026
+42859,E42859,Change Assignment - Position,previous value,new value,SPEC04,08-FEB-2026
+59243,E59243,Change Assignment - Manager,previous value,new value,SPEC02,20-MAR-2026
+81729,E81729,Change Assignment - Status,previous value,new value,SPEC01,26-APR-2026
+71744,E71744,Change Assignment - Position,previous value,new value,SPEC03,27-MAY-2026
+41572,E41572,Change Assignment - Job,previous value,new value,SPEC03,25-MAR-2026
+63954,E63954,Change Assignment - Manager,previous value,new value,SPEC02,22-JUN-2026
+50636,E50636,Change Assignment - Status,previous value,new value,SPEC04,02-APR-2026
+64473,E64473,Change Assignment - Manager,previous value,new value,SPEC01,02-JUN-2026
+906822,C906822,Change Assignment - Status,previous value,new value,SPEC01,02-JUN-2026
+83341,E83341,Change Assignment - Status,previous value,new value,SPEC02,29-APR-2026
+49317,E49317,Change Assignment - Status,previous value,new value,SPEC01,09-JUL-2026
+53435,E53435,Change Assignment - Job,previous value,new value,SPEC04,16-FEB-2026
+67135,E67135,Change Assignment - Status,previous value,new value,SPEC03,12-MAY-2026
+42696,E42696,Change Assignment - Position,previous value,new value,SPEC01,04-FEB-2026
+47903,E47903,Change Assignment - Manager,previous value,new value,SPEC03,15-FEB-2026
+67551,E67551,Change Assignment - Status,previous value,new value,SPEC01,20-MAR-2026
+66536,E66536,Change Assignment - Status,previous value,new value,SPEC02,03-JUL-2026
+43593,E43593,Change Assignment - Position,previous value,new value,SPEC04,26-JUL-2026
+53735,E53735,Change Assignment - Status,previous value,new value,SPEC03,03-MAR-2026
+73235,E73235,Change Assignment - Job,previous value,new value,SPEC01,25-APR-2026
+75048,E75048,Change Assignment - Position,previous value,new value,SPEC02,27-JUN-2026
+68669,E68669,Change Assignment - Manager,previous value,new value,SPEC04,13-MAY-2026
+49770,E49770,Change Assignment - Position,previous value,new value,SPEC03,04-FEB-2026
+60446,E60446,Change Assignment - Manager,previous value,new value,SPEC02,18-JUL-2026
+71852,E71852,Change Assignment - Manager,previous value,new value,SPEC01,17-FEB-2026
+906688,C906688,Change Assignment - Status,previous value,new value,SPEC03,05-JUL-2026
+46223,E46223,Change Assignment - Job,previous value,new value,SPEC03,17-MAR-2026
+80948,E80948,Change Assignment - Status,previous value,new value,SPEC04,03-MAY-2026
+78915,E78915,Change Assignment - Status,previous value,new value,SPEC04,23-APR-2026
+64677,E64677,Change Assignment - Status,previous value,new value,SPEC03,29-JUL-2026
+906676,C906676,Change Assignment - Manager,previous value,new value,SPEC02,26-MAY-2026
+906505,C906505,Change Assignment - Status,previous value,new value,SPEC02,23-FEB-2026
+74241,E74241,Change Assignment - Status,previous value,new value,SPEC03,21-JUL-2026
+83261,E83261,Change Assignment - Status,previous value,new value,SPEC02,08-FEB-2026
+60321,E60321,Change Assignment - Position,previous value,new value,SPEC04,15-JUN-2026
+75362,E75362,Change Assignment - Job,previous value,new value,SPEC04,26-FEB-2026
+78876,E78876,Change Assignment - Status,previous value,new value,SPEC02,09-JUL-2026
+55809,E55809,Change Assignment - Manager,previous value,new value,SPEC03,04-FEB-2026
+68904,E68904,Change Assignment - Position,previous value,new value,SPEC04,14-APR-2026
+906140,C906140,Change Assignment - Status,previous value,new value,SPEC01,02-MAY-2026
+81912,E81912,Change Assignment - Job,previous value,new value,SPEC01,13-MAR-2026
+53106,E53106,Change Assignment - Job,previous value,new value,SPEC03,22-MAR-2026
+42525,E42525,Change Assignment - Manager,previous value,new value,SPEC02,18-JUN-2026
+62460,E62460,Change Assignment - Position,previous value,new value,SPEC03,16-MAR-2026
+53489,E53489,Change Assignment - Manager,previous value,new value,SPEC03,18-FEB-2026
+59388,E59388,Change Assignment - Job,previous value,new value,SPEC02,16-JUL-2026
+46845,E46845,Change Assignment - Status,previous value,new value,SPEC03,14-APR-2026
+40638,E40638,Change Assignment - Manager,previous value,new value,SPEC04,09-FEB-2026
+906113,C906113,Change Assignment - Status,previous value,new value,SPEC03,24-JUN-2026
+906265,C906265,Change Assignment - Status,previous value,new value,SPEC04,09-JUN-2026
+56096,E56096,Change Assignment - Job,previous value,new value,SPEC04,07-FEB-2026
+65263,E65263,Change Assignment - Manager,previous value,new value,SPEC04,07-JUN-2026
+67456,E67456,Change Assignment - Manager,previous value,new value,SPEC01,09-MAY-2026
+79469,E79469,Change Assignment - Position,previous value,new value,SPEC01,11-JUL-2026
+43528,E43528,Change Assignment - Manager,previous value,new value,SPEC04,12-FEB-2026
+54204,E54204,Change Assignment - Position,previous value,new value,SPEC01,03-MAY-2026
+67918,E67918,Change Assignment - Manager,previous value,new value,SPEC03,27-MAR-2026
+52057,E52057,Change Assignment - Manager,previous value,new value,SPEC02,26-JUN-2026
+45395,E45395,Change Assignment - Manager,previous value,new value,SPEC04,28-APR-2026
+62687,E62687,Change Assignment - Position,previous value,new value,SPEC01,31-MAR-2026
+57684,E57684,Change Assignment - Job,previous value,new value,SPEC04,24-JUN-2026
+49008,E49008,Change Assignment - Manager,previous value,new value,SPEC04,28-APR-2026
+43718,E43718,Change Assignment - Job,previous value,new value,SPEC02,07-JUN-2026
+45090,E45090,Change Assignment - Manager,previous value,new value,SPEC01,12-JUL-2026
+59741,E59741,Change Assignment - Position,previous value,new value,SPEC04,20-JUL-2026
+53026,E53026,Change Assignment - Manager,previous value,new value,SPEC02,26-JUL-2026
+57686,E57686,Change Assignment - Job,previous value,new value,SPEC01,20-JUL-2026
+80702,E80702,Change Assignment - Manager,previous value,new value,SPEC03,23-JUL-2026
+44865,E44865,Change Assignment - Position,previous value,new value,SPEC02,02-FEB-2026
+907066,C907066,Change Assignment - Status,previous value,new value,SPEC02,22-MAR-2026
+82906,E82906,Change Assignment - Status,previous value,new value,SPEC01,26-MAY-2026
+69055,E69055,Change Assignment - Job,previous value,new value,SPEC04,10-MAY-2026
+74521,E74521,Change Assignment - Manager,previous value,new value,SPEC04,12-APR-2026
+49013,E49013,Change Assignment - Status,previous value,new value,SPEC04,21-APR-2026
+49749,E49749,Change Assignment - Job,previous value,new value,SPEC02,09-APR-2026
+61129,E61129,Change Assignment - Manager,previous value,new value,SPEC04,19-FEB-2026
+61771,E61771,Change Assignment - Manager,previous value,new value,SPEC02,02-APR-2026
+40344,E40344,Change Assignment - Status,previous value,new value,SPEC03,18-FEB-2026
+77953,E77953,Change Assignment - Manager,previous value,new value,SPEC03,02-JUN-2026
+68885,E68885,Change Assignment - Position,previous value,new value,SPEC04,06-JUL-2026
+41246,E41246,Change Assignment - Position,previous value,new value,SPEC03,24-MAR-2026
+81179,E81179,Change Assignment - Job,previous value,new value,SPEC02,01-FEB-2026
+44609,E44609,Change Assignment - Position,previous value,new value,SPEC02,23-MAY-2026
+55287,E55287,Change Assignment - Manager,previous value,new value,SPEC03,19-JUL-2026
+70746,E70746,Change Assignment - Job,previous value,new value,SPEC02,27-MAY-2026
+48883,E48883,Change Assignment - Manager,previous value,new value,SPEC01,21-MAR-2026
+73746,E73746,Change Assignment - Manager,previous value,new value,SPEC01,20-MAR-2026
+67197,E67197,Change Assignment - Manager,previous value,new value,SPEC03,01-MAR-2026
+71729,E71729,Change Assignment - Status,previous value,new value,SPEC01,03-JUN-2026
+77587,E77587,Change Assignment - Status,previous value,new value,SPEC02,28-APR-2026
+56066,E56066,Change Assignment - Position,previous value,new value,SPEC02,21-JUL-2026
+55012,E55012,Change Assignment - Payroll,10 Month Payroll,12 Month Payroll,SPEC03,03-JUN-2026
+82303,E82303,Change Assignment - Position,previous value,new value,SPEC01,18-MAR-2026
+42133,E42133,Change Assignment - Position,previous value,new value,SPEC04,13-MAY-2026
+63419,E63419,Change Assignment - Job,previous value,new value,SPEC01,16-JUL-2026
+70317,E70317,Change Assignment - Position,previous value,new value,SPEC03,17-JUN-2026
+52338,E52338,Change Assignment - Manager,previous value,new value,SPEC02,01-MAR-2026
+51732,E51732,Change Assignment - Position,previous value,new value,SPEC02,07-MAR-2026
+53920,E53920,Change Assignment - Position,previous value,new value,SPEC02,11-JUL-2026
+68418,E68418,Change Assignment - Position,previous value,new value,SPEC01,12-MAY-2026
+64941,E64941,Change Assignment - Job,previous value,new value,SPEC01,16-FEB-2026
+70388,E70388,Change Assignment - Position,previous value,new value,SPEC01,19-JUN-2026
+68025,E68025,Change Assignment - Status,previous value,new value,SPEC01,01-JUN-2026
+72425,E72425,Change Assignment - Manager,previous value,new value,SPEC04,12-APR-2026
+43748,E43748,Change Assignment - Position,previous value,new value,SPEC03,06-JUL-2026
+67514,E67514,Change Assignment - Job,previous value,new value,SPEC03,10-JUL-2026
+63236,E63236,Change Assignment - Status,previous value,new value,SPEC04,28-APR-2026
+55268,E55268,Change Assignment - Manager,previous value,new value,SPEC01,15-JUL-2026
+48682,E48682,Change Assignment - Manager,previous value,new value,SPEC01,29-JUN-2026
+42489,E42489,Change Assignment - Payroll,10 Month Payroll,12 Month Payroll,SPEC01,24-JUN-2026
+45812,E45812,Change Assignment - Manager,previous value,new value,SPEC01,30-MAY-2026
+58488,E58488,Change Assignment - Job,previous value,new value,SPEC01,20-APR-2026
+80756,E80756,Change Assignment - Job,previous value,new value,SPEC01,30-JUN-2026
+53302,E53302,Change Assignment - Job,previous value,new value,SPEC02,21-JUN-2026
+82927,E82927,Change Assignment - Status,previous value,new value,SPEC02,26-JUL-2026
+72282,E72282,Change Assignment - Position,previous value,new value,SPEC04,08-JUL-2026
+66808,E66808,Change Assignment - Job,previous value,new value,SPEC01,12-MAY-2026
+50210,E50210,Change Assignment - Position,previous value,new value,SPEC02,09-JUN-2026
+50964,E50964,Change Assignment - Job,previous value,new value,SPEC02,24-JUL-2026
+81746,E81746,Change Assignment - Manager,previous value,new value,SPEC04,12-MAY-2026
+73658,E73658,Change Assignment - Manager,previous value,new value,SPEC02,27-FEB-2026
+62062,E62062,Change Assignment - Manager,previous value,new value,SPEC04,10-JUN-2026
+52299,E52299,Change Assignment - Job,previous value,new value,SPEC04,19-JUN-2026
+68908,E68908,Change Assignment - Job,previous value,new value,SPEC01,15-FEB-2026
+43303,E43303,Change Assignment - Manager,previous value,new value,SPEC01,20-MAR-2026
+69756,E69756,Change Assignment - Status,previous value,new value,SPEC02,05-FEB-2026
+81135,E81135,Change Assignment - Status,previous value,new value,SPEC03,09-MAY-2026
+59974,E59974,Change Assignment - Position,previous value,new value,SPEC04,06-MAY-2026
+73100,E73100,Change Assignment - Status,previous value,new value,SPEC04,18-MAY-2026
+906410,C906410,Change Assignment - Job,previous value,new value,SPEC02,28-MAY-2026
+82216,E82216,Change Assignment - Status,previous value,new value,SPEC03,04-APR-2026
+52332,E52332,Change Assignment - Job,previous value,new value,SPEC03,06-JUN-2026
+46207,E46207,Change Assignment - Status,previous value,new value,SPEC03,07-FEB-2026
+55098,E55098,Change Assignment - Position,previous value,new value,SPEC02,22-APR-2026
+83124,E83124,Change Assignment - Position,previous value,new value,SPEC01,26-FEB-2026
+62266,E62266,Change Assignment - Manager,previous value,new value,SPEC03,04-MAR-2026
+48916,E48916,Change Assignment - Position,previous value,new value,SPEC01,18-MAY-2026
+46608,E46608,Change Assignment - Position,previous value,new value,SPEC04,02-APR-2026
+52264,E52264,Change Assignment - Job,previous value,new value,SPEC04,22-JUL-2026
+60868,E60868,Change Assignment - Status,previous value,new value,SPEC02,24-MAR-2026
+48629,E48629,Change Assignment - Status,previous value,new value,SPEC01,09-APR-2026
+75255,E75255,Change Assignment - Position,previous value,new value,SPEC01,05-MAY-2026
+58042,E58042,Change Assignment - Position,previous value,new value,SPEC01,02-APR-2026
+63801,E63801,Change Assignment - Job,previous value,new value,SPEC01,12-MAR-2026
+44884,E44884,Change Assignment - Position,previous value,new value,SPEC03,04-APR-2026
+51236,E51236,Change Assignment - Manager,previous value,new value,SPEC04,04-APR-2026
+48497,E48497,Change Assignment - Status,previous value,new value,SPEC02,03-JUN-2026
+53655,E53655,Change Assignment - Job,previous value,new value,SPEC02,26-MAY-2026
+63187,E63187,Change Assignment - Status,previous value,new value,SPEC04,13-MAR-2026
+56362,E56362,Change Assignment - Job,previous value,new value,SPEC04,21-MAR-2026
+76286,E76286,Change Assignment - Position,previous value,new value,SPEC04,27-FEB-2026
+43967,E43967,Change Assignment - Status,previous value,new value,SPEC01,05-JUN-2026
+40395,E40395,Change Assignment - Status,previous value,new value,SPEC02,28-FEB-2026
+71154,E71154,Change Assignment - Status,previous value,new value,SPEC04,02-APR-2026
+60071,E60071,Change Assignment - Job,previous value,new value,SPEC04,20-MAR-2026
+48149,E48149,Change Assignment - Manager,previous value,new value,SPEC04,27-FEB-2026
+76289,E76289,Change Assignment - Manager,previous value,new value,SPEC04,05-JUN-2026
+76956,E76956,Change Assignment - Manager,previous value,new value,SPEC03,22-MAR-2026
+43889,E43889,Change Assignment - Position,previous value,new value,SPEC01,08-JUL-2026
+48719,E48719,Change Assignment - Manager,previous value,new value,SPEC04,11-JUN-2026
+68370,E68370,Change Assignment - Manager,previous value,new value,SPEC02,29-MAY-2026
+47566,E47566,Change Assignment - Job,previous value,new value,SPEC02,20-JUN-2026
+44325,E44325,Change Assignment - Job,previous value,new value,SPEC04,10-FEB-2026
+51488,E51488,Change Assignment - Position,previous value,new value,SPEC03,15-APR-2026
+79248,E79248,Change Assignment - Job,previous value,new value,SPEC03,15-FEB-2026
+53274,E53274,Change Assignment - Job,previous value,new value,SPEC04,21-APR-2026
+59339,E59339,Change Assignment - Manager,previous value,new value,SPEC04,05-JUL-2026
+72922,E72922,Change Assignment - Payroll,10 Month Payroll,12 Month Payroll,SPEC01,11-APR-2026
+70992,E70992,Change Assignment - Status,previous value,new value,SPEC02,29-JUN-2026
+47303,E47303,Change Assignment - Status,previous value,new value,SPEC01,27-JUL-2026
+74811,E74811,Change Assignment - Status,previous value,new value,SPEC04,13-MAY-2026
+42423,E42423,Change Assignment - Position,previous value,new value,SPEC03,30-JUN-2026
+67004,E67004,Change Assignment - Status,previous value,new value,SPEC01,18-FEB-2026
+49330,E49330,Change Assignment - Manager,previous value,new value,SPEC03,03-MAR-2026
+77077,E77077,Change Assignment - Manager,previous value,new value,SPEC03,08-FEB-2026
+83431,E83431,Change Assignment - Manager,previous value,new value,SPEC02,28-FEB-2026
+82131,E82131,Change Assignment - Position,previous value,new value,SPEC04,13-MAR-2026
+67923,E67923,Change Assignment - Manager,previous value,new value,SPEC01,26-JUN-2026
+69838,E69838,Change Assignment - Status,previous value,new value,SPEC04,09-MAY-2026
+63456,E63456,Change Assignment - Job,previous value,new value,SPEC04,27-JUL-2026
+63634,E63634,Change Assignment - Manager,previous value,new value,SPEC03,18-JUN-2026
+71086,E71086,Change Assignment - Job,previous value,new value,SPEC01,02-APR-2026
+80473,E80473,Change Assignment - Position,previous value,new value,SPEC04,31-MAR-2026
+69340,E69340,Change Assignment - Position,previous value,new value,SPEC02,14-JUL-2026
+71839,E71839,Change Assignment - Manager,previous value,new value,SPEC04,17-JUN-2026
+56525,E56525,Change Assignment - Status,previous value,new value,SPEC03,18-JUN-2026
+79017,E79017,Change Assignment - Manager,previous value,new value,SPEC02,02-JUL-2026
+49411,E49411,Change Assignment - Status,previous value,new value,SPEC01,27-APR-2026
+63595,E63595,Change Assignment - Position,previous value,new value,SPEC02,19-APR-2026
+67637,E67637,Change Assignment - Status,previous value,new value,SPEC01,01-MAY-2026
+64644,E64644,Change Assignment - Position,previous value,new value,SPEC02,29-JUN-2026
+55133,E55133,Change Assignment - Manager,previous value,new value,SPEC04,25-MAR-2026
+57705,E57705,Change Assignment - Status,previous value,new value,SPEC03,07-MAY-2026
+62524,E62524,Change Assignment - Job,previous value,new value,SPEC03,23-APR-2026
+906544,C906544,Change Assignment - Status,previous value,new value,SPEC02,18-FEB-2026
+907076,C907076,Change Assignment - Manager,previous value,new value,SPEC02,05-MAY-2026
+75572,E75572,Change Assignment - Position,previous value,new value,SPEC02,10-MAY-2026
+63044,E63044,Change Assignment - Status,previous value,new value,SPEC01,22-MAY-2026
+82948,E82948,Change Assignment - Manager,previous value,new value,SPEC03,25-MAR-2026
+57490,E57490,Change Assignment - Position,previous value,new value,SPEC04,28-JUL-2026
+45742,E45742,Change Assignment - Job,previous value,new value,SPEC02,18-APR-2026
+81282,E81282,Change Assignment - Manager,previous value,new value,SPEC01,24-MAY-2026
+40613,E40613,Change Assignment - Status,previous value,new value,SPEC04,20-APR-2026
+42725,E42725,Change Assignment - Job,previous value,new value,SPEC04,23-MAY-2026
+61280,E61280,Change Assignment - Job,previous value,new value,SPEC01,02-JUN-2026
+45665,E45665,Change Assignment - Job,previous value,new value,SPEC01,04-MAR-2026
+49265,E49265,Change Assignment - Status,previous value,new value,SPEC02,30-MAY-2026
+56018,E56018,Change Assignment - Status,previous value,new value,SPEC04,13-JUL-2026
+60312,E60312,Change Assignment - Job,previous value,new value,SPEC04,12-MAR-2026
+74818,E74818,Change Assignment - Manager,previous value,new value,SPEC02,26-APR-2026
+72943,E72943,Change Assignment - Status,previous value,new value,SPEC02,15-APR-2026
+57631,E57631,Change Assignment - Position,previous value,new value,SPEC02,01-JUN-2026
+60488,E60488,Change Assignment - Manager,previous value,new value,SPEC04,10-JUN-2026
+51066,E51066,Change Assignment - Status,previous value,new value,SPEC02,17-JUN-2026
+62613,E62613,Change Assignment - Job,previous value,new value,SPEC04,18-FEB-2026
+81500,E81500,Change Assignment - Manager,previous value,new value,SPEC03,12-MAR-2026
+53219,E53219,Change Assignment - Job,previous value,new value,SPEC04,27-JUL-2026
+68052,E68052,Change Assignment - Status,previous value,new value,SPEC02,19-APR-2026
+81257,E81257,Change Assignment - Position,previous value,new value,SPEC03,25-APR-2026
+61122,E61122,Change Assignment - Position,previous value,new value,SPEC02,29-MAR-2026
+55328,E55328,Change Assignment - Status,previous value,new value,SPEC03,12-APR-2026
+63916,E63916,Change Assignment - Position,previous value,new value,SPEC01,07-MAY-2026
+906013,C906013,Change Assignment - Job,previous value,new value,SPEC01,11-MAY-2026
+75778,E75778,Change Assignment - Manager,previous value,new value,SPEC04,08-JUL-2026
+68757,E68757,Change Assignment - Manager,previous value,new value,SPEC04,18-FEB-2026
+74779,E74779,Change Assignment - Manager,previous value,new value,SPEC02,20-JUN-2026
+43038,E43038,Change Assignment - Status,previous value,new value,SPEC01,06-JUN-2026
+73192,E73192,Change Assignment - Job,previous value,new value,SPEC03,12-APR-2026
+76611,E76611,Change Assignment - Manager,previous value,new value,SPEC04,22-MAY-2026
+43630,E43630,Change Assignment - Manager,previous value,new value,SPEC01,16-FEB-2026
+60027,E60027,Change Assignment - Status,previous value,new value,SPEC02,01-JUL-2026
+49786,E49786,Change Assignment - Position,previous value,new value,SPEC02,12-JUL-2026
+54403,E54403,Change Assignment - Status,previous value,new value,SPEC02,14-JUL-2026
+48716,E48716,Change Assignment - Manager,previous value,new value,SPEC02,29-JUN-2026
+74813,E74813,Change Assignment - Manager,previous value,new value,SPEC04,13-JUL-2026
+71118,E71118,Change Assignment - Manager,previous value,new value,SPEC02,20-MAR-2026
+82268,E82268,Change Assignment - Status,previous value,new value,SPEC01,02-APR-2026
+51362,E51362,Change Assignment - Status,previous value,new value,SPEC03,17-JUN-2026
+41936,E41936,Change Assignment - Position,previous value,new value,SPEC02,03-MAR-2026
+77262,E77262,Change Assignment - Status,previous value,new value,SPEC03,13-JUN-2026
+907289,C907289,Change Assignment - Job,previous value,new value,SPEC03,28-JUL-2026
+61885,E61885,Change Assignment - Status,previous value,new value,SPEC04,22-JUL-2026
+41116,E41116,Change Assignment - Position,previous value,new value,SPEC03,26-JUL-2026
+53846,E53846,Change Assignment - Status,previous value,new value,SPEC01,12-JUL-2026
+80569,E80569,Change Assignment - Status,previous value,new value,SPEC04,27-JUN-2026
+60512,E60512,Change Assignment - Status,previous value,new value,SPEC03,16-FEB-2026
+78973,E78973,Change Assignment - Manager,previous value,new value,SPEC04,16-MAY-2026
+57870,E57870,Change Assignment - Manager,previous value,new value,SPEC01,09-FEB-2026
+61239,E61239,Change Assignment - Status,previous value,new value,SPEC01,22-JUN-2026
+52238,E52238,Change Assignment - Position,previous value,new value,SPEC01,09-MAR-2026
+64898,E64898,Change Assignment - Job,previous value,new value,SPEC04,16-JUN-2026
+82962,E82962,Change Assignment - Position,previous value,new value,SPEC04,01-JUL-2026
+40328,E40328,Change Assignment - Position,previous value,new value,SPEC02,21-MAY-2026
+51248,E51248,Change Assignment - Manager,previous value,new value,SPEC03,27-APR-2026
+74778,E74778,Change Assignment - Manager,previous value,new value,SPEC02,24-MAR-2026
+43130,E43130,Change Assignment - Status,previous value,new value,SPEC04,04-MAY-2026
+68719,E68719,Change Assignment - Status,previous value,new value,SPEC03,10-MAR-2026
+43363,E43363,Change Assignment - Job,previous value,new value,SPEC04,09-JUL-2026
+62863,E62863,Change Assignment - Position,previous value,new value,SPEC02,02-MAY-2026
+44077,E44077,Change Assignment - Manager,previous value,new value,SPEC02,06-MAR-2026
+59589,E59589,Change Assignment - Status,previous value,new value,SPEC04,21-JUL-2026
+59846,E59846,Change Assignment - Position,previous value,new value,SPEC04,05-MAR-2026
+69512,E69512,Change Assignment - Job,previous value,new value,SPEC04,30-APR-2026
+58282,E58282,Change Assignment - Manager,previous value,new value,SPEC03,09-MAR-2026
+69605,E69605,Change Assignment - Status,previous value,new value,SPEC04,29-MAR-2026
+81567,E81567,Change Assignment - Position,previous value,new value,SPEC03,01-MAR-2026
+77511,E77511,Change Assignment - Manager,previous value,new value,SPEC02,05-JUN-2026
+70938,E70938,Change Assignment - Status,previous value,new value,SPEC04,17-JUL-2026
+61654,E61654,Change Assignment - Status,previous value,new value,SPEC04,28-JUN-2026
+58647,E58647,Change Assignment - Job,previous value,new value,SPEC01,29-MAR-2026
+62568,E62568,Change Assignment - Position,previous value,new value,SPEC01,30-MAR-2026
+58264,E58264,Change Assignment - Manager,previous value,new value,SPEC03,22-FEB-2026
+59792,E59792,Change Assignment - Position,previous value,new value,SPEC02,01-FEB-2026
+51358,E51358,Change Assignment - Position,previous value,new value,SPEC01,10-JUL-2026
+67544,E67544,Change Assignment - Manager,previous value,new value,SPEC01,25-APR-2026
+907137,C907137,Change Assignment - Manager,previous value,new value,SPEC02,24-APR-2026
+55613,E55613,Change Assignment - Job,previous value,new value,SPEC01,10-FEB-2026
+47362,E47362,Change Assignment - Manager,previous value,new value,SPEC04,14-MAR-2026
+72661,E72661,Change Assignment - Status,previous value,new value,SPEC03,02-APR-2026
+83175,E83175,Change Assignment - Manager,previous value,new value,SPEC04,06-FEB-2026
+70888,E70888,Change Assignment - Job,previous value,new value,SPEC03,23-JUL-2026
+73950,E73950,Change Assignment - Manager,previous value,new value,SPEC01,11-FEB-2026
+52298,E52298,Change Assignment - Position,previous value,new value,SPEC03,14-MAR-2026
+52250,E52250,Change Assignment - Job,previous value,new value,SPEC03,15-MAY-2026
+67061,E67061,Change Assignment - Position,previous value,new value,SPEC04,12-MAY-2026
+61729,E61729,Change Assignment - Job,previous value,new value,SPEC04,18-JUL-2026
+51141,E51141,Change Assignment - Job,previous value,new value,SPEC02,24-MAY-2026
+45361,E45361,Change Assignment - Payroll,10 Month Payroll,12 Month Payroll,SPEC03,28-JUN-2026
+67891,E67891,Change Assignment - Status,previous value,new value,SPEC01,15-JUN-2026
+44686,E44686,Change Assignment - Status,previous value,new value,SPEC03,16-APR-2026
+58588,E58588,Change Assignment - Job,previous value,new value,SPEC03,22-MAY-2026
+75820,E75820,Change Assignment - Position,previous value,new value,SPEC01,06-APR-2026
+56237,E56237,Change Assignment - Manager,previous value,new value,SPEC03,02-JUN-2026
+47145,E47145,Change Assignment - Position,previous value,new value,SPEC01,31-MAY-2026
+57457,E57457,Change Assignment - Position,previous value,new value,SPEC02,23-MAY-2026
+906693,C906693,Change Assignment - Job,previous value,new value,SPEC03,19-MAY-2026
+78957,E78957,Change Assignment - Job,previous value,new value,SPEC01,12-JUL-2026
+52797,E52797,Change Assignment - Position,previous value,new value,SPEC02,21-MAY-2026
+74269,E74269,Change Assignment - Status,previous value,new value,SPEC04,13-MAR-2026
+61959,E61959,Change Assignment - Job,previous value,new value,SPEC04,02-APR-2026
+82784,E82784,Change Assignment - Manager,previous value,new value,SPEC03,22-FEB-2026
+52741,E52741,Change Assignment - Manager,previous value,new value,SPEC02,26-FEB-2026
+72899,E72899,Change Assignment - Position,previous value,new value,SPEC01,20-APR-2026
+42893,E42893,Change Assignment - Job,previous value,new value,SPEC01,23-JUL-2026
+79661,E79661,Change Assignment - Manager,previous value,new value,SPEC01,14-MAR-2026
+68016,E68016,Change Assignment - Job,previous value,new value,SPEC03,14-MAY-2026
+73115,E73115,Change Assignment - Job,previous value,new value,SPEC02,24-JUN-2026
+68345,E68345,Change Assignment - Status,previous value,new value,SPEC01,17-APR-2026
+67562,E67562,Change Assignment - Job,previous value,new value,SPEC01,15-MAR-2026
+56652,E56652,Change Assignment - Position,previous value,new value,SPEC01,30-MAY-2026
+45139,E45139,Change Assignment - Position,previous value,new value,SPEC03,22-MAR-2026
+71656,E71656,Change Assignment - Manager,previous value,new value,SPEC03,10-MAY-2026
+77204,E77204,Change Assignment - Position,previous value,new value,SPEC01,28-JUN-2026
+58852,E58852,Change Assignment - Status,previous value,new value,SPEC01,12-JUL-2026
+71397,E71397,Change Assignment - Manager,previous value,new value,SPEC03,18-JUL-2026
+56942,E56942,Change Assignment - Status,previous value,new value,SPEC04,02-APR-2026
+77762,E77762,Change Assignment - Position,previous value,new value,SPEC03,23-MAY-2026
+50780,E50780,Change Assignment - Manager,previous value,new value,SPEC03,20-JUN-2026
+42610,E42610,Change Assignment - Manager,previous value,new value,SPEC04,01-FEB-2026
+66730,E66730,Change Assignment - Manager,previous value,new value,SPEC03,29-MAR-2026
+52355,E52355,Change Assignment - Manager,previous value,new value,SPEC02,02-JUL-2026
+77885,E77885,Change Assignment - Position,previous value,new value,SPEC04,20-MAY-2026
+56214,E56214,Change Assignment - Job,previous value,new value,SPEC02,13-MAR-2026
+64881,E64881,Change Assignment - Manager,previous value,new value,SPEC02,03-APR-2026
+74261,E74261,Change Assignment - Position,previous value,new value,SPEC04,09-FEB-2026
+44034,E44034,Change Assignment - Status,previous value,new value,SPEC01,21-MAY-2026
+46485,E46485,Change Assignment - Manager,previous value,new value,SPEC02,09-MAR-2026
+77039,E77039,Change Assignment - Manager,previous value,new value,SPEC02,04-FEB-2026
+62797,E62797,Change Assignment - Job,previous value,new value,SPEC04,24-JUN-2026
+75102,E75102,Change Assignment - Status,previous value,new value,SPEC04,22-FEB-2026
+74608,E74608,Change Assignment - Status,previous value,new value,SPEC02,27-FEB-2026
+77343,E77343,Change Assignment - Position,previous value,new value,SPEC04,11-MAR-2026
+906733,C906733,Change Assignment - Job,previous value,new value,SPEC04,28-JUN-2026
+63765,E63765,Change Assignment - Job,previous value,new value,SPEC01,13-MAY-2026
+43852,E43852,Change Assignment - Status,previous value,new value,SPEC02,02-MAR-2026
+65234,E65234,Change Assignment - Status,previous value,new value,SPEC01,11-MAR-2026
+58413,E58413,Change Assignment - Job,previous value,new value,SPEC01,20-MAY-2026
+82844,E82844,Change Assignment - Manager,previous value,new value,SPEC01,27-JUL-2026
+41654,E41654,Change Assignment - Status,previous value,new value,SPEC01,24-APR-2026
+53238,E53238,Change Assignment - Status,previous value,new value,SPEC03,16-APR-2026
+57889,E57889,Change Assignment - Manager,previous value,new value,SPEC04,15-JUL-2026
+57298,E57298,Change Assignment - Job,previous value,new value,SPEC04,03-APR-2026
+61651,E61651,Change Assignment - Manager,previous value,new value,SPEC03,19-MAR-2026
+47684,E47684,Change Assignment - Status,previous value,new value,SPEC01,15-MAY-2026
+40260,E40260,Change Assignment - Position,previous value,new value,SPEC01,18-MAR-2026
+40919,E40919,Change Assignment - Status,previous value,new value,SPEC04,15-MAR-2026
+63755,E63755,Change Assignment - Job,previous value,new value,SPEC01,15-JUN-2026
+71980,E71980,Change Assignment - Position,previous value,new value,SPEC02,21-MAR-2026
+71037,E71037,Change Assignment - Position,previous value,new value,SPEC01,08-APR-2026
+49328,E49328,Change Assignment - Position,previous value,new value,SPEC02,19-FEB-2026
+69629,E69629,Change Assignment - Job,previous value,new value,SPEC04,26-APR-2026
+58485,E58485,Change Assignment - Status,previous value,new value,SPEC04,12-MAR-2026
+45224,E45224,Change Assignment - Position,previous value,new value,SPEC03,13-JUN-2026
+46171,E46171,Change Assignment - Status,previous value,new value,SPEC02,13-JUL-2026
+42248,E42248,Change Assignment - Job,previous value,new value,SPEC04,11-APR-2026
+52778,E52778,Change Assignment - Manager,previous value,new value,SPEC01,04-JUN-2026
+56475,E56475,Change Assignment - Position,previous value,new value,SPEC03,16-JUL-2026
+58406,E58406,Change Assignment - Job,previous value,new value,SPEC04,07-JUL-2026
+45910,E45910,Change Assignment - Manager,previous value,new value,SPEC04,17-JUL-2026
+54713,E54713,Change Assignment - Job,previous value,new value,SPEC02,10-JUN-2026
+54895,E54895,Change Assignment - Manager,previous value,new value,SPEC03,27-JUL-2026
+47016,E47016,Change Assignment - Status,previous value,new value,SPEC01,04-FEB-2026
+72448,E72448,Change Assignment - Status,previous value,new value,SPEC02,14-JUL-2026
+57532,E57532,Change Assignment - Job,previous value,new value,SPEC03,05-JUL-2026
+62174,E62174,Change Assignment - Manager,previous value,new value,SPEC01,22-APR-2026
+906270,C906270,Change Assignment - Job,previous value,new value,SPEC02,15-JUN-2026
+69741,E69741,Change Assignment - Manager,previous value,new value,SPEC02,19-APR-2026
+47325,E47325,Change Assignment - Manager,previous value,new value,SPEC03,12-JUL-2026
+74604,E74604,Change Assignment - Job,previous value,new value,SPEC01,28-FEB-2026
+59521,E59521,Change Assignment - Manager,previous value,new value,SPEC03,07-JUN-2026
+906577,C906577,Change Assignment - Status,previous value,new value,SPEC01,01-JUL-2026
+66258,E66258,Change Assignment - Manager,previous value,new value,SPEC02,30-MAR-2026
+72753,E72753,Change Assignment - Position,previous value,new value,SPEC01,06-MAR-2026
+46762,E46762,Change Assignment - Position,previous value,new value,SPEC02,05-MAY-2026
+60242,E60242,Change Assignment - Job,previous value,new value,SPEC01,08-FEB-2026
+79402,E79402,Change Assignment - Manager,previous value,new value,SPEC03,08-FEB-2026
+51171,E51171,Change Assignment - Position,previous value,new value,SPEC03,09-MAR-2026
+51613,E51613,Change Assignment - Position,previous value,new value,SPEC03,24-JUL-2026
+42235,E42235,Change Assignment - Job,previous value,new value,SPEC01,18-MAY-2026
+62575,E62575,Change Assignment - Position,previous value,new value,SPEC04,22-MAR-2026
+45790,E45790,Change Assignment - Job,previous value,new value,SPEC02,09-MAR-2026
+69391,E69391,Change Assignment - Manager,previous value,new value,SPEC03,11-JUN-2026
+45893,E45893,Change Assignment - Position,previous value,new value,SPEC04,15-JUL-2026
+43058,E43058,Change Assignment - Job,previous value,new value,SPEC03,29-APR-2026
+71611,E71611,Change Assignment - Position,previous value,new value,SPEC03,01-JUN-2026
+67978,E67978,Change Assignment - Manager,previous value,new value,SPEC04,20-APR-2026
+50346,E50346,Change Assignment - Job,previous value,new value,SPEC03,20-APR-2026
+76766,E76766,Change Assignment - Manager,previous value,new value,SPEC03,28-JUN-2026
+68661,E68661,Change Assignment - Job,previous value,new value,SPEC01,12-JUL-2026
+66217,E66217,Change Assignment - Manager,previous value,new value,SPEC02,11-JUN-2026
+57384,E57384,Change Assignment - Manager,previous value,new value,SPEC04,17-JUL-2026
+906885,C906885,Change Assignment - Manager,previous value,new value,SPEC03,25-FEB-2026
+40251,E40251,Change Assignment - Manager,previous value,new value,SPEC02,03-JUN-2026
+62533,E62533,Change Assignment - Position,previous value,new value,SPEC04,25-MAR-2026
+45623,E45623,Change Assignment - Position,previous value,new value,SPEC03,13-FEB-2026
+81121,E81121,Change Assignment - Position,previous value,new value,SPEC01,06-MAY-2026
+48436,E48436,Change Assignment - Status,previous value,new value,SPEC01,10-JUL-2026
+50113,E50113,Change Assignment - Status,previous value,new value,SPEC03,05-JUN-2026
+78158,E78158,Change Assignment - Job,previous value,new value,SPEC02,21-APR-2026
+67990,E67990,Change Assignment - Manager,previous value,new value,SPEC03,26-APR-2026
+71004,E71004,Change Assignment - Status,previous value,new value,SPEC02,24-FEB-2026
+81715,E81715,Change Assignment - Manager,previous value,new value,SPEC01,01-JUL-2026
+81959,E81959,Change Assignment - Manager,previous value,new value,SPEC01,28-APR-2026
+906704,C906704,Change Assignment - Manager,previous value,new value,SPEC03,26-FEB-2026
+55589,E55589,Change Assignment - Manager,previous value,new value,SPEC01,23-JUL-2026
+66607,E66607,Change Assignment - Job,previous value,new value,SPEC01,17-MAR-2026
+57809,E57809,Change Assignment - Status,previous value,new value,SPEC04,10-MAR-2026
+53244,E53244,Change Assignment - Status,previous value,new value,SPEC01,28-APR-2026
+60184,E60184,Change Assignment - Position,previous value,new value,SPEC01,31-MAR-2026
+68442,E68442,Change Assignment - Position,previous value,new value,SPEC02,30-APR-2026
+46559,E46559,Change Assignment - Job,previous value,new value,SPEC03,20-JUL-2026
+907269,C907269,Change Assignment - Status,previous value,new value,SPEC04,06-MAY-2026
+46961,E46961,Change Assignment - Position,previous value,new value,SPEC04,05-MAR-2026
+64280,E64280,Change Assignment - Position,previous value,new value,SPEC02,04-MAR-2026
+44345,E44345,Change Assignment - Manager,previous value,new value,SPEC01,05-JUN-2026
+71494,E71494,Change Assignment - Job,previous value,new value,SPEC01,12-FEB-2026
+69846,E69846,Change Assignment - Position,previous value,new value,SPEC02,22-MAR-2026
+68582,E68582,Change Assignment - Manager,previous value,new value,SPEC02,20-MAY-2026
+48506,E48506,Change Assignment - Job,previous value,new value,SPEC01,11-MAY-2026
+76479,E76479,Change Assignment - Job,previous value,new value,SPEC02,09-JUL-2026
+65996,E65996,Change Assignment - Manager,previous value,new value,SPEC03,25-MAR-2026
+82545,E82545,Change Assignment - Position,previous value,new value,SPEC04,17-FEB-2026
+61182,E61182,Change Assignment - Job,previous value,new value,SPEC04,06-MAY-2026
+78961,E78961,Change Assignment - Manager,previous value,new value,SPEC01,15-JUL-2026
+45155,E45155,Change Assignment - Status,previous value,new value,SPEC03,17-APR-2026
+64185,E64185,Change Assignment - Job,previous value,new value,SPEC04,28-JUN-2026
+75969,E75969,Change Assignment - Position,previous value,new value,SPEC03,27-MAY-2026
+79629,E79629,Change Assignment - Job,previous value,new value,SPEC04,26-FEB-2026
+46228,E46228,Change Assignment - Manager,previous value,new value,SPEC02,04-FEB-2026
+60985,E60985,Change Assignment - Job,previous value,new value,SPEC02,19-MAR-2026
